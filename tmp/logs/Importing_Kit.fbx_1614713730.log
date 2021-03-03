@@ -1,0 +1,35 @@
+[21:35:30.671196] [Import] [info] (th=26752) Log level for 'Import' set to 'info'
+[21:35:30.671211] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Kit.fbx
+[21:35:30.672492] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "Wall_Bevel_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e282ea00"
+	 name: "Mesh.123"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+
+[21:35:30.672501] [Import] [info] (th=26752) File loaded successfully
+[21:35:30.672512] [Import] [info] (th=26752) Meshes count: 1
+[21:35:30.672513] [Import] [info] (th=26752) Materials count: 1
+[21:35:30.672580] [Import] [info] (th=26752) Textures count (imported): 0
+[21:38:08.627100] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Kit.fbx
+[21:38:08.631912] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "Wall_Bevel_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0d64600"
+	 name: "Mesh.123"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+
+[21:38:08.632809] [Import] [info] (th=26752) File loaded successfully
+[21:38:08.632819] [Import] [info] (th=26752) Meshes count: 1
+[21:38:08.632821] [Import] [info] (th=26752) Materials count: 1
+[21:38:08.638676] [Import] [info] (th=26752) Textures count (imported): 1

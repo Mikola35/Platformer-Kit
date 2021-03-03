@@ -1,0 +1,52 @@
+[23:47:00.442469] [Import] [info] (th=26752) Log level for 'Import' set to 'info'
+[23:47:00.442487] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/crystal.fbx
+[23:47:00.443669] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "Crystal_01"
+	numMeshes: 1
+	 addr: "0x7fe6e9fd6800"
+	 name: "Mesh.085"
+	 numVertices: "84"
+	 numFaces: "52"
+	
+	
+
+[23:47:00.443676] [Import] [info] (th=26752) File loaded successfully
+[23:47:00.443689] [Import] [info] (th=26752) Meshes count: 1
+[23:47:00.443690] [Import] [info] (th=26752) Materials count: 1
+[23:47:00.443705] [Import] [warning] (th=26752) It seems that scene structure is different
+[23:48:37.551135] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/crystal 2.fbx
+[23:48:37.552743] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "Crystal_02"
+	numMeshes: 1
+	 addr: "0x7fe6dbfc1a00"
+	 name: "Mesh.086"
+	 numVertices: "90"
+	 numFaces: "56"
+	
+	
+
+[23:48:37.552751] [Import] [info] (th=26752) File loaded successfully
+[23:48:37.552758] [Import] [info] (th=26752) Meshes count: 1
+[23:48:37.552770] [Import] [info] (th=26752) Materials count: 1
+[23:48:37.552780] [Import] [warning] (th=26752) It seems that scene structure is different
+[23:48:43.169389] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/crystal 3.fbx
+[23:48:43.170288] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "Crystal_03"
+	numMeshes: 1
+	 addr: "0x7fe6e9610a00"
+	 name: "Mesh.087"
+	 numVertices: "90"
+	 numFaces: "56"
+	
+	
+
+[23:48:43.170295] [Import] [info] (th=26752) File loaded successfully
+[23:48:43.170298] [Import] [info] (th=26752) Meshes count: 1
+[23:48:43.170299] [Import] [info] (th=26752) Materials count: 1
+[23:48:43.170309] [Import] [warning] (th=26752) It seems that scene structure is different

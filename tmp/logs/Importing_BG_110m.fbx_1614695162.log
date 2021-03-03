@@ -1,0 +1,1214 @@
+[16:26:02.992919] [Import] [info] (th=26752) Log level for 'Import' set to 'info'
+[16:26:02.992938] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Meshes 2/BG_110m.fbx
+[16:26:02.999077] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "BG_110m"
+	numMeshes: 1
+	 addr: "0x7fe6db435600"
+	 name: "Mesh"
+	 numVertices: "263"
+	 numFaces: "434"
+	
+	
+
+[16:26:02.999090] [Import] [info] (th=26752) File loaded successfully
+[16:26:02.999096] [Import] [info] (th=26752) Meshes count: 1
+[16:26:02.999097] [Import] [info] (th=26752) Materials count: 1
+[16:26:02.999195] [Import] [info] (th=26752) Textures count (imported): 0
+[16:27:52.339355] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Meshes.fbx
+[16:27:52.371765] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "BG_110m"
+	numMeshes: 1
+	 addr: "0x7fe6e3ca1000"
+	 name: "Mesh"
+	 numVertices: "263"
+	 numFaces: "434"
+	
+	
+	name: "Border_1m"
+	numMeshes: 1
+	 addr: "0x7fe6e3d1b400"
+	 name: "Mesh.001"
+	 numVertices: "58"
+	 numFaces: "44"
+	
+	
+	name: "Border_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e3d23800"
+	 name: "Mesh.002"
+	 numVertices: "58"
+	 numFaces: "44"
+	
+	
+	name: "Border_Big_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e3d2bc00"
+	 name: "Mesh.003"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Border_Big_Corner_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e3d19800"
+	 name: "Mesh.004"
+	 numVertices: "78"
+	 numFaces: "66"
+	
+	
+	name: "Border_Top_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e3d3e600"
+	 name: "Mesh.005"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Box_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e3d46a00"
+	 name: "Mesh.006"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_2x1m"
+	numMeshes: 1
+	 addr: "0x7fe6e3d4ee00"
+	 name: "Mesh.007"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_2x3m"
+	numMeshes: 1
+	 addr: "0x7fe6e3d57200"
+	 name: "Mesh.008"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_05x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e3d5f600"
+	 name: "Mesh.009"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Circle_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e3d6ca00"
+	 name: "Mesh.010"
+	 numVertices: "298"
+	 numFaces: "256"
+	
+	
+	name: "Column_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e3d7e800"
+	 name: "Mesh.011"
+	 numVertices: "88"
+	 numFaces: "44"
+	
+	
+	name: "Column_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e3d89800"
+	 name: "Mesh.012"
+	 numVertices: "88"
+	 numFaces: "80"
+	
+	
+	name: "Crystal_01"
+	numMeshes: 1
+	 addr: "0x7fe6e0a18e00"
+	 name: "Mesh.013"
+	 numVertices: "84"
+	 numFaces: "52"
+	
+	
+	name: "Crystal_02"
+	numMeshes: 1
+	 addr: "0x7fe6e080fc00"
+	 name: "Mesh.014"
+	 numVertices: "90"
+	 numFaces: "56"
+	
+	
+	name: "Crystal_03"
+	numMeshes: 1
+	 addr: "0x7fe6db1f8a00"
+	 name: "Mesh.015"
+	 numVertices: "90"
+	 numFaces: "56"
+	
+	
+	name: "Door_4m"
+	numMeshes: 1
+	 addr: "0x7fe6db041600"
+	 name: "Mesh.016"
+	 numVertices: "104"
+	 numFaces: "60"
+	
+	
+	name: "Door_Round_1_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db212400"
+	 name: "Mesh.017"
+	 numVertices: "434"
+	 numFaces: "260"
+	
+	
+	name: "Foliage"
+	numMeshes: 1
+	 addr: "0x7fe6db220e00"
+	 name: "Mesh.018"
+	 numVertices: "494"
+	 numFaces: "408"
+	
+	
+	name: "HandRail_02_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db247600"
+	 name: "Mesh.019"
+	 numVertices: "234"
+	 numFaces: "184"
+	
+	
+	name: "Handrail_02_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db25f200"
+	 name: "Mesh.020"
+	 numVertices: "423"
+	 numFaces: "352"
+	
+	
+	name: "Handrail_02_Rotated"
+	numMeshes: 1
+	 addr: "0x7fe6db274c00"
+	 name: "Mesh.021"
+	 numVertices: "202"
+	 numFaces: "156"
+	
+	
+	name: "Handrail_2m"
+	numMeshes: 1
+	 addr: "0x7fe6db284c00"
+	 name: "Mesh.022"
+	 numVertices: "72"
+	 numFaces: "44"
+	
+	
+	name: "Handrail_4m"
+	numMeshes: 1
+	 addr: "0x7fe6db292600"
+	 name: "Mesh.023"
+	 numVertices: "72"
+	 numFaces: "44"
+	
+	
+	name: "Human"
+	numMeshes: 1
+	 addr: "0x7fe6db29c800"
+	 name: "Mesh.024"
+	 numVertices: "104"
+	 numFaces: "60"
+	
+	
+	name: "Key"
+	numMeshes: 1
+	 addr: "0x7fe6db2ee800"
+	 name: "Mesh.025"
+	 numVertices: "244"
+	 numFaces: "162"
+	
+	
+	name: "normal1"
+	numMeshes: 1
+	 addr: "0x7fe6db31a200"
+	 name: "normal1"
+	 numVertices: "311"
+	 numFaces: "258"
+	
+	
+	name: "LockUp"
+	numMeshes: 1
+	 addr: "0x7fe6db32a200"
+	 name: "Mesh.026"
+	 numVertices: "140"
+	 numFaces: "92"
+	
+	
+	name: "Pipe_1m"
+	numMeshes: 1
+	 addr: "0x7fe6db2a3400"
+	 name: "Mesh.027"
+	 numVertices: "168"
+	 numFaces: "160"
+	
+	
+	name: "Platform_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db2b1a00"
+	 name: "Mesh.028"
+	 numVertices: "54"
+	 numFaces: "46"
+	
+	
+	name: "Platform_End_2m"
+	numMeshes: 1
+	 addr: "0x7fe6db406200"
+	 name: "Mesh.029"
+	 numVertices: "124"
+	 numFaces: "166"
+	
+	
+	name: "Roof_Base_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db416a00"
+	 name: "Mesh.030"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Roof_bevel"
+	numMeshes: 1
+	 addr: "0x7fe6db41ee00"
+	 name: "Mesh.031"
+	 numVertices: "63"
+	 numFaces: "32"
+	
+	
+	name: "Roof_Corner_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db64de00"
+	 name: "Mesh.032"
+	 numVertices: "42"
+	 numFaces: "22"
+	
+	
+	name: "Roof_Thin"
+	numMeshes: 1
+	 addr: "0x7fe6db3e1c00"
+	 name: "Mesh.033"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "RoundRoof_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db3ea800"
+	 name: "Mesh.034"
+	 numVertices: "96"
+	 numFaces: "84"
+	
+	
+	name: "RoundRoof_Corner"
+	numMeshes: 1
+	 addr: "0x7fe6db4a3a00"
+	 name: "Mesh.035"
+	 numVertices: "178"
+	 numFaces: "240"
+	
+	
+	name: "RoundWall_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db4b8a00"
+	 name: "Mesh.036"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "RoundWall_Border"
+	numMeshes: 1
+	 addr: "0x7fe6db4c4000"
+	 name: "Mesh.037"
+	 numVertices: "78"
+	 numFaces: "68"
+	
+	
+	name: "RoundWall_BorderBig_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db657600"
+	 name: "Mesh.038"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "Steps_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e08d0c00"
+	 name: "Mesh.039"
+	 numVertices: "108"
+	 numFaces: "68"
+	
+	
+	name: "Table_2m"
+	numMeshes: 1
+	 addr: "0x7fe6db396e00"
+	 name: "Mesh.040"
+	 numVertices: "120"
+	 numFaces: "68"
+	
+	
+	name: "Trap_Base"
+	numMeshes: 1
+	 addr: "0x7fe6db396000"
+	 name: "Mesh.041"
+	 numVertices: "216"
+	 numFaces: "120"
+	
+	
+	name: "Trap_Gear_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db3ab600"
+	 name: "Mesh.042"
+	 numVertices: "1186"
+	 numFaces: "1056"
+	
+	
+	name: "Trap_Pike_1m"
+	numMeshes: 1
+	 addr: "0x7fe6db3af000"
+	 name: "Mesh.043"
+	 numVertices: "120"
+	 numFaces: "62"
+	
+	
+	name: "Tree"
+	numMeshes: 2
+	 addr: "0x7fe6e0998600"
+	 name: "Mesh.044"
+	 numVertices: "3944"
+	 numFaces: "2898"
+	
+	 addr: "0x7fe6e09a4800"
+	 name: "Mesh.044"
+	 numVertices: "1415"
+	 numFaces: "1974"
+	
+	
+	name: "Tube_2m"
+	numMeshes: 1
+	 addr: "0x7fe6db58fe00"
+	 name: "Mesh.045"
+	 numVertices: "348"
+	 numFaces: "320"
+	
+	
+	name: "Tube_4m"
+	numMeshes: 1
+	 addr: "0x7fe6db5a0400"
+	 name: "Mesh.046"
+	 numVertices: "352"
+	 numFaces: "320"
+	
+	
+	name: "Tube_Bend"
+	numMeshes: 1
+	 addr: "0x7fe6db5bbc00"
+	 name: "Mesh.047"
+	 numVertices: "642"
+	 numFaces: "880"
+	
+	
+	name: "Wall_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db5bac00"
+	 name: "Mesh.048"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Bevel_02_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db5ee800"
+	 name: "Mesh.049"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Wall_Bevel_Door_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db5f6c00"
+	 name: "Mesh.050"
+	 numVertices: "42"
+	 numFaces: "24"
+	
+	
+	name: "Wall_Bevel_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db5ff000"
+	 name: "Mesh.051"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Wall_Border_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6db608000"
+	 name: "Mesh.052"
+	 numVertices: "64"
+	 numFaces: "52"
+	
+	
+	name: "Wall_BorderThin_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db611600"
+	 name: "Mesh.053"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Corner_3m"
+	numMeshes: 1
+	 addr: "0x7fe6db619a00"
+	 name: "Mesh.054"
+	 numVertices: "26"
+	 numFaces: "14"
+	
+	
+	name: "Wall_Corner_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db623c00"
+	 name: "Mesh.055"
+	 numVertices: "88"
+	 numFaces: "76"
+	
+	
+	name: "Wall_Corner_Round_2m"
+	numMeshes: 1
+	 addr: "0x7fe6db62e800"
+	 name: "Mesh.056"
+	 numVertices: "54"
+	 numFaces: "40"
+	
+	
+	name: "Wall_Corner_Round_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db638e00"
+	 name: "Mesh.057"
+	 numVertices: "54"
+	 numFaces: "40"
+	
+	
+	name: "Wall_Corner_Sharp_2m"
+	numMeshes: 1
+	 addr: "0x7fe6db642400"
+	 name: "Mesh.058"
+	 numVertices: "40"
+	 numFaces: "20"
+	
+	
+	name: "Wall_Corner_Sharp_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0885e00"
+	 name: "Mesh.059"
+	 numVertices: "40"
+	 numFaces: "20"
+	
+	
+	name: "Wall_Door_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e088e200"
+	 name: "Mesh.060"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "Wall_Door_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0896600"
+	 name: "Mesh.061"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "Wall_Door_Round_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db308200"
+	 name: "Mesh.062"
+	 numVertices: "108"
+	 numFaces: "92"
+	
+	
+	name: "Wall_Small_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db314000"
+	 name: "Mesh.063"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Window_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0871200"
+	 name: "Mesh.064"
+	 numVertices: "48"
+	 numFaces: "32"
+	
+	
+	name: "Wall_Window_03_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0919400"
+	 name: "Mesh.065"
+	 numVertices: "96"
+	 numFaces: "72"
+	
+	
+	name: "Wall_Window_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e0925c00"
+	 name: "Mesh.066"
+	 numVertices: "48"
+	 numFaces: "32"
+	
+	
+	name: "Wall_Window_Bevel_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e091b600"
+	 name: "Mesh.067"
+	 numVertices: "76"
+	 numFaces: "56"
+	
+	
+	name: "Wall_WindowFrame_5m1"
+	numMeshes: 1
+	 addr: "0x7fe6e0822600"
+	 name: "Mesh.068"
+	 numVertices: "64"
+	 numFaces: "32"
+	
+	
+	name: "Wheel"
+	numMeshes: 1
+	 addr: "0x7fe6db560800"
+	 name: "Mesh.069"
+	 numVertices: "516"
+	 numFaces: "480"
+	
+	
+	name: "Window_1_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db577000"
+	 name: "Mesh.070"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_WindowFrame"
+	numMeshes: 1
+	 addr: "0x7fe6db57f400"
+	 name: "Mesh.071"
+	 numVertices: "64"
+	 numFaces: "32"
+	
+	
+
+[16:27:52.371782] [Import] [info] (th=26752) File loaded successfully
+[16:27:52.371787] [Import] [info] (th=26752) Meshes count: 74
+[16:27:52.371789] [Import] [info] (th=26752) Materials count: 74
+[16:27:52.374070] [Import] [info] (th=26752) Textures count (imported): 0
+[16:46:53.754691] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Meshes.fbx
+[16:46:53.786868] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "BG_110m"
+	numMeshes: 1
+	 addr: "0x7fe6e42a0a00"
+	 name: "Mesh"
+	 numVertices: "263"
+	 numFaces: "434"
+	
+	
+	name: "Border_1m"
+	numMeshes: 1
+	 addr: "0x7fe6e433de00"
+	 name: "Mesh.001"
+	 numVertices: "58"
+	 numFaces: "44"
+	
+	
+	name: "Border_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e4519600"
+	 name: "Mesh.002"
+	 numVertices: "58"
+	 numFaces: "44"
+	
+	
+	name: "Border_Big_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e4513600"
+	 name: "Mesh.003"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Border_Big_Corner_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e44a7000"
+	 name: "Mesh.004"
+	 numVertices: "78"
+	 numFaces: "66"
+	
+	
+	name: "Border_Top_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e4340e00"
+	 name: "Mesh.005"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Box_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e45dfc00"
+	 name: "Mesh.006"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_2x1m"
+	numMeshes: 1
+	 addr: "0x7fe6e45e8000"
+	 name: "Mesh.007"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_2x3m"
+	numMeshes: 1
+	 addr: "0x7fe6e45f0400"
+	 name: "Mesh.008"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_05x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e4659e00"
+	 name: "Mesh.009"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Circle_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e4666200"
+	 name: "Mesh.010"
+	 numVertices: "298"
+	 numFaces: "256"
+	
+	
+	name: "Column_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e467d400"
+	 name: "Mesh.011"
+	 numVertices: "88"
+	 numFaces: "44"
+	
+	
+	name: "Column_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e4688400"
+	 name: "Mesh.012"
+	 numVertices: "88"
+	 numFaces: "80"
+	
+	
+	name: "Crystal_01"
+	numMeshes: 1
+	 addr: "0x7fe6e4694600"
+	 name: "Mesh.013"
+	 numVertices: "84"
+	 numFaces: "52"
+	
+	
+	name: "Crystal_02"
+	numMeshes: 1
+	 addr: "0x7fe6db5e3c00"
+	 name: "Mesh.014"
+	 numVertices: "90"
+	 numFaces: "56"
+	
+	
+	name: "Crystal_03"
+	numMeshes: 1
+	 addr: "0x7fe6db173000"
+	 name: "Mesh.015"
+	 numVertices: "90"
+	 numFaces: "56"
+	
+	
+	name: "Door_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e28ac200"
+	 name: "Mesh.016"
+	 numVertices: "104"
+	 numFaces: "60"
+	
+	
+	name: "Door_Round_1_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db4e8400"
+	 name: "Mesh.017"
+	 numVertices: "434"
+	 numFaces: "260"
+	
+	
+	name: "Foliage"
+	numMeshes: 1
+	 addr: "0x7fe6db59a200"
+	 name: "Mesh.018"
+	 numVertices: "494"
+	 numFaces: "408"
+	
+	
+	name: "HandRail_02_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db5afc00"
+	 name: "Mesh.019"
+	 numVertices: "234"
+	 numFaces: "184"
+	
+	
+	name: "Handrail_02_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db054e00"
+	 name: "Mesh.020"
+	 numVertices: "423"
+	 numFaces: "352"
+	
+	
+	name: "Handrail_02_Rotated"
+	numMeshes: 1
+	 addr: "0x7fe6db304a00"
+	 name: "Mesh.021"
+	 numVertices: "202"
+	 numFaces: "156"
+	
+	
+	name: "Handrail_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e0943600"
+	 name: "Mesh.022"
+	 numVertices: "72"
+	 numFaces: "44"
+	
+	
+	name: "Handrail_4m"
+	numMeshes: 1
+	 addr: "0x7fe6db594200"
+	 name: "Mesh.023"
+	 numVertices: "72"
+	 numFaces: "44"
+	
+	
+	name: "Human"
+	numMeshes: 1
+	 addr: "0x7fe6db2e5e00"
+	 name: "Mesh.024"
+	 numVertices: "104"
+	 numFaces: "60"
+	
+	
+	name: "Key"
+	numMeshes: 1
+	 addr: "0x7fe6db463200"
+	 name: "Mesh.025"
+	 numVertices: "244"
+	 numFaces: "162"
+	
+	
+	name: "normal1"
+	numMeshes: 1
+	 addr: "0x7fe6db6da600"
+	 name: "normal1"
+	 numVertices: "311"
+	 numFaces: "258"
+	
+	
+	name: "LockUp"
+	numMeshes: 1
+	 addr: "0x7fe6db5c1c00"
+	 name: "Mesh.026"
+	 numVertices: "140"
+	 numFaces: "92"
+	
+	
+	name: "Pipe_1m"
+	numMeshes: 1
+	 addr: "0x7fe6db4f1800"
+	 name: "Mesh.027"
+	 numVertices: "168"
+	 numFaces: "160"
+	
+	
+	name: "Platform_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db501a00"
+	 name: "Mesh.028"
+	 numVertices: "54"
+	 numFaces: "46"
+	
+	
+	name: "Platform_End_2m"
+	numMeshes: 1
+	 addr: "0x7fe6db509200"
+	 name: "Mesh.029"
+	 numVertices: "124"
+	 numFaces: "166"
+	
+	
+	name: "Roof_Base_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db519a00"
+	 name: "Mesh.030"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Roof_bevel"
+	numMeshes: 1
+	 addr: "0x7fe6db521e00"
+	 name: "Mesh.031"
+	 numVertices: "63"
+	 numFaces: "32"
+	
+	
+	name: "Roof_Corner_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db52a200"
+	 name: "Mesh.032"
+	 numVertices: "42"
+	 numFaces: "22"
+	
+	
+	name: "Roof_Thin"
+	numMeshes: 1
+	 addr: "0x7fe6db532600"
+	 name: "Mesh.033"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "RoundRoof_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0954800"
+	 name: "Mesh.034"
+	 numVertices: "96"
+	 numFaces: "84"
+	
+	
+	name: "RoundRoof_Corner"
+	numMeshes: 1
+	 addr: "0x7fe6e24e3a00"
+	 name: "Mesh.035"
+	 numVertices: "178"
+	 numFaces: "240"
+	
+	
+	name: "RoundWall_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db5d5800"
+	 name: "Mesh.036"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "RoundWall_Border"
+	numMeshes: 1
+	 addr: "0x7fe6db44e400"
+	 name: "Mesh.037"
+	 numVertices: "78"
+	 numFaces: "68"
+	
+	
+	name: "RoundWall_BorderBig_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6db53c600"
+	 name: "Mesh.038"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "Steps_3m"
+	numMeshes: 1
+	 addr: "0x7fe6db54de00"
+	 name: "Mesh.039"
+	 numVertices: "108"
+	 numFaces: "68"
+	
+	
+	name: "Table_2m"
+	numMeshes: 1
+	 addr: "0x7fe6db559600"
+	 name: "Mesh.040"
+	 numVertices: "120"
+	 numFaces: "68"
+	
+	
+	name: "Trap_Base"
+	numMeshes: 1
+	 addr: "0x7fe6db558e00"
+	 name: "Mesh.041"
+	 numVertices: "216"
+	 numFaces: "120"
+	
+	
+	name: "Trap_Gear_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e08f4200"
+	 name: "Mesh.042"
+	 numVertices: "1186"
+	 numFaces: "1056"
+	
+	
+	name: "Trap_Pike_1m"
+	numMeshes: 1
+	 addr: "0x7fe6db3f8600"
+	 name: "Mesh.043"
+	 numVertices: "120"
+	 numFaces: "62"
+	
+	
+	name: "Tree"
+	numMeshes: 2
+	 addr: "0x7fe6db1caa00"
+	 name: "Mesh.044"
+	 numVertices: "3944"
+	 numFaces: "2898"
+	
+	 addr: "0x7fe6db1d9a00"
+	 name: "Mesh.044"
+	 numVertices: "1415"
+	 numFaces: "1974"
+	
+	
+	name: "Tube_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e277b800"
+	 name: "Mesh.045"
+	 numVertices: "348"
+	 numFaces: "320"
+	
+	
+	name: "Tube_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e278be00"
+	 name: "Mesh.046"
+	 numVertices: "352"
+	 numFaces: "320"
+	
+	
+	name: "Tube_Bend"
+	numMeshes: 1
+	 addr: "0x7fe6e27a7600"
+	 name: "Mesh.047"
+	 numVertices: "642"
+	 numFaces: "880"
+	
+	
+	name: "Wall_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e27a6600"
+	 name: "Mesh.048"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Bevel_02_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e27da200"
+	 name: "Mesh.049"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Wall_Bevel_Door_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e27e2600"
+	 name: "Mesh.050"
+	 numVertices: "42"
+	 numFaces: "24"
+	
+	
+	name: "Wall_Bevel_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e27eaa00"
+	 name: "Mesh.051"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Wall_Border_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e27f3a00"
+	 name: "Mesh.052"
+	 numVertices: "64"
+	 numFaces: "52"
+	
+	
+	name: "Wall_BorderThin_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e2677e00"
+	 name: "Mesh.053"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Corner_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e2680200"
+	 name: "Mesh.054"
+	 numVertices: "26"
+	 numFaces: "14"
+	
+	
+	name: "Wall_Corner_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e268a400"
+	 name: "Mesh.055"
+	 numVertices: "88"
+	 numFaces: "76"
+	
+	
+	name: "Wall_Corner_Round_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e2695000"
+	 name: "Mesh.056"
+	 numVertices: "54"
+	 numFaces: "40"
+	
+	
+	name: "Wall_Corner_Round_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e269f600"
+	 name: "Mesh.057"
+	 numVertices: "54"
+	 numFaces: "40"
+	
+	
+	name: "Wall_Corner_Sharp_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e26a8c00"
+	 name: "Mesh.058"
+	 numVertices: "40"
+	 numFaces: "20"
+	
+	
+	name: "Wall_Corner_Sharp_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e26b1000"
+	 name: "Mesh.059"
+	 numVertices: "40"
+	 numFaces: "20"
+	
+	
+	name: "Wall_Door_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e26b9400"
+	 name: "Mesh.060"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "Wall_Door_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e26c1800"
+	 name: "Mesh.061"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "Wall_Door_Round_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e26ccc00"
+	 name: "Mesh.062"
+	 numVertices: "108"
+	 numFaces: "92"
+	
+	
+	name: "Wall_Small_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e26d8a00"
+	 name: "Mesh.063"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Window_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e26e0e00"
+	 name: "Mesh.064"
+	 numVertices: "48"
+	 numFaces: "32"
+	
+	
+	name: "Wall_Window_03_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e26e8a00"
+	 name: "Mesh.065"
+	 numVertices: "96"
+	 numFaces: "72"
+	
+	
+	name: "Wall_Window_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e26f5200"
+	 name: "Mesh.066"
+	 numVertices: "48"
+	 numFaces: "32"
+	
+	
+	name: "Wall_Window_Bevel_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e26eac00"
+	 name: "Mesh.067"
+	 numVertices: "76"
+	 numFaces: "56"
+	
+	
+	name: "Wall_WindowFrame_5m1"
+	numMeshes: 1
+	 addr: "0x7fe6e2707c00"
+	 name: "Mesh.068"
+	 numVertices: "64"
+	 numFaces: "32"
+	
+	
+	name: "Wheel"
+	numMeshes: 1
+	 addr: "0x7fe6e2717c00"
+	 name: "Mesh.069"
+	 numVertices: "516"
+	 numFaces: "480"
+	
+	
+	name: "Window_1_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e272e400"
+	 name: "Mesh.070"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_WindowFrame"
+	numMeshes: 1
+	 addr: "0x7fe6e2736800"
+	 name: "Mesh.071"
+	 numVertices: "64"
+	 numFaces: "32"
+	
+	
+
+[16:46:53.786883] [Import] [info] (th=26752) File loaded successfully
+[16:46:53.786887] [Import] [info] (th=26752) Meshes count: 74
+[16:46:53.786899] [Import] [info] (th=26752) Materials count: 74
+[16:46:53.788589] [Import] [info] (th=26752) Textures count (imported): 0

@@ -1,0 +1,3902 @@
+[22:17:12.948061] [Import] [info] (th=26752) Log level for 'Import' set to 'info'
+[22:17:12.948076] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Kit.fbx
+[22:17:12.980416] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "Roof_Base_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0ce7a00"
+	 name: "Mesh.102"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Roof_Corner_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0bfc600"
+	 name: "Mesh.104"
+	 numVertices: "42"
+	 numFaces: "22"
+	
+	
+	name: "Roof_Thin"
+	numMeshes: 1
+	 addr: "0x7fe6e0de6000"
+	 name: "Mesh.105"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Roof_bevel"
+	numMeshes: 1
+	 addr: "0x7fe6e9129600"
+	 name: "Mesh.103"
+	 numVertices: "63"
+	 numFaces: "32"
+	
+	
+	name: "RoundRoof_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e915c600"
+	 name: "Mesh.106"
+	 numVertices: "96"
+	 numFaces: "84"
+	
+	
+	name: "RoundRoof_Corner"
+	numMeshes: 1
+	 addr: "0x7fe6e08e7000"
+	 name: "Mesh.107"
+	 numVertices: "178"
+	 numFaces: "240"
+	
+	
+	name: "Box_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e9397400"
+	 name: "Mesh.078"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_2x1m"
+	numMeshes: 1
+	 addr: "0x7fe6e0b1b800"
+	 name: "Mesh.079"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_2x3m"
+	numMeshes: 1
+	 addr: "0x7fe6e0b1dc00"
+	 name: "Mesh.080"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_05x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0f99000"
+	 name: "Mesh.081"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_1x3m"
+	numMeshes: 1
+	 addr: "0x7fe6e0f9b400"
+	 name: "Mesh.147"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_025x3m"
+	numMeshes: 1
+	 addr: "0x7fe6e0f9c600"
+	 name: "Mesh.148"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e9383c00"
+	 name: "Mesh.120"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Bevel_02_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e903bc00"
+	 name: "Mesh.121"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Wall_Corner_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e903e000"
+	 name: "Mesh.126"
+	 numVertices: "26"
+	 numFaces: "14"
+	
+	
+	name: "Wall_Corner_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0da4200"
+	 name: "Mesh.127"
+	 numVertices: "88"
+	 numFaces: "76"
+	
+	
+	name: "Wall_Corner_Round_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e966f800"
+	 name: "Mesh.128"
+	 numVertices: "54"
+	 numFaces: "40"
+	
+	
+	name: "Wall_Corner_Round_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e9673e00"
+	 name: "Mesh.129"
+	 numVertices: "54"
+	 numFaces: "40"
+	
+	
+	name: "Wall_Corner_Sharp_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e0ae4e00"
+	 name: "Mesh.130"
+	 numVertices: "40"
+	 numFaces: "20"
+	
+	
+	name: "Wall_Corner_Sharp_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0ae7200"
+	 name: "Mesh.131"
+	 numVertices: "40"
+	 numFaces: "20"
+	
+	
+	name: "Wall_Door_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e09d2c00"
+	 name: "Mesh.133"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "Wall_Door_Round_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e09d8000"
+	 name: "Mesh.134"
+	 numVertices: "108"
+	 numFaces: "92"
+	
+	
+	name: "Wall_Small_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0f0aa00"
+	 name: "Mesh.135"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Window_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0e73600"
+	 name: "Mesh.136"
+	 numVertices: "48"
+	 numFaces: "32"
+	
+	
+	name: "Wall_Window_03_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e087a600"
+	 name: "Mesh.137"
+	 numVertices: "96"
+	 numFaces: "72"
+	
+	
+	name: "Wall_Window_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e0ab7000"
+	 name: "Mesh.138"
+	 numVertices: "48"
+	 numFaces: "32"
+	
+	
+	name: "Wall_Window_Bevel_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0ab7c00"
+	 name: "Mesh.139"
+	 numVertices: "76"
+	 numFaces: "56"
+	
+	
+	name: "Wall_Bevel_Door_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0c5f400"
+	 name: "Mesh.122"
+	 numVertices: "42"
+	 numFaces: "24"
+	
+	
+	name: "Wall_Bevel_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0c61800"
+	 name: "Mesh.123"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Wall_Door_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e9160600"
+	 name: "Mesh.132"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "RoundWall_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e9161800"
+	 name: "Mesh.108"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "Wall_Border_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0e38200"
+	 name: "Mesh.124"
+	 numVertices: "64"
+	 numFaces: "52"
+	
+	
+	name: "Wall_BorderThin_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0e3a600"
+	 name: "Mesh.125"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Window_1_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0ed8800"
+	 name: "Mesh.142"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Circle_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e0edec00"
+	 name: "Mesh.082"
+	 numVertices: "298"
+	 numFaces: "256"
+	
+	
+	name: "Column_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0eeaa00"
+	 name: "Mesh.083"
+	 numVertices: "88"
+	 numFaces: "44"
+	
+	
+	name: "Border_1m"
+	numMeshes: 1
+	 addr: "0x7fe6e0eee000"
+	 name: "Mesh.073"
+	 numVertices: "58"
+	 numFaces: "44"
+	
+	
+	name: "Border_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0ef0400"
+	 name: "Mesh.074"
+	 numVertices: "58"
+	 numFaces: "44"
+	
+	
+	name: "Border_Big_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e0ef2800"
+	 name: "Mesh.075"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Border_Big_Corner_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e0ee7800"
+	 name: "Mesh.076"
+	 numVertices: "78"
+	 numFaces: "66"
+	
+	
+	name: "Border_Top_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0ef9200"
+	 name: "Mesh.077"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Door_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e0ef5800"
+	 name: "Mesh.088"
+	 numVertices: "104"
+	 numFaces: "60"
+	
+	
+	name: "Wall_WindowFrame_5m1"
+	numMeshes: 1
+	 addr: "0x7fe6e0effc00"
+	 name: "Mesh.140"
+	 numVertices: "64"
+	 numFaces: "32"
+	
+	
+	name: "Wall_WindowFrame"
+	numMeshes: 1
+	 addr: "0x7fe6e0f02000"
+	 name: "Mesh.143"
+	 numVertices: "64"
+	 numFaces: "32"
+	
+	
+	name: "RoundWall_Border"
+	numMeshes: 1
+	 addr: "0x7fe6e0eb7c00"
+	 name: "Mesh.109"
+	 numVertices: "78"
+	 numFaces: "68"
+	
+	
+	name: "RoundWall_BorderBig_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0eba000"
+	 name: "Mesh.110"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "Door_Round_1_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e2c8fe00"
+	 name: "Mesh.089"
+	 numVertices: "434"
+	 numFaces: "260"
+	
+	
+	name: "Column_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e0c79200"
+	 name: "Mesh.084"
+	 numVertices: "88"
+	 numFaces: "80"
+	
+	
+	name: "Handrail_02_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0c81200"
+	 name: "Mesh.092"
+	 numVertices: "423"
+	 numFaces: "352"
+	
+	
+	name: "Handrail_02_Rotated"
+	numMeshes: 1
+	 addr: "0x7fe6e0c8fa00"
+	 name: "Mesh.093"
+	 numVertices: "202"
+	 numFaces: "156"
+	
+	
+	name: "Handrail_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e0cb5000"
+	 name: "Mesh.094"
+	 numVertices: "72"
+	 numFaces: "44"
+	
+	
+	name: "Handrail_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e0cb9600"
+	 name: "Mesh.095"
+	 numVertices: "72"
+	 numFaces: "44"
+	
+	
+	name: "HandRail_02_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0cbae00"
+	 name: "Mesh.091"
+	 numVertices: "234"
+	 numFaces: "184"
+	
+	
+	name: "Steps_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e0cf9200"
+	 name: "Mesh.111"
+	 numVertices: "108"
+	 numFaces: "68"
+	
+	
+	name: "Steps_2m"
+	numMeshes: 1
+	 addr: "0x7fe6de02ea00"
+	 name: "Mesh.149"
+	 numVertices: "64"
+	 numFaces: "36"
+	
+	
+	name: "Platform_5m"
+	numMeshes: 1
+	 addr: "0x7fe6de033400"
+	 name: "Mesh.100"
+	 numVertices: "54"
+	 numFaces: "46"
+	
+	
+		name: "Platform_End_2m"
+		numMeshes: 1
+		 addr: "0x7fe6e0cc5a00"
+		 name: "Mesh.101"
+		 numVertices: "124"
+		 numFaces: "166"
+		
+		
+		name: "Platform_Start_2m"
+		numMeshes: 1
+		 addr: "0x7fe6e0db7c00"
+		 name: "Mesh.145"
+		 numVertices: "124"
+		 numFaces: "166"
+		
+		
+	name: "Crystal_01"
+	numMeshes: 1
+	 addr: "0x7fe6e0dc2600"
+	 name: "Mesh.085"
+	 numVertices: "84"
+	 numFaces: "52"
+	
+	
+	name: "Crystal_02"
+	numMeshes: 1
+	 addr: "0x7fe6e0dcf200"
+	 name: "Mesh.086"
+	 numVertices: "90"
+	 numFaces: "56"
+	
+	
+	name: "Crystal_03"
+	numMeshes: 1
+	 addr: "0x7fe6e0dffe00"
+	 name: "Mesh.087"
+	 numVertices: "90"
+	 numFaces: "56"
+	
+	
+	name: "Foliage"
+	numMeshes: 1
+	 addr: "0x7fe6e0e0a000"
+	 name: "Mesh.090"
+	 numVertices: "494"
+	 numFaces: "408"
+	
+	
+	name: "Tree"
+	numMeshes: 1
+	 addr: "0x7fe6e0e96c00"
+	 name: "Mesh.116"
+	 numVertices: "1346"
+	 numFaces: "1974"
+	
+	
+		name: "Tree_Leaves"
+		numMeshes: 1
+		 addr: "0x7fe6dcd65600"
+		 name: "Mesh.144"
+		 numVertices: "3864"
+		 numFaces: "2898"
+		
+		
+	name: "Foliage.001"
+	numMeshes: 1
+	 addr: "0x7fe6dca76000"
+	 name: "Mesh.001"
+	 numVertices: "435"
+	 numFaces: "357"
+	
+	
+	name: "Foliage.002"
+	numMeshes: 1
+	 addr: "0x7fe6dcabf400"
+	 name: "Mesh.002"
+	 numVertices: "435"
+	 numFaces: "357"
+	
+	
+	name: "Tube_2m"
+	numMeshes: 1
+	 addr: "0x7fe6dcebe600"
+	 name: "Mesh.117"
+	 numVertices: "348"
+	 numFaces: "320"
+	
+	
+	name: "Tube_4m"
+	numMeshes: 1
+	 addr: "0x7fe6dbd76a00"
+	 name: "Mesh.118"
+	 numVertices: "352"
+	 numFaces: "320"
+	
+	
+	name: "Tube_Bend"
+	numMeshes: 1
+	 addr: "0x7fe6dbac8e00"
+	 name: "Mesh.119"
+	 numVertices: "642"
+	 numFaces: "880"
+	
+	
+	name: "Trap_Gear_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6dcf40200"
+	 name: "Mesh.114"
+	 numVertices: "1186"
+	 numFaces: "1056"
+	
+	
+	name: "Trap_Base"
+	numMeshes: 1
+	 addr: "0x7fe6dbaea800"
+	 name: "Mesh.113"
+	 numVertices: "216"
+	 numFaces: "120"
+	
+	
+		name: "Trap_Pike_1m"
+		numMeshes: 1
+		 addr: "0x7fe6dbea5600"
+		 name: "Mesh.115"
+		 numVertices: "120"
+		 numFaces: "62"
+		
+		
+	name: "Wheel_Big"
+	numMeshes: 1
+	 addr: "0x7fe6dbeb0800"
+	 name: "Mesh.141"
+	 numVertices: "516"
+	 numFaces: "480"
+	
+	
+	name: "Lock"
+	numMeshes: 1
+	 addr: "0x7fe6dbc09a00"
+	 name: "Lock"
+	 numVertices: "311"
+	 numFaces: "258"
+	
+	
+		name: "Key"
+		numMeshes: 1
+		 addr: "0x7fe6dbf6da00"
+		 name: "Mesh.097"
+		 numVertices: "244"
+		 numFaces: "162"
+		
+		
+		name: "Lock_Deadbolt"
+		numMeshes: 1
+		 addr: "0x7fe6dcd76c00"
+		 name: "Mesh.098"
+		 numVertices: "140"
+		 numFaces: "92"
+		
+		
+	name: "Wheel_Small"
+	numMeshes: 1
+	 addr: "0x7fe6dcd7dc00"
+	 name: "Mesh.146"
+	 numVertices: "516"
+	 numFaces: "480"
+	
+	
+	name: "Table_2m"
+	numMeshes: 1
+	 addr: "0x7fe6dbda3800"
+	 name: "Mesh.112"
+	 numVertices: "120"
+	 numFaces: "68"
+	
+	
+	name: "Pipe_1m"
+	numMeshes: 1
+	 addr: "0x7fe6dbdabc00"
+	 name: "Mesh.099"
+	 numVertices: "168"
+	 numFaces: "160"
+	
+	
+	name: "BG_110m"
+	numMeshes: 1
+	 addr: "0x7fe6dcd3be00"
+	 name: "Mesh"
+	 numVertices: "263"
+	 numFaces: "434"
+	
+	
+	name: "Human"
+	numMeshes: 1
+	 addr: "0x7fe6dbe84600"
+	 name: "Mesh.096"
+	 numVertices: "104"
+	 numFaces: "60"
+	
+	
+
+[22:17:12.980434] [Import] [info] (th=26752) File loaded successfully
+[22:17:12.980439] [Import] [info] (th=26752) Meshes count: 81
+[22:17:12.980440] [Import] [info] (th=26752) Materials count: 16
+[22:17:12.981134] [Import] [info] (th=26752) Textures count (imported): 5
+[22:38:55.651018] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Kit.fbx
+[22:38:55.684613] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "Roof_Base_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e830fa00"
+	 name: "Mesh.102"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Roof_Corner_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e4077800"
+	 name: "Mesh.104"
+	 numVertices: "42"
+	 numFaces: "22"
+	
+	
+	name: "Roof_Thin"
+	numMeshes: 1
+	 addr: "0x7fe6e839b600"
+	 name: "Mesh.105"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Roof_bevel"
+	numMeshes: 1
+	 addr: "0x7fe6e4123600"
+	 name: "Mesh.103"
+	 numVertices: "63"
+	 numFaces: "32"
+	
+	
+	name: "RoundRoof_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e40a8400"
+	 name: "Mesh.106"
+	 numVertices: "96"
+	 numFaces: "84"
+	
+	
+	name: "RoundRoof_Corner"
+	numMeshes: 1
+	 addr: "0x7fe6e8493800"
+	 name: "Mesh.107"
+	 numVertices: "178"
+	 numFaces: "240"
+	
+	
+	name: "Box_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e8697000"
+	 name: "Mesh.078"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_2x1m"
+	numMeshes: 1
+	 addr: "0x7fe6e40e6800"
+	 name: "Mesh.079"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_2x3m"
+	numMeshes: 1
+	 addr: "0x7fe6e429ce00"
+	 name: "Mesh.080"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_05x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e429f200"
+	 name: "Mesh.081"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_1x3m"
+	numMeshes: 1
+	 addr: "0x7fe6e477d200"
+	 name: "Mesh.147"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_025x3m"
+	numMeshes: 1
+	 addr: "0x7fe6e477f600"
+	 name: "Mesh.148"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e4780800"
+	 name: "Mesh.120"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Bevel_02_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e4162000"
+	 name: "Mesh.121"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Wall_Corner_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e416c600"
+	 name: "Mesh.126"
+	 numVertices: "26"
+	 numFaces: "14"
+	
+	
+	name: "Wall_Corner_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e416d400"
+	 name: "Mesh.127"
+	 numVertices: "88"
+	 numFaces: "76"
+	
+	
+	name: "Wall_Corner_Round_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e437b600"
+	 name: "Mesh.128"
+	 numVertices: "54"
+	 numFaces: "40"
+	
+	
+	name: "Wall_Corner_Round_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e411da00"
+	 name: "Mesh.129"
+	 numVertices: "54"
+	 numFaces: "40"
+	
+	
+	name: "Wall_Corner_Sharp_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e411fe00"
+	 name: "Mesh.130"
+	 numVertices: "40"
+	 numFaces: "20"
+	
+	
+	name: "Wall_Corner_Sharp_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e44dfc00"
+	 name: "Mesh.131"
+	 numVertices: "40"
+	 numFaces: "20"
+	
+	
+	name: "Wall_Door_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e44e2000"
+	 name: "Mesh.133"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "Wall_Door_Round_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e451f000"
+	 name: "Mesh.134"
+	 numVertices: "108"
+	 numFaces: "92"
+	
+	
+	name: "Wall_Small_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e83f6400"
+	 name: "Mesh.135"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Window_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e83f7600"
+	 name: "Mesh.136"
+	 numVertices: "48"
+	 numFaces: "32"
+	
+	
+	name: "Wall_Window_03_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e416f200"
+	 name: "Mesh.137"
+	 numVertices: "96"
+	 numFaces: "72"
+	
+	
+	name: "Wall_Window_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e8511200"
+	 name: "Mesh.138"
+	 numVertices: "48"
+	 numFaces: "32"
+	
+	
+	name: "Wall_Window_Bevel_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e8514200"
+	 name: "Mesh.139"
+	 numVertices: "76"
+	 numFaces: "56"
+	
+	
+	name: "Wall_Bevel_Door_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e40a1800"
+	 name: "Mesh.122"
+	 numVertices: "42"
+	 numFaces: "24"
+	
+	
+	name: "Wall_Bevel_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e40a3c00"
+	 name: "Mesh.123"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Wall_Door_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e8270a00"
+	 name: "Mesh.132"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "RoundWall_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e8271c00"
+	 name: "Mesh.108"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "Wall_Border_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e82c4000"
+	 name: "Mesh.124"
+	 numVertices: "64"
+	 numFaces: "52"
+	
+	
+	name: "Wall_BorderThin_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e82c7600"
+	 name: "Mesh.125"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Window_1_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e82c9a00"
+	 name: "Mesh.142"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Circle_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e4004a00"
+	 name: "Mesh.082"
+	 numVertices: "298"
+	 numFaces: "256"
+	
+	
+	name: "Column_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e4741600"
+	 name: "Mesh.083"
+	 numVertices: "88"
+	 numFaces: "44"
+	
+	
+	name: "Border_1m"
+	numMeshes: 1
+	 addr: "0x7fe6e400e000"
+	 name: "Mesh.073"
+	 numVertices: "58"
+	 numFaces: "44"
+	
+	
+	name: "Border_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e4010400"
+	 name: "Mesh.074"
+	 numVertices: "58"
+	 numFaces: "44"
+	
+	
+	name: "Border_Big_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e4012800"
+	 name: "Mesh.075"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Border_Big_Corner_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e4013a00"
+	 name: "Mesh.076"
+	 numVertices: "78"
+	 numFaces: "66"
+	
+	
+	name: "Border_Top_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e8480200"
+	 name: "Mesh.077"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Door_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e8482000"
+	 name: "Mesh.088"
+	 numVertices: "104"
+	 numFaces: "60"
+	
+	
+	name: "Wall_WindowFrame_5m1"
+	numMeshes: 1
+	 addr: "0x7fe6e8618600"
+	 name: "Mesh.140"
+	 numVertices: "64"
+	 numFaces: "32"
+	
+	
+	name: "Wall_WindowFrame"
+	numMeshes: 1
+	 addr: "0x7fe6e861aa00"
+	 name: "Mesh.143"
+	 numVertices: "64"
+	 numFaces: "32"
+	
+	
+	name: "RoundWall_Border"
+	numMeshes: 1
+	 addr: "0x7fe6e4668a00"
+	 name: "Mesh.109"
+	 numVertices: "78"
+	 numFaces: "68"
+	
+	
+	name: "RoundWall_BorderBig_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e8403e00"
+	 name: "Mesh.110"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "Door_Round_1_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e457c000"
+	 name: "Mesh.089"
+	 numVertices: "434"
+	 numFaces: "260"
+	
+	
+	name: "Column_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e44bd400"
+	 name: "Mesh.084"
+	 numVertices: "88"
+	 numFaces: "80"
+	
+	
+	name: "Handrail_02_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e44cb200"
+	 name: "Mesh.092"
+	 numVertices: "423"
+	 numFaces: "352"
+	
+	
+	name: "Handrail_02_Rotated"
+	numMeshes: 1
+	 addr: "0x7fe6e44d9a00"
+	 name: "Mesh.093"
+	 numVertices: "202"
+	 numFaces: "156"
+	
+	
+	name: "Handrail_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e86b2c00"
+	 name: "Mesh.094"
+	 numVertices: "72"
+	 numFaces: "44"
+	
+	
+	name: "Handrail_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e86b7200"
+	 name: "Mesh.095"
+	 numVertices: "72"
+	 numFaces: "44"
+	
+	
+	name: "HandRail_02_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e86b8a00"
+	 name: "Mesh.091"
+	 numVertices: "234"
+	 numFaces: "184"
+	
+	
+	name: "Steps_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e86c7200"
+	 name: "Mesh.111"
+	 numVertices: "108"
+	 numFaces: "68"
+	
+	
+	name: "Steps_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e86cbe00"
+	 name: "Mesh.149"
+	 numVertices: "64"
+	 numFaces: "36"
+	
+	
+	name: "Platform_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e86d3000"
+	 name: "Mesh.100"
+	 numVertices: "54"
+	 numFaces: "46"
+	
+	
+		name: "Platform_End_2m"
+		numMeshes: 1
+		 addr: "0x7fe6e86d4800"
+		 name: "Mesh.101"
+		 numVertices: "124"
+		 numFaces: "166"
+		
+		
+		name: "Platform_Start_2m"
+		numMeshes: 1
+		 addr: "0x7fe6e827ae00"
+		 name: "Mesh.145"
+		 numVertices: "124"
+		 numFaces: "166"
+		
+		
+	name: "Crystal_01"
+	numMeshes: 1
+	 addr: "0x7fe6e8285800"
+	 name: "Mesh.085"
+	 numVertices: "84"
+	 numFaces: "52"
+	
+	
+	name: "Crystal_02"
+	numMeshes: 1
+	 addr: "0x7fe6e86a1600"
+	 name: "Mesh.086"
+	 numVertices: "90"
+	 numFaces: "56"
+	
+	
+	name: "Crystal_03"
+	numMeshes: 1
+	 addr: "0x7fe6e8298400"
+	 name: "Mesh.087"
+	 numVertices: "90"
+	 numFaces: "56"
+	
+	
+	name: "Foliage"
+	numMeshes: 1
+	 addr: "0x7fe6e82a1a00"
+	 name: "Mesh.090"
+	 numVertices: "494"
+	 numFaces: "408"
+	
+	
+	name: "Tree"
+	numMeshes: 1
+	 addr: "0x7fe6e82a2e00"
+	 name: "Mesh.116"
+	 numVertices: "1346"
+	 numFaces: "1974"
+	
+	
+		name: "Tree_Leaves"
+		numMeshes: 1
+		 addr: "0x7fe6e0b1f400"
+		 name: "Mesh.144"
+		 numVertices: "3864"
+		 numFaces: "2898"
+		
+		
+	name: "Foliage.001"
+	numMeshes: 1
+	 addr: "0x7fe6e2803000"
+	 name: "Mesh.001"
+	 numVertices: "435"
+	 numFaces: "357"
+	
+	
+	name: "Foliage.002"
+	numMeshes: 1
+	 addr: "0x7fe6e2c81800"
+	 name: "Mesh.002"
+	 numVertices: "435"
+	 numFaces: "357"
+	
+	
+	name: "Tube_2m"
+	numMeshes: 1
+	 addr: "0x7fe6ca954c00"
+	 name: "Mesh.117"
+	 numVertices: "348"
+	 numFaces: "320"
+	
+	
+	name: "Tube_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e2b12800"
+	 name: "Mesh.118"
+	 numVertices: "352"
+	 numFaces: "320"
+	
+	
+	name: "Tube_Bend"
+	numMeshes: 1
+	 addr: "0x7fe6e9e76200"
+	 name: "Mesh.119"
+	 numVertices: "642"
+	 numFaces: "880"
+	
+	
+	name: "Trap_Gear_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e9669800"
+	 name: "Mesh.114"
+	 numVertices: "1186"
+	 numFaces: "1056"
+	
+	
+	name: "Trap_Base"
+	numMeshes: 1
+	 addr: "0x7fe6ca976a00"
+	 name: "Mesh.113"
+	 numVertices: "216"
+	 numFaces: "120"
+	
+	
+		name: "Trap_Pike_1m"
+		numMeshes: 1
+		 addr: "0x7fe6ca97be00"
+		 name: "Mesh.115"
+		 numVertices: "120"
+		 numFaces: "62"
+		
+		
+	name: "Wheel_Big"
+	numMeshes: 1
+	 addr: "0x7fe6ca987000"
+	 name: "Mesh.141"
+	 numVertices: "516"
+	 numFaces: "480"
+	
+	
+	name: "Lock"
+	numMeshes: 1
+	 addr: "0x7fe6ca9a2800"
+	 name: "Lock"
+	 numVertices: "311"
+	 numFaces: "258"
+	
+	
+		name: "Key"
+		numMeshes: 1
+		 addr: "0x7fe6ca9b5000"
+		 name: "Mesh.097"
+		 numVertices: "244"
+		 numFaces: "162"
+		
+		
+		name: "Lock_Deadbolt"
+		numMeshes: 1
+		 addr: "0x7fe6e96d0800"
+		 name: "Mesh.098"
+		 numVertices: "140"
+		 numFaces: "92"
+		
+		
+	name: "Wheel_Small"
+	numMeshes: 1
+	 addr: "0x7fe6e96de200"
+	 name: "Mesh.146"
+	 numVertices: "516"
+	 numFaces: "480"
+	
+	
+	name: "Table_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e96ee600"
+	 name: "Mesh.112"
+	 numVertices: "120"
+	 numFaces: "68"
+	
+	
+	name: "Pipe_1m"
+	numMeshes: 1
+	 addr: "0x7fe6e96f4600"
+	 name: "Mesh.099"
+	 numVertices: "168"
+	 numFaces: "160"
+	
+	
+	name: "BG_110m"
+	numMeshes: 1
+	 addr: "0x7fe6e96fbe00"
+	 name: "Mesh"
+	 numVertices: "263"
+	 numFaces: "434"
+	
+	
+	name: "Human"
+	numMeshes: 1
+	 addr: "0x7fe6e971a600"
+	 name: "Mesh.096"
+	 numVertices: "104"
+	 numFaces: "60"
+	
+	
+
+[22:38:55.684647] [Import] [info] (th=26752) File loaded successfully
+[22:38:55.684652] [Import] [info] (th=26752) Meshes count: 81
+[22:38:55.684654] [Import] [info] (th=26752) Materials count: 16
+[22:38:55.685464] [Import] [info] (th=26752) Textures count (imported): 5
+[22:40:25.693367] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Kit.fbx
+[22:40:25.724428] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "Roof_Base_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e2ba2800"
+	 name: "Mesh.102"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Roof_Corner_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e9984600"
+	 name: "Mesh.104"
+	 numVertices: "42"
+	 numFaces: "22"
+	
+	
+	name: "Roof_Thin"
+	numMeshes: 1
+	 addr: "0x7fe6e99b1c00"
+	 name: "Mesh.105"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Roof_bevel"
+	numMeshes: 1
+	 addr: "0x7fe6e99b2800"
+	 name: "Mesh.103"
+	 numVertices: "63"
+	 numFaces: "32"
+	
+	
+	name: "RoundRoof_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0a06600"
+	 name: "Mesh.106"
+	 numVertices: "96"
+	 numFaces: "84"
+	
+	
+	name: "RoundRoof_Corner"
+	numMeshes: 1
+	 addr: "0x7fe6e9db4200"
+	 name: "Mesh.107"
+	 numVertices: "178"
+	 numFaces: "240"
+	
+	
+	name: "Box_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e9700800"
+	 name: "Mesh.078"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_2x1m"
+	numMeshes: 1
+	 addr: "0x7fe6e928ae00"
+	 name: "Mesh.079"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_2x3m"
+	numMeshes: 1
+	 addr: "0x7fe6ca9b9e00"
+	 name: "Mesh.080"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_05x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e29d4400"
+	 name: "Mesh.081"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_1x3m"
+	numMeshes: 1
+	 addr: "0x7fe6e29d6800"
+	 name: "Mesh.147"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Box_025x3m"
+	numMeshes: 1
+	 addr: "0x7fe6e29d8c00"
+	 name: "Mesh.148"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e96e7a00"
+	 name: "Mesh.120"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Bevel_02_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e96e9e00"
+	 name: "Mesh.121"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Wall_Corner_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e96eb000"
+	 name: "Mesh.126"
+	 numVertices: "26"
+	 numFaces: "14"
+	
+	
+	name: "Wall_Corner_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e9708600"
+	 name: "Mesh.127"
+	 numVertices: "88"
+	 numFaces: "76"
+	
+	
+	name: "Wall_Corner_Round_2m"
+	numMeshes: 1
+	 addr: "0x7fe6ca984200"
+	 name: "Mesh.128"
+	 numVertices: "54"
+	 numFaces: "40"
+	
+	
+	name: "Wall_Corner_Round_5m"
+	numMeshes: 1
+	 addr: "0x7fe6ca972000"
+	 name: "Mesh.129"
+	 numVertices: "54"
+	 numFaces: "40"
+	
+	
+	name: "Wall_Corner_Sharp_2m"
+	numMeshes: 1
+	 addr: "0x7fe6ca975600"
+	 name: "Mesh.130"
+	 numVertices: "40"
+	 numFaces: "20"
+	
+	
+	name: "Wall_Corner_Sharp_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e92a3400"
+	 name: "Mesh.131"
+	 numVertices: "40"
+	 numFaces: "20"
+	
+	
+	name: "Wall_Door_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e92a5800"
+	 name: "Mesh.133"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "Wall_Door_Round_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e9736400"
+	 name: "Mesh.134"
+	 numVertices: "108"
+	 numFaces: "92"
+	
+	
+	name: "Wall_Small_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0913000"
+	 name: "Mesh.135"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Window_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e0915400"
+	 name: "Mesh.136"
+	 numVertices: "48"
+	 numFaces: "32"
+	
+	
+	name: "Wall_Window_03_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e9707600"
+	 name: "Mesh.137"
+	 numVertices: "96"
+	 numFaces: "72"
+	
+	
+	name: "Wall_Window_3m"
+	numMeshes: 1
+	 addr: "0x7fe6ca966e00"
+	 name: "Mesh.138"
+	 numVertices: "48"
+	 numFaces: "32"
+	
+	
+	name: "Wall_Window_Bevel_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e9298c00"
+	 name: "Mesh.139"
+	 numVertices: "76"
+	 numFaces: "56"
+	
+	
+	name: "Wall_Bevel_Door_5m"
+	numMeshes: 1
+	 addr: "0x7fe6ca96d800"
+	 name: "Mesh.122"
+	 numVertices: "42"
+	 numFaces: "24"
+	
+	
+	name: "Wall_Bevel_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e29db200"
+	 name: "Mesh.123"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Wall_Door_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e29dd600"
+	 name: "Mesh.132"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "RoundWall_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e92aa400"
+	 name: "Mesh.108"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "Wall_Border_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e92b2000"
+	 name: "Mesh.124"
+	 numVertices: "64"
+	 numFaces: "52"
+	
+	
+	name: "Wall_BorderThin_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e92b5600"
+	 name: "Mesh.125"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Window_1_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e92b7a00"
+	 name: "Mesh.142"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Circle_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e92bde00"
+	 name: "Mesh.082"
+	 numVertices: "298"
+	 numFaces: "256"
+	
+	
+	name: "Column_1x5m"
+	numMeshes: 1
+	 addr: "0x7fe6e92c9c00"
+	 name: "Mesh.083"
+	 numVertices: "88"
+	 numFaces: "44"
+	
+	
+	name: "Border_1m"
+	numMeshes: 1
+	 addr: "0x7fe6e92cd200"
+	 name: "Mesh.073"
+	 numVertices: "58"
+	 numFaces: "44"
+	
+	
+	name: "Border_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e92cf600"
+	 name: "Mesh.074"
+	 numVertices: "58"
+	 numFaces: "44"
+	
+	
+	name: "Border_Big_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e92d1a00"
+	 name: "Mesh.075"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Border_Big_Corner_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e92c6a00"
+	 name: "Mesh.076"
+	 numVertices: "78"
+	 numFaces: "66"
+	
+	
+	name: "Border_Top_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e92d8400"
+	 name: "Mesh.077"
+	 numVertices: "30"
+	 numFaces: "16"
+	
+	
+	name: "Door_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e92d4a00"
+	 name: "Mesh.088"
+	 numVertices: "104"
+	 numFaces: "60"
+	
+	
+	name: "Wall_WindowFrame_5m1"
+	numMeshes: 1
+	 addr: "0x7fe6e92dee00"
+	 name: "Mesh.140"
+	 numVertices: "64"
+	 numFaces: "32"
+	
+	
+	name: "Wall_WindowFrame"
+	numMeshes: 1
+	 addr: "0x7fe6e92e1200"
+	 name: "Mesh.143"
+	 numVertices: "64"
+	 numFaces: "32"
+	
+	
+	name: "RoundWall_Border"
+	numMeshes: 1
+	 addr: "0x7fe6e92db400"
+	 name: "Mesh.109"
+	 numVertices: "78"
+	 numFaces: "68"
+	
+	
+	name: "RoundWall_BorderBig_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e92e6a00"
+	 name: "Mesh.110"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "Door_Round_1_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e92f5600"
+	 name: "Mesh.089"
+	 numVertices: "434"
+	 numFaces: "260"
+	
+	
+	name: "Column_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e09c6a00"
+	 name: "Mesh.084"
+	 numVertices: "88"
+	 numFaces: "80"
+	
+	
+	name: "Handrail_02_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e29f3e00"
+	 name: "Mesh.092"
+	 numVertices: "423"
+	 numFaces: "352"
+	
+	
+	name: "Handrail_02_Rotated"
+	numMeshes: 1
+	 addr: "0x7fe6e29eda00"
+	 name: "Mesh.093"
+	 numVertices: "202"
+	 numFaces: "156"
+	
+	
+	name: "Handrail_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e948f800"
+	 name: "Mesh.094"
+	 numVertices: "72"
+	 numFaces: "44"
+	
+	
+	name: "Handrail_4m"
+	numMeshes: 1
+	 addr: "0x7fe6e9493e00"
+	 name: "Mesh.095"
+	 numVertices: "72"
+	 numFaces: "44"
+	
+	
+	name: "HandRail_02_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e9495600"
+	 name: "Mesh.091"
+	 numVertices: "234"
+	 numFaces: "184"
+	
+	
+	name: "Steps_3m"
+	numMeshes: 1
+	 addr: "0x7fe6e94a3e00"
+	 name: "Mesh.111"
+	 numVertices: "108"
+	 numFaces: "68"
+	
+	
+	name: "Steps_2m"
+	numMeshes: 1
+	 addr: "0x7fe6e94a8a00"
+	 name: "Mesh.149"
+	 numVertices: "64"
+	 numFaces: "36"
+	
+	
+	name: "Platform_5m"
+	numMeshes: 1
+	 addr: "0x7fe6e94ac000"
+	 name: "Mesh.100"
+	 numVertices: "54"
+	 numFaces: "46"
+	
+	
+		name: "Platform_End_2m"
+		numMeshes: 1
+		 addr: "0x7fe6e94ad800"
+		 name: "Mesh.101"
+		 numVertices: "124"
+		 numFaces: "166"
+		
+		
+		name: "Platform_Start_2m"
+		numMeshes: 1
+		 addr: "0x7fe6e94b9400"
+		 name: "Mesh.145"
+		 numVertices: "124"
+		 numFaces: "166"
+		
+		
+	name: "Crystal_01"
+	numMeshes: 1
+	 addr: "0x7fe6e94c3e00"
+	 name: "Mesh.085"
+	 numVertices: "84"
+	 numFaces: "52"
+	
+	
+	name: "Crystal_02"
+	numMeshes: 1
+	 addr: "0x7fe6e0e9e000"
+	 name: "Mesh.086"
+	 numVertices: "90"
+	 numFaces: "56"
+	
+	
+	name: "Crystal_03"
+	numMeshes: 1
+	 addr: "0x7fe6e9537400"
+	 name: "Mesh.087"
+	 numVertices: "90"
+	 numFaces: "56"
+	
+	
+	name: "Foliage"
+	numMeshes: 1
+	 addr: "0x7fe6e9540a00"
+	 name: "Mesh.090"
+	 numVertices: "494"
+	 numFaces: "408"
+	
+	
+	name: "Tree"
+	numMeshes: 1
+	 addr: "0x7fe6e9541e00"
+	 name: "Mesh.116"
+	 numVertices: "1346"
+	 numFaces: "1974"
+	
+	
+		name: "Tree_Leaves"
+		numMeshes: 1
+		 addr: "0x7fe6dcdcce00"
+		 name: "Mesh.144"
+		 numVertices: "3864"
+		 numFaces: "2898"
+		
+		
+	name: "Foliage.001"
+	numMeshes: 1
+	 addr: "0x7fe6dcd3f000"
+	 name: "Mesh.001"
+	 numVertices: "435"
+	 numFaces: "357"
+	
+	
+	name: "Foliage.002"
+	numMeshes: 1
+	 addr: "0x7fe6dce13000"
+	 name: "Mesh.002"
+	 numVertices: "435"
+	 numFaces: "357"
+	
+	
+	name: "Tube_2m"
+	numMeshes: 1
+	 addr: "0x7fe6dba66c00"
+	 name: "Mesh.117"
+	 numVertices: "348"
+	 numFaces: "320"
+	
+	
+	name: "Tube_4m"
+	numMeshes: 1
+	 addr: "0x7fe6dba78400"
+	 name: "Mesh.118"
+	 numVertices: "352"
+	 numFaces: "320"
+	
+	
+	name: "Tube_Bend"
+	numMeshes: 1
+	 addr: "0x7fe6dceb6200"
+	 name: "Mesh.119"
+	 numVertices: "642"
+	 numFaces: "880"
+	
+	
+	name: "Trap_Gear_2_5m"
+	numMeshes: 1
+	 addr: "0x7fe6dce30000"
+	 name: "Mesh.114"
+	 numVertices: "1186"
+	 numFaces: "1056"
+	
+	
+	name: "Trap_Base"
+	numMeshes: 1
+	 addr: "0x7fe6dcf3a200"
+	 name: "Mesh.113"
+	 numVertices: "216"
+	 numFaces: "120"
+	
+	
+		name: "Trap_Pike_1m"
+		numMeshes: 1
+		 addr: "0x7fe6dcdb3400"
+		 name: "Mesh.115"
+		 numVertices: "120"
+		 numFaces: "62"
+		
+		
+	name: "Wheel_Big"
+	numMeshes: 1
+	 addr: "0x7fe6dcdbc600"
+	 name: "Mesh.141"
+	 numVertices: "516"
+	 numFaces: "480"
+	
+	
+	name: "Lock"
+	numMeshes: 1
+	 addr: "0x7fe6dce3c400"
+	 name: "Lock"
+	 numVertices: "311"
+	 numFaces: "258"
+	
+	
+		name: "Key"
+		numMeshes: 1
+		 addr: "0x7fe6dbd4bc00"
+		 name: "Mesh.097"
+		 numVertices: "244"
+		 numFaces: "162"
+		
+		
+		name: "Lock_Deadbolt"
+		numMeshes: 1
+		 addr: "0x7fe6dbf9be00"
+		 name: "Mesh.098"
+		 numVertices: "140"
+		 numFaces: "92"
+		
+		
+	name: "Wheel_Small"
+	numMeshes: 1
+	 addr: "0x7fe6dbfa4800"
+	 name: "Mesh.146"
+	 numVertices: "516"
+	 numFaces: "480"
+	
+	
+	name: "Table_2m"
+	numMeshes: 1
+	 addr: "0x7fe6dbfa2000"
+	 name: "Mesh.112"
+	 numVertices: "120"
+	 numFaces: "68"
+	
+	
+	name: "Pipe_1m"
+	numMeshes: 1
+	 addr: "0x7fe6dbdcfa00"
+	 name: "Mesh.099"
+	 numVertices: "168"
+	 numFaces: "160"
+	
+	
+	name: "BG_110m"
+	numMeshes: 1
+	 addr: "0x7fe6dbe39c00"
+	 name: "Mesh"
+	 numVertices: "263"
+	 numFaces: "434"
+	
+	
+	name: "Human"
+	numMeshes: 1
+	 addr: "0x7fe6dbe57e00"
+	 name: "Mesh.096"
+	 numVertices: "104"
+	 numFaces: "60"
+	
+	
+
+[22:40:25.724442] [Import] [info] (th=26752) File loaded successfully
+[22:40:25.724447] [Import] [info] (th=26752) Meshes count: 81
+[22:40:25.725336] [Import] [info] (th=26752) Materials count: 16
+[22:40:25.726055] [Import] [info] (th=26752) Textures count (imported): 5
+[22:50:35.101016] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/lock.fbx
+[22:50:35.102702] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "Lock_Deadbolt"
+	numMeshes: 1
+	 addr: "0x7fe6dbf8c600"
+	 name: "Mesh.098"
+	 numVertices: "140"
+	 numFaces: "92"
+	
+	
+
+[22:50:35.102715] [Import] [info] (th=26752) File loaded successfully
+[22:50:35.102720] [Import] [info] (th=26752) Meshes count: 1
+[22:50:35.102721] [Import] [info] (th=26752) Materials count: 1
+[22:50:35.103969] [Import] [warning] (th=26752) It seems that scene structure is different
+[22:52:29.720672] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Generic_male_base.fbx
+[22:52:29.761995] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7fe6cac86c00"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[22:52:29.762006] [Import] [info] (th=26752) File loaded successfully
+[22:52:29.762010] [Import] [info] (th=26752) Meshes count: 1
+[22:52:29.762020] [Import] [info] (th=26752) Materials count: 1
+[22:52:29.762162] [Import] [info] (th=26752) Textures count (imported): 2
+[22:56:02.995429] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_01_idle.fbx
+[22:56:03.011785] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:56:03.011798] [Import] [info] (th=26752) File loaded successfully
+[22:56:03.011803] [Import] [info] (th=26752) Meshes count: 0
+[22:56:03.011805] [Import] [info] (th=26752) Materials count: 0
+[22:56:18.449085] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_02_run.fbx
+[22:56:18.465301] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:56:18.465326] [Import] [info] (th=26752) File loaded successfully
+[22:56:18.465331] [Import] [info] (th=26752) Meshes count: 0
+[22:56:18.465332] [Import] [info] (th=26752) Materials count: 0
+[22:56:25.547414] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_03_crouch_walk.fbx
+[22:56:25.563285] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:56:25.563296] [Import] [info] (th=26752) File loaded successfully
+[22:56:25.563319] [Import] [info] (th=26752) Meshes count: 0
+[22:56:25.563320] [Import] [info] (th=26752) Materials count: 0
+[22:56:31.491070] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_04_stand_to_crouch.fbx
+[22:56:31.507159] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:56:31.507201] [Import] [info] (th=26752) File loaded successfully
+[22:56:31.507206] [Import] [info] (th=26752) Meshes count: 0
+[22:56:31.507208] [Import] [info] (th=26752) Materials count: 0
+[22:56:36.894631] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_05_crouch_to_stand.fbx
+[22:56:36.909334] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:56:36.909344] [Import] [info] (th=26752) File loaded successfully
+[22:56:36.909348] [Import] [info] (th=26752) Meshes count: 0
+[22:56:36.909350] [Import] [info] (th=26752) Materials count: 0
+[22:56:46.046239] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_06_crouch_idle.fbx
+[22:56:46.062054] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:56:46.062079] [Import] [info] (th=26752) File loaded successfully
+[22:56:46.062083] [Import] [info] (th=26752) Meshes count: 0
+[22:56:46.062084] [Import] [info] (th=26752) Materials count: 0
+[22:56:53.881171] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_07_crouch_to_run.fbx
+[22:56:53.895321] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:56:53.895363] [Import] [info] (th=26752) File loaded successfully
+[22:56:53.895368] [Import] [info] (th=26752) Meshes count: 0
+[22:56:53.895369] [Import] [info] (th=26752) Materials count: 0
+[22:57:21.881034] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_08_run_to_crouch.fbx
+[22:57:21.896217] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:57:21.896239] [Import] [info] (th=26752) File loaded successfully
+[22:57:21.896243] [Import] [info] (th=26752) Meshes count: 0
+[22:57:21.896245] [Import] [info] (th=26752) Materials count: 0
+[22:57:56.565186] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_09_jump_floating.fbx
+[22:57:56.581700] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:57:56.581720] [Import] [info] (th=26752) File loaded successfully
+[22:57:56.581725] [Import] [info] (th=26752) Meshes count: 0
+[22:57:56.581727] [Import] [info] (th=26752) Materials count: 0
+[22:58:01.426658] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_10_jump_double.fbx
+[22:58:01.442550] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:58:01.442576] [Import] [info] (th=26752) File loaded successfully
+[22:58:01.442580] [Import] [info] (th=26752) Meshes count: 0
+[22:58:01.442582] [Import] [info] (th=26752) Materials count: 0
+[22:58:06.826411] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_11_wall_idle.fbx
+[22:58:06.842032] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:58:06.842043] [Import] [info] (th=26752) File loaded successfully
+[22:58:06.842046] [Import] [info] (th=26752) Meshes count: 0
+[22:58:06.842048] [Import] [info] (th=26752) Materials count: 0
+[22:58:11.464349] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_12_wall_jumpUP.fbx
+[22:58:11.481132] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:58:11.481162] [Import] [info] (th=26752) File loaded successfully
+[22:58:11.481166] [Import] [info] (th=26752) Meshes count: 0
+[22:58:11.481167] [Import] [info] (th=26752) Materials count: 0
+[22:58:16.778973] [Import] [info] (th=26752) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_FBX/G_male_13_slide.fbx
+[22:58:16.794321] [Import] [info] (th=26752) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[22:58:16.794336] [Import] [info] (th=26752) File loaded successfully
+[22:58:16.794340] [Import] [info] (th=26752) Meshes count: 0
+[22:58:16.794342] [Import] [info] (th=26752) Materials count: 0
