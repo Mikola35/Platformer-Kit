@@ -1,0 +1,18 @@
+{
+    "Camera/Position/X": 0.051862478256225586,
+    "Camera/Position/Y": 32.65029525756836,
+    "Camera/Position/Z": 44.88983154296875,
+    "Camera/Rotation/W": 0.9481790065765381,
+    "Camera/Rotation/X": -0.18430733680725098,
+    "Camera/Rotation/Y": 0.25406381487846375,
+    "Camera/Rotation/Z": 0.04938502609729767,
+    "Camera/Type": 0,
+    "Editor/ValueDraggerStepSize": 10,
+    "SnapTypePosiotion/SnapPreset1": 1,
+    "SnapTypePosiotion/SnapPreset2": 10,
+    "SnapTypePosiotion/SnapPresetSelected": 0,
+    "SnapTypeRotation/SnapPreset1": 45,
+    "SnapTypeRotation/SnapPreset2": 90,
+    "SnapTypeRotation/SnapPresetSelected": 0,
+    "export/projectName": "Platformer-Prototype-Example-Kit"
+}
