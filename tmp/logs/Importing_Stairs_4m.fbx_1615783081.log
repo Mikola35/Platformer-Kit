@@ -1,0 +1,567 @@
+[07:38:01.158364] [Import] [info] (th=928) Log level for 'Import' set to 'info'
+[07:38:01.158466] [Import] [info] (th=928) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\BY_parts\Stairs_4m.fbx
+[07:38:01.264205] [Import] [info] (th=928) Imported scene tree:
+name: "RootNode"
+
+	name: "Stairs_4x2"
+	numMeshes: 1
+	 addr: "000002032DD8BAD0"
+	 name: "Mesh.198"
+	 numVertices: "128"
+	 numFaces: "76"
+	
+	
+
+[07:38:01.264252] [Import] [info] (th=928) File loaded successfully
+[07:38:01.264288] [Import] [info] (th=928) Meshes count: 1
+[07:38:01.264323] [Import] [info] (th=928) Materials count: 1
+[07:38:01.274114] [Import] [warning] (th=928) It seems that scene structure is different
+[07:38:28.380272] [Import] [info] (th=928) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\Walls.fbx
+[07:38:28.392103] [Import] [info] (th=928) Imported scene tree:
+name: "RootNode"
+
+	name: "Wall_4x4"
+	numMeshes: 1
+	 addr: "000002032DD875C0"
+	 name: "Mesh.047"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_2x4"
+	numMeshes: 1
+	 addr: "000002032DD8C020"
+	 name: "Mesh.050"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_1x4"
+	numMeshes: 1
+	 addr: "000002032DD88060"
+	 name: "Mesh.054"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_4x2"
+	numMeshes: 1
+	 addr: "000002032DD86080"
+	 name: "Mesh.065"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_2x2"
+	numMeshes: 1
+	 addr: "000002032DD88B00"
+	 name: "Mesh.066"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_1x2"
+	numMeshes: 1
+	 addr: "000002032DD8D010"
+	 name: "Mesh.068"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Corner_2x2x4"
+	numMeshes: 1
+	 addr: "000002032DD87070"
+	 name: "Mesh.070"
+	 numVertices: "36"
+	 numFaces: "20"
+	
+	
+	name: "WallRound_R2x4"
+	numMeshes: 1
+	 addr: "000002032DD87B10"
+	 name: "Mesh.127"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "WallRound_R2x2"
+	numMeshes: 1
+	 addr: "000002032DD89050"
+	 name: "Mesh.129"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "Cylinder_R1x2"
+	numMeshes: 1
+	 addr: "000002032DD8A590"
+	 name: "Cylinder"
+	 numVertices: "130"
+	 numFaces: "124"
+	
+	
+	name: "Cylinder_R1x4"
+	numMeshes: 1
+	 addr: "000002032DD8B030"
+	 name: "Cylinder.001"
+	 numVertices: "130"
+	 numFaces: "124"
+	
+	
+	name: "Cylinder_R0.5x4"
+	numMeshes: 1
+	 addr: "000002032DD8D560"
+	 name: "Cylinder.002"
+	 numVertices: "192"
+	 numFaces: "124"
+	
+	
+	name: "Cylinder_R0.5x2"
+	numMeshes: 1
+	 addr: "000002032DD8A040"
+	 name: "Cylinder.003"
+	 numVertices: "192"
+	 numFaces: "124"
+	
+	
+	name: "Wall_4x4_DoorFrame"
+	numMeshes: 1
+	 addr: "000002032DD8B580"
+	 name: "Mesh.162"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "Wall_4x4_Frame"
+	numMeshes: 1
+	 addr: "000002032DD86B20"
+	 name: "Mesh.167"
+	 numVertices: "56"
+	 numFaces: "40"
+	
+	
+	name: "Wall_4x4_Frame2"
+	numMeshes: 1
+	 addr: "000002032DD8C570"
+	 name: "Mesh.174"
+	 numVertices: "60"
+	 numFaces: "40"
+	
+	
+	name: "Wall_4x4_DoorFrame_Half"
+	numMeshes: 1
+	 addr: "000002032DD8CAC0"
+	 name: "Mesh.175"
+	 numVertices: "36"
+	 numFaces: "20"
+	
+	
+	name: "Wall_2x1"
+	numMeshes: 1
+	 addr: "000002032DD8DAB0"
+	 name: "Mesh.176"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_4x1"
+	numMeshes: 1
+	 addr: "000002032DD865D0"
+	 name: "Mesh.177"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_4x4_Bevel-2"
+	numMeshes: 1
+	 addr: "0000020302B372B0"
+	 name: "Mesh.178"
+	 numVertices: "40"
+	 numFaces: "28"
+	
+	
+	name: "Wall_2x4_Bevel-2"
+	numMeshes: 1
+	 addr: "0000020302B37D50"
+	 name: "Mesh.179"
+	 numVertices: "28"
+	 numFaces: "16"
+	
+	
+	name: "Wall_2x2_Bevel-2"
+	numMeshes: 1
+	 addr: "0000020302B382A0"
+	 name: "Mesh.180"
+	 numVertices: "18"
+	 numFaces: "8"
+	
+	
+	name: "Wall_4x4_Bevel-2_Frame1"
+	numMeshes: 1
+	 addr: "000002032E92D0B0"
+	 name: "Mesh.181"
+	 numVertices: "42"
+	 numFaces: "24"
+	
+	
+	name: "Wall_Corner_2x2x2"
+	numMeshes: 1
+	 addr: "000002032E92CB60"
+	 name: "Mesh.182"
+	 numVertices: "36"
+	 numFaces: "20"
+	
+	
+	name: "Wall_4x4_Bevel-2_Frame2"
+	numMeshes: 1
+	 addr: "000002032E92C0C0"
+	 name: "Mesh.183"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "Wall_2x4_Frame1"
+	numMeshes: 1
+	 addr: "000002032E929B90"
+	 name: "Mesh.184"
+	 numVertices: "48"
+	 numFaces: "32"
+	
+	
+	name: "Wall_2x4_Frame2"
+	numMeshes: 1
+	 addr: "000002032E92A0E0"
+	 name: "Mesh.185"
+	 numVertices: "58"
+	 numFaces: "40"
+	
+	
+	name: "Wall_45_corner_4x4"
+	numMeshes: 1
+	 addr: "000002032E92C610"
+	 name: "Mesh.252"
+	 numVertices: "56"
+	 numFaces: "28"
+	
+	
+	name: "WallRound_R4x4_H4"
+	numMeshes: 1
+	 addr: "000002032E92B0D0"
+	 name: "Mesh.258"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "WallRound_R4x4_H2"
+	numMeshes: 1
+	 addr: "000002032E92A630"
+	 name: "Mesh.259"
+	 numVertices: "144"
+	 numFaces: "132"
+	
+	
+	name: "Wall_Corner_Bevel_2x2x4"
+	numMeshes: 1
+	 addr: "000002032E92AB80"
+	 name: "Mesh.296"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "Wall_Corner_Bevel_2x2x4.001"
+	numMeshes: 1
+	 addr: "000002032E92BB70"
+	 name: "Mesh.297"
+	 numVertices: "48"
+	 numFaces: "28"
+	
+	
+	name: "Cylinder_R0.5x2_bevel"
+	numMeshes: 1
+	 addr: "000002032E92B620"
+	 name: "Cylinder.004"
+	 numVertices: "192"
+	 numFaces: "124"
+	
+	
+	name: "WallRound_R4x4_H4_DoorFrame"
+	numMeshes: 1
+	 addr: "000002032E791F30"
+	 name: "Mesh.324"
+	 numVertices: "180"
+	 numFaces: "188"
+	
+	
+	name: "WallRound_R4x4_H4_Frames"
+	numMeshes: 1
+	 addr: "000002032E7919E0"
+	 name: "Mesh.325"
+	 numVertices: "276"
+	 numFaces: "276"
+	
+	
+	name: "Wall_Fronton_corner_45"
+	numMeshes: 1
+	 addr: "000002032E7929D0"
+	 name: "Mesh.166"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Wall_Fronton_center_45"
+	numMeshes: 1
+	 addr: "000002032E798420"
+	 name: "Mesh.213"
+	 numVertices: "46"
+	 numFaces: "36"
+	
+	
+	name: "Wall_Fronton_center_60"
+	numMeshes: 1
+	 addr: "000002032E798970"
+	 name: "Mesh.215"
+	 numVertices: "42"
+	 numFaces: "28"
+	
+	
+
+[07:38:28.392153] [Import] [info] (th=928) File loaded successfully
+[07:38:28.392188] [Import] [info] (th=928) Meshes count: 38
+[07:38:28.392227] [Import] [info] (th=928) Materials count: 1
+[07:38:28.394118] [Import] [info] (th=928) Textures count (imported): 1
+[07:41:10.541659] [Import] [info] (th=928) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\Roofs.fbx
+[07:41:10.547221] [Import] [info] (th=928) Imported scene tree:
+name: "RootNode"
+
+	name: "Roof_4_base_4x4"
+	numMeshes: 1
+	 addr: "000002032E796440"
+	 name: "Mesh.243"
+	 numVertices: "56"
+	 numFaces: "28"
+	
+	
+	name: "Roof_4_corner_4x4"
+	numMeshes: 1
+	 addr: "0000020302B35820"
+	 name: "Mesh.244"
+	 numVertices: "90"
+	 numFaces: "44"
+	
+	
+	name: "Roof_4_base_2x4"
+	numMeshes: 1
+	 addr: "0000020302B397E0"
+	 name: "Mesh.253"
+	 numVertices: "56"
+	 numFaces: "28"
+	
+	
+	name: "Roof_4_round_4x4"
+	numMeshes: 1
+	 addr: "0000020302B3A7D0"
+	 name: "Mesh.257"
+	 numVertices: "138"
+	 numFaces: "72"
+	
+	
+	name: "Roof_4_base_1x4"
+	numMeshes: 1
+	 addr: "0000020302B34D80"
+	 name: "Mesh.267"
+	 numVertices: "56"
+	 numFaces: "28"
+	
+	
+	name: "Roof_2_base_4x4"
+	numMeshes: 1
+	 addr: "0000020302B352D0"
+	 name: "Mesh.268"
+	 numVertices: "56"
+	 numFaces: "28"
+	
+	
+	name: "Roof_2_corner_2x2"
+	numMeshes: 1
+	 addr: "0000020302B362C0"
+	 name: "Mesh.269"
+	 numVertices: "90"
+	 numFaces: "44"
+	
+	
+	name: "Roof_2_base_2x4"
+	numMeshes: 1
+	 addr: "0000020302B36810"
+	 name: "Mesh.284"
+	 numVertices: "56"
+	 numFaces: "28"
+	
+	
+	name: "Roof_2_base_1x4"
+	numMeshes: 1
+	 addr: "000002032DD8AAE0"
+	 name: "Mesh.285"
+	 numVertices: "56"
+	 numFaces: "28"
+	
+	
+	name: "Roof_2_round_2x2"
+	numMeshes: 1
+	 addr: "0000020334A2A090"
+	 name: "Mesh.286"
+	 numVertices: "104"
+	 numFaces: "52"
+	
+	
+	name: "Cone_R1_H4"
+	numMeshes: 1
+	 addr: "0000020334A290A0"
+	 name: "Cylinder.005"
+	 numVertices: "128"
+	 numFaces: "62"
+	
+	
+	name: "Cone_R1_H2"
+	numMeshes: 1
+	 addr: "0000020334A2B5D0"
+	 name: "Cylinder.006"
+	 numVertices: "128"
+	 numFaces: "62"
+	
+	
+	name: "Roof_4_base_4x4_corner_IN"
+	numMeshes: 1
+	 addr: "0000020334A2BB20"
+	 name: "Mesh.208"
+	 numVertices: "92"
+	 numFaces: "44"
+	
+	
+	name: "Roof_2_base_4x4_corner_IN"
+	numMeshes: 1
+	 addr: "0000020334A2DB00"
+	 name: "Mesh.210"
+	 numVertices: "120"
+	 numFaces: "68"
+	
+	
+
+[07:41:10.547265] [Import] [info] (th=928) File loaded successfully
+[07:41:10.547298] [Import] [info] (th=928) Meshes count: 14
+[07:41:10.547330] [Import] [info] (th=928) Materials count: 1
+[07:41:10.547533] [Import] [info] (th=928) Textures count (imported): 1
+[07:42:52.787839] [Import] [info] (th=928) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\Frames.fbx
+[07:42:52.792889] [Import] [info] (th=928) Imported scene tree:
+name: "RootNode"
+
+	name: "Door_3m"
+	numMeshes: 1
+	 addr: "0000020334A2F040"
+	 name: "Mesh.216"
+	 numVertices: "104"
+	 numFaces: "60"
+	
+	
+	name: "Door_frame"
+	numMeshes: 1
+	 addr: "0000020334A2EAF0"
+	 name: "Mesh.220"
+	 numVertices: "56"
+	 numFaces: "28"
+	
+	
+	name: "Window_square"
+	numMeshes: 1
+	 addr: "0000020334A295F0"
+	 name: "Mesh.231"
+	 numVertices: "63"
+	 numFaces: "32"
+	
+	
+	name: "Window_square_bevel"
+	numMeshes: 1
+	 addr: "0000020334A2CB10"
+	 name: "Mesh.233"
+	 numVertices: "96"
+	 numFaces: "48"
+	
+	
+	name: "Door_frame_half"
+	numMeshes: 1
+	 addr: "0000020334A2AB30"
+	 name: "Mesh.234"
+	 numVertices: "40"
+	 numFaces: "20"
+	
+	
+	name: "Door_frame_upper"
+	numMeshes: 1
+	 addr: "0000020334A2F590"
+	 name: "Mesh.235"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Window_Rectangle"
+	numMeshes: 1
+	 addr: "0000020334A2D5B0"
+	 name: "Mesh.237"
+	 numVertices: "62"
+	 numFaces: "32"
+	
+	
+	name: "Window_Arrow"
+	numMeshes: 1
+	 addr: "0000020334A2D060"
+	 name: "Mesh.238"
+	 numVertices: "77"
+	 numFaces: "40"
+	
+	
+
+[07:42:52.792963] [Import] [info] (th=928) File loaded successfully
+[07:42:52.793018] [Import] [info] (th=928) Meshes count: 8
+[07:42:52.793056] [Import] [info] (th=928) Materials count: 2
+[07:42:52.793348] [Import] [info] (th=928) Textures count (imported): 1
+[07:55:55.888598] [Import] [info] (th=928) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\BY_parts\Roof_corners.fbx
+[07:55:55.890930] [Import] [info] (th=928) Imported scene tree:
+name: "RootNode"
+
+	name: "Roof_4_corner"
+	numMeshes: 1
+	 addr: "0000020334A30030"
+	 name: "Mesh.264"
+	 numVertices: "96"
+	 numFaces: "48"
+	
+	
+	name: "Roof_2_Corner"
+	numMeshes: 1
+	 addr: "0000020334A30AD0"
+	 name: "Mesh.265"
+	 numVertices: "98"
+	 numFaces: "48"
+	
+	
+
+[07:55:55.890973] [Import] [info] (th=928) File loaded successfully
+[07:55:55.891011] [Import] [info] (th=928) Meshes count: 2
+[07:55:55.891050] [Import] [info] (th=928) Materials count: 1
+[07:55:55.891239] [Import] [info] (th=928) Textures count (imported): 1
+[09:29:10.496294] [Import] [info] (th=928) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\BY_parts\Roof2_corner.fbx
+[09:29:10.498038] [Import] [info] (th=928) Imported scene tree:
+name: "RootNode"
+
+	name: "Roof_2_Corner"
+	numMeshes: 1
+	 addr: "000002032E792F20"
+	 name: "Mesh.265"
+	 numVertices: "98"
+	 numFaces: "48"
+	
+	
+
+[09:29:10.498083] [Import] [info] (th=928) File loaded successfully
+[09:29:10.498119] [Import] [info] (th=928) Meshes count: 1
+[09:29:10.498152] [Import] [info] (th=928) Materials count: 1
+[09:29:10.498291] [Import] [warning] (th=928) It seems that scene structure is different

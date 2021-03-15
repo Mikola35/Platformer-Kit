@@ -1,0 +1,450 @@
+[15:54:32.074069] [Import] [info] (th=8180) Log level for 'Import' set to 'info'
+[15:54:32.106209] [Import] [info] (th=8180) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\Floors.fbx
+[15:54:32.271525] [Import] [info] (th=8180) Imported scene tree:
+name: "RootNode"
+
+	name: "Floor_4x4"
+	numMeshes: 1
+	 addr: "0000023FDC8E83A0"
+	 name: "Mesh.290"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2"
+	numMeshes: 1
+	 addr: "0000023FDC8EAE20"
+	 name: "Mesh.293"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1"
+	numMeshes: 1
+	 addr: "0000023FDC8EB370"
+	 name: "Mesh.295"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1_corner_up"
+	numMeshes: 1
+	 addr: "0000023FBAB79D30"
+	 name: "Mesh.298"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1_corner_down"
+	numMeshes: 1
+	 addr: "0000023FBAB7FCD0"
+	 name: "Mesh.306"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2_corner_up"
+	numMeshes: 1
+	 addr: "0000023FBAB7ECE0"
+	 name: "Mesh.318"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2_corner_down"
+	numMeshes: 1
+	 addr: "0000023FBAB7DCF0"
+	 name: "Mesh.319"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2"
+	numMeshes: 1
+	 addr: "0000023FBAB7B270"
+	 name: "Mesh.321"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[15:54:32.271569] [Import] [info] (th=8180) File loaded successfully
+[15:54:32.271604] [Import] [info] (th=8180) Meshes count: 8
+[15:54:32.271636] [Import] [info] (th=8180) Materials count: 1
+[15:54:32.301885] [Import] [info] (th=8180) Textures count (imported): 1
+[16:10:05.785468] [Import] [info] (th=8180) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\BY_parts\Floor\Floor_2x2_H2_corner_up.fbx
+[16:10:05.787182] [Import] [info] (th=8180) Imported scene tree:
+name: "RootNode"
+
+	name: "Floor_2x2_H2_corner_up"
+	numMeshes: 1
+	 addr: "0000023FBAB7CD00"
+	 name: "Mesh.318"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+
+[16:10:05.787224] [Import] [info] (th=8180) File loaded successfully
+[16:10:05.787258] [Import] [info] (th=8180) Meshes count: 1
+[16:10:05.787297] [Import] [info] (th=8180) Materials count: 1
+[16:10:05.791839] [Import] [warning] (th=8180) It seems that scene structure is different
+[16:12:10.488752] [Import] [info] (th=8180) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\BY_parts\Floor\Floor_2x2_H1_to_H2.fbx
+[16:12:10.490390] [Import] [info] (th=8180) Imported scene tree:
+name: "RootNode"
+
+	name: "Floor_2x2_H1_to_H2"
+	numMeshes: 1
+	 addr: "0000023FBAB79290"
+	 name: "Mesh.186"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[16:12:10.490430] [Import] [info] (th=8180) File loaded successfully
+[16:12:10.490464] [Import] [info] (th=8180) Meshes count: 1
+[16:12:10.490504] [Import] [info] (th=8180) Materials count: 1
+[16:12:10.490699] [Import] [info] (th=8180) Textures count (imported): 1
+[16:14:28.008473] [Import] [info] (th=8180) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\Floors.fbx
+[16:14:28.012613] [Import] [info] (th=8180) Imported scene tree:
+name: "RootNode"
+
+	name: "Floor_4x4"
+	numMeshes: 1
+	 addr: "0000023FBAB7A7D0"
+	 name: "Mesh.290"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2"
+	numMeshes: 1
+	 addr: "0000023FBAB7F230"
+	 name: "Mesh.293"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1"
+	numMeshes: 1
+	 addr: "0000023FBAB7AD20"
+	 name: "Mesh.295"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1_corner_up"
+	numMeshes: 1
+	 addr: "0000023FBAB7BD10"
+	 name: "Mesh.298"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1_corner_down"
+	numMeshes: 1
+	 addr: "0000023FBAB7E240"
+	 name: "Mesh.306"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2_corner_up"
+	numMeshes: 1
+	 addr: "0000023FBAB7C260"
+	 name: "Mesh.318"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2_corner_down"
+	numMeshes: 1
+	 addr: "0000023FBAB7D250"
+	 name: "Mesh.319"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2"
+	numMeshes: 1
+	 addr: "0000023FBAB7C7B0"
+	 name: "Mesh.321"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[16:14:28.012681] [Import] [info] (th=8180) File loaded successfully
+[16:14:28.012740] [Import] [info] (th=8180) Meshes count: 8
+[16:14:28.012793] [Import] [info] (th=8180) Materials count: 1
+[16:14:28.013098] [Import] [info] (th=8180) Textures count (imported): 1
+[16:18:28.669580] [Import] [info] (th=8180) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\Floors.fbx
+[16:18:28.672611] [Import] [info] (th=8180) Imported scene tree:
+name: "RootNode"
+
+	name: "Floor_4x4"
+	numMeshes: 1
+	 addr: "0000023FBAB7D7A0"
+	 name: "Mesh.290"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2"
+	numMeshes: 1
+	 addr: "0000023FBAB7F780"
+	 name: "Mesh.293"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1"
+	numMeshes: 1
+	 addr: "0000023FBAB7E790"
+	 name: "Mesh.295"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1_corner_up"
+	numMeshes: 1
+	 addr: "0000023FDC8E6910"
+	 name: "Mesh.298"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1_corner_down"
+	numMeshes: 1
+	 addr: "0000023FDC8E6E60"
+	 name: "Mesh.306"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2_corner_up"
+	numMeshes: 1
+	 addr: "0000023FDC8E98E0"
+	 name: "Mesh.318"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2_corner_down"
+	numMeshes: 1
+	 addr: "0000023FDC8E53D0"
+	 name: "Mesh.319"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2"
+	numMeshes: 1
+	 addr: "0000023FDC8EA380"
+	 name: "Mesh.321"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[16:18:28.672734] [Import] [info] (th=8180) File loaded successfully
+[16:18:28.672778] [Import] [info] (th=8180) Meshes count: 8
+[16:18:28.672813] [Import] [info] (th=8180) Materials count: 1
+[16:18:28.673132] [Import] [error] (th=8180) Can't find mesh for replace.
+[16:18:52.188251] [Import] [info] (th=8180) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\Floors.fbx
+[16:18:52.191111] [Import] [info] (th=8180) Imported scene tree:
+name: "RootNode"
+
+	name: "Floor_4x4"
+	numMeshes: 1
+	 addr: "0000023FBAB7A280"
+	 name: "Mesh.290"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2"
+	numMeshes: 1
+	 addr: "0000023FDC8EA8D0"
+	 name: "Mesh.293"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1"
+	numMeshes: 1
+	 addr: "0000023F900AD050"
+	 name: "Mesh.295"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1_corner_up"
+	numMeshes: 1
+	 addr: "0000023F900B1560"
+	 name: "Mesh.298"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1_corner_down"
+	numMeshes: 1
+	 addr: "0000023F900AE590"
+	 name: "Mesh.306"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2_corner_up"
+	numMeshes: 1
+	 addr: "0000023F900B0570"
+	 name: "Mesh.318"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2_corner_down"
+	numMeshes: 1
+	 addr: "0000023F900AD5A0"
+	 name: "Mesh.319"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2"
+	numMeshes: 1
+	 addr: "0000023F900AA5D0"
+	 name: "Mesh.321"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[16:18:52.191153] [Import] [info] (th=8180) File loaded successfully
+[16:18:52.191189] [Import] [info] (th=8180) Meshes count: 8
+[16:18:52.191239] [Import] [info] (th=8180) Materials count: 1
+[16:18:52.191425] [Import] [info] (th=8180) Textures count (imported): 1
+[16:19:30.838245] [Import] [info] (th=8180) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\Floors.fbx
+[16:19:30.841440] [Import] [info] (th=8180) Imported scene tree:
+name: "RootNode"
+
+	name: "Floor_4x4"
+	numMeshes: 1
+	 addr: "0000023F900B0AC0"
+	 name: "Mesh.290"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2"
+	numMeshes: 1
+	 addr: "0000023F900AAB20"
+	 name: "Mesh.293"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1"
+	numMeshes: 1
+	 addr: "0000023F900ADAF0"
+	 name: "Mesh.295"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1_corner_up"
+	numMeshes: 1
+	 addr: "0000023F900AA080"
+	 name: "Mesh.298"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1_corner_down"
+	numMeshes: 1
+	 addr: "0000023F900AC5B0"
+	 name: "Mesh.306"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2_corner_up"
+	numMeshes: 1
+	 addr: "0000023F900AE040"
+	 name: "Mesh.318"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2_corner_down"
+	numMeshes: 1
+	 addr: "0000023F900AEAE0"
+	 name: "Mesh.319"
+	 numVertices: "28"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H2"
+	numMeshes: 1
+	 addr: "0000023F900ABB10"
+	 name: "Mesh.321"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_H1_to_H2"
+	numMeshes: 1
+	 addr: "0000023F900AF030"
+	 name: "Mesh.186"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[16:19:30.841484] [Import] [info] (th=8180) File loaded successfully
+[16:19:30.841518] [Import] [info] (th=8180) Meshes count: 9
+[16:19:30.841550] [Import] [info] (th=8180) Materials count: 1
+[16:19:30.841743] [Import] [info] (th=8180) Textures count (imported): 1
+[16:44:55.238819] [Import] [info] (th=8180) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\BY_parts\Floor\Floor_2x2_H2_to_H1.fbx
+[16:44:55.240518] [Import] [info] (th=8180) Imported scene tree:
+name: "RootNode"
+
+	name: "Floor_2x2_H2_to_H1"
+	numMeshes: 1
+	 addr: "0000023F900AB070"
+	 name: "Mesh.187"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[16:44:55.240557] [Import] [info] (th=8180) File loaded successfully
+[16:44:55.240591] [Import] [info] (th=8180) Meshes count: 1
+[16:44:55.240630] [Import] [info] (th=8180) Materials count: 1
+[16:44:55.240821] [Import] [info] (th=8180) Textures count (imported): 1
+[16:53:16.079057] [Import] [info] (th=8180) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\BY_parts\Floor\Floor_2x2_H2_Blocks.fbx
+[16:53:16.080859] [Import] [info] (th=8180) Imported scene tree:
+name: "RootNode"
+
+	name: "Floor_4x4_Block"
+	numMeshes: 1
+	 addr: "0000023F900B1AB0"
+	 name: "Mesh.188"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Floor_2x2_Block"
+	numMeshes: 1
+	 addr: "0000023F900AF580"
+	 name: "Mesh.190"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[16:53:16.080900] [Import] [info] (th=8180) File loaded successfully
+[16:53:16.080940] [Import] [info] (th=8180) Meshes count: 2
+[16:53:16.080973] [Import] [info] (th=8180) Materials count: 1
+[16:53:16.081160] [Import] [info] (th=8180) Textures count (imported): 1

@@ -1,0 +1,35 @@
+[09:22:03.278164] [Import] [info] (th=7268) Log level for 'Import' set to 'info'
+[09:22:03.291960] [Import] [info] (th=7268) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\Wall_Corner_5m.fbx
+[09:22:03.460380] [Import] [info] (th=7268) Imported scene tree:
+name: "RootNode"
+
+	name: "Wall_Corner_5m"
+	numMeshes: 1
+	 addr: "0000025D2C77AB60"
+	 name: "Mesh.127"
+	 numVertices: "88"
+	 numFaces: "76"
+	
+	
+
+[09:22:03.460448] [Import] [info] (th=7268) File loaded successfully
+[09:22:03.460505] [Import] [info] (th=7268) Meshes count: 1
+[09:22:03.460564] [Import] [info] (th=7268) Materials count: 1
+[09:22:03.460817] [Import] [warning] (th=7268) It seems that scene structure is different
+[09:25:26.657354] [Import] [info] (th=7268) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\Wall_Corner_5m.fbx
+[09:25:26.659226] [Import] [info] (th=7268) Imported scene tree:
+name: "RootNode"
+
+	name: "Wall_Corner_5m"
+	numMeshes: 1
+	 addr: "0000025D2C778630"
+	 name: "Mesh.127"
+	 numVertices: "88"
+	 numFaces: "76"
+	
+	
+
+[09:25:26.659270] [Import] [info] (th=7268) File loaded successfully
+[09:25:26.659304] [Import] [info] (th=7268) Meshes count: 1
+[09:25:26.659337] [Import] [info] (th=7268) Materials count: 1
+[09:25:26.659589] [Import] [warning] (th=7268) It seems that scene structure is different

@@ -1,0 +1,83 @@
+[11:43:52.604160] [Import] [info] (th=23056) Log level for 'Import' set to 'info'
+[11:43:52.604312] [Import] [info] (th=23056) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\HandRails.fbx
+[11:43:52.608346] [Import] [info] (th=23056) Imported scene tree:
+name: "RootNode"
+
+	name: "HandRail_2m"
+	numMeshes: 1
+	 addr: "000002780C201050"
+	 name: "Mesh.250"
+	 numVertices: "304"
+	 numFaces: "160"
+	
+	
+	name: "HandRail_4m"
+	numMeshes: 1
+	 addr: "000002780C2005B0"
+	 name: "Mesh.251"
+	 numVertices: "558"
+	 numFaces: "304"
+	
+	
+	name: "HandRail_Corner"
+	numMeshes: 1
+	 addr: "000002780C202040"
+	 name: "Mesh.254"
+	 numVertices: "368"
+	 numFaces: "184"
+	
+	
+	name: "HandRail_Corner_Bevel"
+	numMeshes: 1
+	 addr: "000002780C204570"
+	 name: "Mesh.255"
+	 numVertices: "358"
+	 numFaces: "184"
+	
+	
+
+[11:43:52.608390] [Import] [info] (th=23056) File loaded successfully
+[11:43:52.608438] [Import] [info] (th=23056) Meshes count: 4
+[11:43:52.608472] [Import] [info] (th=23056) Materials count: 1
+[11:43:52.608730] [Import] [info] (th=23056) Textures count (imported): 1
+[11:48:21.969868] [Import] [info] (th=23056) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\HandRails.fbx
+[11:48:21.973950] [Import] [info] (th=23056) Imported scene tree:
+name: "RootNode"
+
+	name: "HandRail_2m"
+	numMeshes: 1
+	 addr: "000002780C203030"
+	 name: "Mesh.250"
+	 numVertices: "304"
+	 numFaces: "160"
+	
+	
+	name: "HandRail_4m"
+	numMeshes: 1
+	 addr: "000002780C207A90"
+	 name: "Mesh.251"
+	 numVertices: "558"
+	 numFaces: "304"
+	
+	
+	name: "HandRail_Corner"
+	numMeshes: 1
+	 addr: "000002780C202590"
+	 name: "Mesh.254"
+	 numVertices: "368"
+	 numFaces: "184"
+	
+	
+	name: "HandRail_Corner_Bevel"
+	numMeshes: 1
+	 addr: "000002780C204AC0"
+	 name: "Mesh.255"
+	 numVertices: "362"
+	 numFaces: "184"
+	
+	
+
+[11:48:21.974005] [Import] [info] (th=23056) File loaded successfully
+[11:48:21.974071] [Import] [info] (th=23056) Meshes count: 4
+[11:48:21.974163] [Import] [info] (th=23056) Materials count: 1
+[11:48:21.974421] [Import] [info] (th=23056) Textures count (imported): 1

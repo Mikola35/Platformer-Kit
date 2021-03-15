@@ -1,0 +1,34 @@
+[13:02:38.937824] [Import] [info] (th=18040) Log level for 'Import' set to 'info'
+[13:02:38.937916] [Import] [info] (th=18040) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\Tree_leaves.fbx
+[13:02:38.945343] [Import] [info] (th=18040) Imported scene tree:
+name: "RootNode"
+
+	name: "Tree_Leaves"
+	numMeshes: 1
+	 addr: "0000023C7ED37E00"
+	 name: "Mesh.144"
+	 numVertices: "3864"
+	 numFaces: "2898"
+	
+	
+
+[13:02:38.945415] [Import] [info] (th=18040) File loaded successfully
+[13:02:38.945476] [Import] [info] (th=18040) Meshes count: 1
+[13:02:38.945515] [Import] [info] (th=18040) Materials count: 1
+[13:03:23.715785] [Import] [info] (th=18040) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\ExampleKit\Tree_Trunk.fbx
+[13:03:23.720296] [Import] [info] (th=18040) Imported scene tree:
+name: "RootNode"
+
+	name: "Tree"
+	numMeshes: 1
+	 addr: "0000023C7ED3A330"
+	 name: "Mesh.116"
+	 numVertices: "1346"
+	 numFaces: "1974"
+	
+	
+
+[13:03:23.720338] [Import] [info] (th=18040) File loaded successfully
+[13:03:23.720372] [Import] [info] (th=18040) Meshes count: 1
+[13:03:23.720562] [Import] [info] (th=18040) Materials count: 1
+[13:03:23.720784] [Import] [warning] (th=18040) It seems that scene structure is different
