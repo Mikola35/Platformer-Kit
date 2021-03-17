@@ -1,0 +1,99 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "7ED922DC-534C-4020-869B-741D3B1EB369"
+            },
+            "name": "Stairs_4x2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "6549F391-729C-47CC-9055-D0016F901C0E"
+                    }
+                }
+            ],
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "110EB783-AFEE-4780-BA16-1240A49A891C"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "C72A0C77-8507-481C-AB9A-8419D16FE4A3"
+                },
+                "mapsStates": 127
+            },
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "B08EE595-DCD5-45CE-8302-312C8753212B"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        -0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        19.0,
+                        0.0,
+                        19.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        -92.5,
+                        0.0,
+                        13.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Stairs_4x2",
+                "importedName": "Stairs_4x2",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "1CB292BE-AF06-4A6F-B841-784FC47072D9"
+        },
+        "is_asset_root": true,
+        "asset_name": "Stairs_4x2"
+    }
+]

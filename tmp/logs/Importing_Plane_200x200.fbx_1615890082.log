@@ -1,0 +1,19 @@
+[12:21:22.789134] [Import] [info] (th=1357621) Log level for 'Import' set to 'info'
+[12:21:22.811004] [Import] [info] (th=1357621) Importing from /Users/nikolay/Documents/Models/Plane_200x200.fbx
+[12:21:22.839326] [Import] [info] (th=1357621) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane_zero"
+	numMeshes: 1
+	 addr: "0x7fbb7182ee00"
+	 name: "Plane.004"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+
+[12:21:22.839336] [Import] [info] (th=1357621) File loaded successfully
+[12:21:22.839342] [Import] [info] (th=1357621) Meshes count: 1
+[12:21:22.839347] [Import] [info] (th=1357621) Materials count: 1
+[12:21:22.860619] [Import] [warning] (th=1357621) Texture not found: /Users/nikolay/Documents/Models/E:/!_WORK/GAMEdev/Manu/Manu_all/Platformer-Prototype-Example-Kit-main/Platformer-Prototype-Example-Kit-main/images/T_Dark_D 2.jpg
+[12:21:22.860662] [Import] [info] (th=1357621) Textures count (imported): 0

@@ -1,0 +1,79 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "B32AB4CF-94FF-426B-8666-7E3A7EF02B2F"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "3A402693-D9BB-492E-AB63-9EF80A92FF45"
+                },
+                "name": "Crystal_01",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "51D48150-F166-4D96-BA69-CB036CBFA104"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 6,
+                        "name": "Crystal_03 4"
+                    }
+                },
+                "animation": {
+                    "uuid": "CC450042-3DBE-4981-9DAD-82E11731B836"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "7E913F19-F3B0-433F-A2BE-DAFF0EE3B4FC"
+            },
+            "ownerScriptId": {
+                "uuid": "B32AB4CF-94FF-426B-8666-7E3A7EF02B2F"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "in",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "C95EA845-BC44-4DCC-857D-B0257C48D480"
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "51D48150-F166-4D96-BA69-CB036CBFA104"
+                },
+                "targetRelativeAddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 6,
+                    "name": "Crystal_03 4"
+                }
+            },
+            "allowed": false
+        }
+    ]
+}

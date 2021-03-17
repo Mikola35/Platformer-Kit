@@ -1,0 +1,13 @@
+{
+    "@class": "Mesh",
+    "id": {
+        "uuid": "110EB783-AFEE-4780-BA16-1240A49A891C"
+    },
+    "hasPositions": true,
+    "hasColors": false,
+    "hasUV": true,
+    "hasNormals": true,
+    "hasTangents": true,
+    "hasBinormals": true,
+    "hasSkinAttributes": false
+}

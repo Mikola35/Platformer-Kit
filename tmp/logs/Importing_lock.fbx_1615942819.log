@@ -1,0 +1,17 @@
+[03:00:19.991664] [Import] [info] (th=1607877) Log level for 'Import' set to 'info'
+[03:00:19.992664] [Import] [info] (th=1607877) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/lock.fbx
+[03:00:20.016600] [Import] [info] (th=1607877) Imported scene tree:
+name: "RootNode"
+
+	name: "Lock_Deadbolt"
+	numMeshes: 1
+	 addr: "0x7fb44832c000"
+	 name: "Mesh.098"
+	 numVertices: "140"
+	 numFaces: "92"
+	
+	
+
+[03:00:20.016610] [Import] [info] (th=1607877) File loaded successfully
+[03:00:20.016615] [Import] [info] (th=1607877) Meshes count: 1
+[03:00:20.017217] [Import] [info] (th=1607877) Materials count: 1
