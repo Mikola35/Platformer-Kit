@@ -1,0 +1,291 @@
+[02:12:46.886048] [Import] [info] (th=257745) Log level for 'Import' set to 'info'
+[02:12:46.886751] [Import] [info] (th=257745) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_DAE/Braced Hang.fbx
+[02:12:46.949566] [Import] [info] (th=257745) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7fbf5589d400"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[02:12:46.949596] [Import] [info] (th=257745) File loaded successfully
+[02:12:46.949605] [Import] [info] (th=257745) Meshes count: 1
+[02:12:46.949607] [Import] [info] (th=257745) Materials count: 1
+[02:12:46.950095] [Import] [error] (th=257745) Cannot find node: G_male_base_armature
+[02:12:46.950169] [Import] [error] (th=257745) File's animations are incompatible with the selected MANU's node
+[02:12:55.858287] [Import] [info] (th=257745) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations_DAE/Braced Hang.fbx
+[02:12:55.899227] [Import] [info] (th=257745) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7fbf55890200"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[02:12:55.899237] [Import] [info] (th=257745) File loaded successfully
+[02:12:55.899242] [Import] [info] (th=257745) Meshes count: 1
+[02:12:55.899251] [Import] [info] (th=257745) Materials count: 1

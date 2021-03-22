@@ -1,1 +1,0 @@
-{"@class":"Collider","id":{"uuid":"D9CD3420-7FF6-40C6-B0CB-3D25B8010D1D"},"colliderInfo":[{"@class":"ColliderInfo","collisionShape":"convexHullMesh","alongAxis":"oy","center":{"values":[0.0,0.0,0.0]},"params":{"values":[2.0000009536743166,1.2500391006469727,2.0000007152557375]},"color":{"values":[1.0,1.0,1.0]},"isSelected":false}]}

@@ -1,0 +1,152 @@
+[00:28:46.242219] [Import] [info] (th=1415775) Log level for 'Import' set to 'info'
+[00:28:46.242590] [Import] [info] (th=1415775) Importing from /Users/nikolay/Documents/Models/cylinder.fbx
+[00:28:46.257495] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "0x7fd7517e8800"
+	 name: "Cylinder"
+	 numVertices: "66"
+	 numFaces: "64"
+	
+	
+
+[00:28:46.257507] [Import] [info] (th=1415775) File loaded successfully
+[00:28:46.257523] [Import] [info] (th=1415775) Meshes count: 1
+[00:28:46.257525] [Import] [info] (th=1415775) Materials count: 1
+[00:28:46.262004] [Import] [info] (th=1415775) Textures count (imported): 1
+[00:30:55.563205] [Import] [info] (th=1415775) Importing from /Users/nikolay/Documents/Models/cylinder.fbx
+[00:30:55.565784] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "0x7fd754e07600"
+	 name: "Cylinder"
+	 numVertices: "66"
+	 numFaces: "64"
+	
+	
+
+[00:30:55.565799] [Import] [info] (th=1415775) File loaded successfully
+[00:30:55.565805] [Import] [info] (th=1415775) Meshes count: 1
+[00:30:55.565807] [Import] [info] (th=1415775) Materials count: 1
+[00:30:55.566862] [Import] [warning] (th=1415775) It seems that scene structure is different
+[00:31:04.142701] [Import] [info] (th=1415775) Importing from /Users/nikolay/Documents/Models/cylinder.fbx
+[00:31:04.143799] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "0x7fd754d91c00"
+	 name: "Cylinder"
+	 numVertices: "66"
+	 numFaces: "64"
+	
+	
+
+[00:31:04.143806] [Import] [info] (th=1415775) File loaded successfully
+[00:31:04.143819] [Import] [info] (th=1415775) Meshes count: 1
+[00:31:04.143821] [Import] [info] (th=1415775) Materials count: 1
+[00:31:04.143903] [Import] [info] (th=1415775) Textures count (imported): 1
+[00:32:20.587933] [Import] [info] (th=1415775) Importing from /Users/nikolay/Documents/Models/cylinder_invert.fbx
+[00:32:20.589846] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "0x7fd754f11000"
+	 name: "Cylinder"
+	 numVertices: "66"
+	 numFaces: "64"
+	
+	
+
+[00:32:20.589856] [Import] [info] (th=1415775) File loaded successfully
+[00:32:20.589867] [Import] [info] (th=1415775) Meshes count: 1
+[00:32:20.589868] [Import] [info] (th=1415775) Materials count: 1
+[00:32:20.590053] [Import] [info] (th=1415775) Textures count (imported): 1
+[00:48:31.388383] [Import] [info] (th=1415775) Importing from /Users/nikolay/Documents/Models/cylinder_invert.fbx
+[00:48:31.389836] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "0x7fd754c2ca00"
+	 name: "Cylinder"
+	 numVertices: "66"
+	 numFaces: "64"
+	
+	
+
+[00:48:31.389844] [Import] [info] (th=1415775) File loaded successfully
+[00:48:31.389848] [Import] [info] (th=1415775) Meshes count: 1
+[00:48:31.389849] [Import] [info] (th=1415775) Materials count: 1
+[00:48:31.389873] [Import] [warning] (th=1415775) It seems that scene structure is different
+[00:48:40.307675] [Import] [info] (th=1415775) Importing from /Users/nikolay/Documents/Models/cylinder_invert.fbx
+[00:48:40.308794] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "0x7fd754c66c00"
+	 name: "Cylinder"
+	 numVertices: "66"
+	 numFaces: "64"
+	
+	
+
+[00:48:40.308801] [Import] [info] (th=1415775) File loaded successfully
+[00:48:40.309677] [Import] [info] (th=1415775) Meshes count: 1
+[00:48:40.309679] [Import] [info] (th=1415775) Materials count: 1
+[00:48:51.750994] [Import] [info] (th=1415775) Importing from /Users/nikolay/Documents/Models/cylinder_invert.fbx
+[00:48:51.752259] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "0x7fd73bd80400"
+	 name: "Cylinder"
+	 numVertices: "66"
+	 numFaces: "64"
+	
+	
+
+[00:48:51.752268] [Import] [info] (th=1415775) File loaded successfully
+[00:48:51.752270] [Import] [info] (th=1415775) Meshes count: 1
+[00:48:51.752272] [Import] [info] (th=1415775) Materials count: 1
+[00:48:51.752284] [Import] [warning] (th=1415775) It seems that scene structure is different
+[00:49:31.966255] [Import] [info] (th=1415775) Importing from /Users/nikolay/Documents/Models/cylinder.fbx
+[00:49:31.967541] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "0x7fd73a656800"
+	 name: "Cylinder"
+	 numVertices: "66"
+	 numFaces: "64"
+	
+	
+
+[00:49:31.967561] [Import] [info] (th=1415775) File loaded successfully
+[00:49:31.967564] [Import] [info] (th=1415775) Meshes count: 1
+[00:49:31.967565] [Import] [info] (th=1415775) Materials count: 1
+[00:49:54.390639] [Import] [info] (th=1415775) Importing from /Users/nikolay/Documents/Models/cylinder_invert.fbx
+[00:49:54.391707] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "0x7fd75497b000"
+	 name: "Cylinder"
+	 numVertices: "66"
+	 numFaces: "64"
+	
+	
+
+[00:49:54.391711] [Import] [info] (th=1415775) File loaded successfully
+[00:49:54.391714] [Import] [info] (th=1415775) Meshes count: 1
+[00:49:54.391715] [Import] [info] (th=1415775) Materials count: 1
+[00:49:54.391726] [Import] [warning] (th=1415775) It seems that scene structure is different

@@ -1,0 +1,146 @@
+[21:57:20.369267] [Import] [info] (th=1415775) Log level for 'Import' set to 'info'
+[21:57:20.371120] [Import] [info] (th=1415775) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/unic_2_floor.fbx
+[21:57:20.390679] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "0x7fd74b707c00"
+	 name: "Cube"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[21:57:20.390692] [Import] [info] (th=1415775) File loaded successfully
+[21:57:20.390698] [Import] [info] (th=1415775) Meshes count: 1
+[21:57:20.390700] [Import] [info] (th=1415775) Materials count: 1
+[21:57:20.392721] [Import] [info] (th=1415775) Textures count (imported): 0
+[22:00:50.206119] [Import] [info] (th=1415775) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/uniq_2_floor.fbx
+[22:00:50.207645] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "0x7fd73a3cc800"
+	 name: "Cube"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[22:00:50.207655] [Import] [info] (th=1415775) File loaded successfully
+[22:00:50.207659] [Import] [info] (th=1415775) Meshes count: 1
+[22:00:50.207661] [Import] [info] (th=1415775) Materials count: 1
+[22:04:34.559841] [Import] [info] (th=1415775) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/uniq_2_floor.fbx
+[22:04:34.562497] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "0x7fd74b65dc00"
+	 name: "Cube"
+	 numVertices: "216"
+	 numFaces: "144"
+	
+	
+
+[22:04:34.562505] [Import] [info] (th=1415775) File loaded successfully
+[22:04:34.562514] [Import] [info] (th=1415775) Meshes count: 1
+[22:04:34.562516] [Import] [info] (th=1415775) Materials count: 1
+[22:16:57.369794] [Import] [info] (th=1415775) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/uniq_2_floor.fbx
+[22:16:57.372946] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "0x7fd73a26ce00"
+	 name: "Cube"
+	 numVertices: "154"
+	 numFaces: "144"
+	
+	
+
+[22:16:57.372957] [Import] [info] (th=1415775) File loaded successfully
+[22:16:57.372962] [Import] [info] (th=1415775) Meshes count: 1
+[22:16:57.372963] [Import] [info] (th=1415775) Materials count: 1
+[22:25:14.997528] [Import] [info] (th=1415775) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/uniq_2_floor.fbx
+[22:25:14.999936] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "0x7fd74b6fd000"
+	 name: "Cube"
+	 numVertices: "154"
+	 numFaces: "144"
+	
+	
+
+[22:25:14.999941] [Import] [info] (th=1415775) File loaded successfully
+[22:25:14.999946] [Import] [info] (th=1415775) Meshes count: 1
+[22:25:14.999947] [Import] [info] (th=1415775) Materials count: 1
+[22:36:32.278718] [Import] [info] (th=1415775) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/uniq_2_floor.fbx
+[22:36:32.281055] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "0x7fd74b406800"
+	 name: "Cube"
+	 numVertices: "154"
+	 numFaces: "144"
+	
+	
+
+[22:36:32.281062] [Import] [info] (th=1415775) File loaded successfully
+[22:36:32.281066] [Import] [info] (th=1415775) Meshes count: 1
+[22:36:32.281067] [Import] [info] (th=1415775) Materials count: 1
+[22:44:36.820320] [Import] [info] (th=1415775) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/uniq_2_floor.fbx
+[22:44:36.822394] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "uniq_2_floor"
+	numMeshes: 1
+	 addr: "0x7fd74b52b000"
+	 name: "uniq_2_floor"
+	 numVertices: "154"
+	 numFaces: "144"
+	
+	
+
+[22:44:36.822411] [Import] [info] (th=1415775) File loaded successfully
+[22:44:36.822415] [Import] [info] (th=1415775) Meshes count: 1
+[22:44:36.822416] [Import] [info] (th=1415775) Materials count: 1
+[22:47:49.745256] [Import] [info] (th=1415775) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/uniq_2_floor.fbx
+[22:47:49.747046] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "uniq_2_floor"
+	numMeshes: 1
+	 addr: "0x7fd74ca59a00"
+	 name: "uniq_2_floor"
+	 numVertices: "154"
+	 numFaces: "144"
+	
+	
+
+[22:47:49.747054] [Import] [info] (th=1415775) File loaded successfully
+[22:47:49.747059] [Import] [info] (th=1415775) Meshes count: 1
+[22:47:49.747060] [Import] [info] (th=1415775) Materials count: 1
+[22:49:08.902405] [Import] [info] (th=1415775) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/uniq_2_floor.fbx
+[22:49:08.904458] [Import] [info] (th=1415775) Imported scene tree:
+name: "RootNode"
+
+	name: "uniq_2_floor"
+	numMeshes: 1
+	 addr: "0x7fd74b7da600"
+	 name: "uniq_2_floor"
+	 numVertices: "154"
+	 numFaces: "144"
+	
+	
+
+[22:49:08.905142] [Import] [info] (th=1415775) File loaded successfully
+[22:49:08.905149] [Import] [info] (th=1415775) Meshes count: 1
+[22:49:08.905151] [Import] [info] (th=1415775) Materials count: 1

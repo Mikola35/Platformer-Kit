@@ -1,0 +1,867 @@
+[14:48:18.293711] [Import] [info] (th=55078) Log level for 'Import' set to 'info'
+[14:48:18.294270] [Import] [info] (th=55078) Importing from /Users/nikolay/Documents/Models/platformer-pack/Easy Animated Enemy Pack - Jan 2019/FBX/Spider.fbx
+[14:48:18.396205] [Import] [info] (th=55078) Imported scene tree:
+name: "RootNode"
+
+	name: "HumanArmature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "FrontLeg.L"
+				
+					name: "FrontLeg2.L"
+					
+						name: "FrontLeg3.L"
+						
+							name: "FrontLeg3.L_end"
+							
+				name: "MidFrontLeg.L"
+				
+					name: "MidFrontLeg2.L"
+					
+						name: "MidFrontLeg3.L"
+						
+							name: "MidFrontLeg3.L_end"
+							
+				name: "BackLeg.L"
+				
+					name: "BackLeg2.L"
+					
+						name: "BackLeg3.L"
+						
+							name: "BackLeg3.L_end"
+							
+				name: "MidBackLeg.L"
+				
+					name: "MidBackLeg2.L"
+					
+						name: "MidBackLeg3.L"
+						
+							name: "MidBackLeg3.L_end"
+							
+				name: "FrontLeg.R"
+				
+					name: "FrontLeg2.R"
+					
+						name: "FrontLeg3.R"
+						
+							name: "FrontLeg3.R_end"
+							
+				name: "MidFrontLeg.R"
+				
+					name: "MidFrontLeg2.R"
+					
+						name: "MidFrontLeg3.R"
+						
+							name: "MidFrontLeg3.R_end"
+							
+				name: "BackLeg.R"
+				
+					name: "BackLeg2.R"
+					
+						name: "BackLeg3.R"
+						
+							name: "BackLeg3.R_end"
+							
+				name: "MidBackLeg.R"
+				
+					name: "MidBackLeg2.R"
+					
+						name: "MidBackLeg3.R"
+						
+							name: "MidBackLeg3.R_end"
+							
+				name: "Abdomen"
+				
+					name: "Abdomen_end"
+					
+				name: "Thorax"
+				
+					name: "Head"
+					
+						name: "Head_end"
+						
+			name: "PoleTarget.L"
+			
+				name: "PoleTarget.L_end"
+				
+			name: "FrontFoot.L"
+			
+				name: "FrontFoot.L_end"
+				
+			name: "MidFrontFoot.L"
+			
+				name: "MidFrontFoot.L_end"
+				
+			name: "BackFoot.L"
+			
+				name: "BackFoot.L_end"
+				
+			name: "MidBackFoot.L"
+			
+				name: "MidBackFoot.L_end"
+				
+			name: "PoleTarget.R"
+			
+				name: "PoleTarget.R_end"
+				
+			name: "FrontFoot2.R"
+			
+				name: "FrontFoot2.R_end"
+				
+			name: "MidFrontFoot.R"
+			
+				name: "MidFrontFoot.R_end"
+				
+			name: "BackFoot.R"
+			
+				name: "BackFoot.R_end"
+				
+			name: "MidBackFoot.R"
+			
+				name: "MidBackFoot.R_end"
+				
+	name: "Cube"
+	numMeshes: 2
+	 addr: "0x7fc84f9a8200"
+	 name: "Cube"
+	 numVertices: "3850"
+	 numFaces: "1944"
+	
+	 addr: "0x7fc8511d3800"
+	 name: "Cube"
+	 numVertices: "1536"
+	 numFaces: "768"
+	
+	
+
+[14:48:18.396221] [Import] [info] (th=55078) File loaded successfully
+[14:48:18.397693] [Import] [info] (th=55078) Meshes count: 2
+[14:48:18.397701] [Import] [info] (th=55078) Materials count: 2
+[14:48:18.401887] [Import] [info] (th=55078) Textures count (imported): 0
+[15:07:24.637563] [Import] [info] (th=55078) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Generic_male_base.fbx
+[15:07:24.709479] [Import] [info] (th=55078) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7fc85002c000"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[15:07:24.710836] [Import] [info] (th=55078) File loaded successfully
+[15:07:24.710859] [Import] [info] (th=55078) Meshes count: 1
+[15:07:24.710862] [Import] [info] (th=55078) Materials count: 1
+[15:07:24.716348] [Import] [info] (th=55078) Textures count (imported): 2
+[15:08:33.091558] [Import] [info] (th=55078) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Generic_male_base.fbx
+[15:08:33.129420] [Import] [info] (th=55078) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7fc850529400"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[15:08:33.130939] [Import] [info] (th=55078) File loaded successfully
+[15:08:33.130977] [Import] [info] (th=55078) Meshes count: 1
+[15:08:33.130981] [Import] [info] (th=55078) Materials count: 1
+[15:08:53.418757] [Import] [info] (th=55078) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Generic_male_base.fbx
+[15:08:53.457096] [Import] [info] (th=55078) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7fc8504aee00"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[15:08:53.457107] [Import] [info] (th=55078) File loaded successfully
+[15:08:53.457112] [Import] [info] (th=55078) Meshes count: 1
+[15:08:53.457113] [Import] [info] (th=55078) Materials count: 1
+[15:08:53.457180] [Import] [warning] (th=55078) It seems that scene structure is different
+[15:09:56.011862] [Import] [info] (th=55078) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Generic_male_base.fbx
+[15:09:56.058306] [Import] [info] (th=55078) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7fc8489ef400"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[15:09:56.058317] [Import] [info] (th=55078) File loaded successfully
+[15:09:56.058322] [Import] [info] (th=55078) Meshes count: 1
+[15:09:56.058324] [Import] [info] (th=55078) Materials count: 1
+[15:09:56.058395] [Import] [warning] (th=55078) It seems that scene structure is different
+[15:11:47.183116] [Import] [info] (th=55078) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Generic_male_base.fbx
+[15:11:47.228311] [Import] [info] (th=55078) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7fc84f509e00"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[15:11:47.228332] [Import] [info] (th=55078) File loaded successfully
+[15:11:47.228337] [Import] [info] (th=55078) Meshes count: 1
+[15:11:47.228345] [Import] [info] (th=55078) Materials count: 1
+[15:11:47.228419] [Import] [warning] (th=55078) It seems that scene structure is different
