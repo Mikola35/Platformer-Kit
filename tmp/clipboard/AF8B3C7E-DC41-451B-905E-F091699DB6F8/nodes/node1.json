@@ -1,0 +1,84 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "CCE706F8-9BE9-4D14-A140-A2EDD6D9CC3E"
+            },
+            "name": "Floor_2x2_H2_corner_up_solid",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "38BA0274-0CFB-442F-8159-FB20F3ED0721"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "C72A0C77-8507-481C-AB9A-8419D16FE4A3"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        -3.0,
+                        3.0,
+                        5.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        7.0,
+                        -17.0,
+                        55.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Floor_2x2_H2_corner_up_solid",
+                "importedName": "Floor_2x2_H2_corner_up_solid",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "76EE5725-6FE1-486A-BEC2-B9577DEA7EE9"
+        },
+        "is_asset_root": true,
+        "asset_name": "Floor_2x2_H2_corner_up_solid"
+    }
+]

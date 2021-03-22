@@ -1,0 +1,84 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "9E099388-98B1-4829-9BCB-D1A11A907C99"
+            },
+            "name": "Roof_2_base_4x4_corner_IN",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "9F6FF6A5-7F70-4E9D-923A-D669CA0137B2"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "1546C73B-1023-442E-92BF-70A5981B0A55"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        3.5762786865234377e-7,
+                        0.0,
+                        -0.9999999403953552,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.9999999403953552,
+                        0.0,
+                        3.5762786865234377e-7,
+                        0.0,
+                        10.0,
+                        4.0,
+                        -18.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.9999999403953552,
+                        0.0,
+                        4.76837158203125e-7,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -4.76837158203125e-7,
+                        0.0,
+                        0.9999999403953552,
+                        0.0,
+                        37.0,
+                        -16.0,
+                        30.000001907348634,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Roof_2_base_4x4_corner_IN",
+                "importedName": "Roof_2_base_4x4_corner_IN",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "45177906-CA6F-4BD4-9E05-70121C89207F"
+        },
+        "is_asset_root": true,
+        "asset_name": "Roof_2_base_4x4_corner_IN"
+    }
+]

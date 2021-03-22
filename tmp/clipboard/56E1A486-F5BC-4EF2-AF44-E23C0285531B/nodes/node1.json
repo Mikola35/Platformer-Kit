@@ -1,0 +1,84 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "1440964B-FF2E-4E16-856E-4FD12E651825"
+            },
+            "name": "Floor_2x2_H1_corner_up",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "8D92D6B7-F24E-4FDF-AD37-C31EDE140791"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "EA672A9C-76EE-4601-912D-5EF92937D6D6"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        -6.47515869140625,
+                        0.0,
+                        2.94580078125,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        80.52484130859375,
+                        0.0,
+                        3.19580078125,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Floor_2x2_H1_corner_up",
+                "importedName": "Floor_2x2_H1_corner_up",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "8DF2277B-2129-4394-B755-61B602530998"
+        },
+        "is_asset_root": true,
+        "asset_name": "Floor_2x2_H1_corner_up"
+    }
+]

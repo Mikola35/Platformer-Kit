@@ -1,0 +1,1226 @@
+[11:54:27.116297] [Import] [info] (th=1601195) Log level for 'Import' set to 'info'
+[11:54:27.117694] [Import] [info] (th=1601195) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/untitled folder/G_male_11_wall_idle.fbx
+[11:54:27.144035] [Import] [info] (th=1601195) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+									name: "Head_end"
+									
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb3.L_end"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index3.L_end"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle3.L_end"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring3.L_end"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky3.L_end"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb3.R_end"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index3.R_end"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle3.R_end"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring3.R_end"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky3.R_end"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+								name: "toe.L_end"
+								
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+								name: "toe.R_end"
+								
+			name: "IK_hand.L"
+			
+				name: "IK_hand.L_end"
+				
+			name: "IK_hand.R"
+			
+				name: "IK_hand.R_end"
+				
+			name: "IK_elbow.L"
+			
+				name: "IK_elbow.L_end"
+				
+			name: "IK_elbow.R"
+			
+				name: "IK_elbow.R_end"
+				
+			name: "IK_foot.L"
+			
+				name: "IK_foot.L_end"
+				
+			name: "IK_foot.R"
+			
+				name: "IK_foot.R_end"
+				
+			name: "IK_knee.L"
+			
+				name: "IK_knee.L_end"
+				
+			name: "IK_knee.R"
+			
+				name: "IK_knee.R_end"
+				
+
+[11:54:27.144053] [Import] [info] (th=1601195) File loaded successfully
+[11:54:27.144062] [Import] [info] (th=1601195) Meshes count: 0
+[11:54:27.144063] [Import] [info] (th=1601195) Materials count: 0
+[11:54:45.060631] [Import] [info] (th=1601195) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/untitled folder/G_male_12_wall_jumpUP.fbx
+[11:54:45.076098] [Import] [info] (th=1601195) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+									name: "Head_end"
+									
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb3.L_end"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index3.L_end"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle3.L_end"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring3.L_end"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky3.L_end"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb3.R_end"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index3.R_end"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle3.R_end"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring3.R_end"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky3.R_end"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+								name: "toe.L_end"
+								
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+								name: "toe.R_end"
+								
+			name: "IK_hand.L"
+			
+				name: "IK_hand.L_end"
+				
+			name: "IK_hand.R"
+			
+				name: "IK_hand.R_end"
+				
+			name: "IK_elbow.L"
+			
+				name: "IK_elbow.L_end"
+				
+			name: "IK_elbow.R"
+			
+				name: "IK_elbow.R_end"
+				
+			name: "IK_foot.L"
+			
+				name: "IK_foot.L_end"
+				
+			name: "IK_foot.R"
+			
+				name: "IK_foot.R_end"
+				
+			name: "IK_knee.L"
+			
+				name: "IK_knee.L_end"
+				
+			name: "IK_knee.R"
+			
+				name: "IK_knee.R_end"
+				
+
+[11:54:45.076109] [Import] [info] (th=1601195) File loaded successfully
+[11:54:45.076114] [Import] [info] (th=1601195) Meshes count: 0
+[11:54:45.076115] [Import] [info] (th=1601195) Materials count: 0
+[12:55:03.439345] [Import] [info] (th=1601195) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations 2 (Gr)/G_male_11_wall_idle.fbx
+[12:55:03.445661] [Import] [info] (th=1601195) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+									name: "Head_end"
+									
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb3.L_end"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index3.L_end"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle3.L_end"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring3.L_end"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky3.L_end"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb3.R_end"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index3.R_end"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle3.R_end"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring3.R_end"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky3.R_end"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+								name: "toe.L_end"
+								
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+								name: "toe.R_end"
+								
+			name: "IK_hand.L"
+			
+				name: "IK_hand.L_end"
+				
+			name: "IK_hand.R"
+			
+				name: "IK_hand.R_end"
+				
+			name: "IK_elbow.L"
+			
+				name: "IK_elbow.L_end"
+				
+			name: "IK_elbow.R"
+			
+				name: "IK_elbow.R_end"
+				
+			name: "IK_foot.L"
+			
+				name: "IK_foot.L_end"
+				
+			name: "IK_foot.R"
+			
+				name: "IK_foot.R_end"
+				
+			name: "IK_knee.L"
+			
+				name: "IK_knee.L_end"
+				
+			name: "IK_knee.R"
+			
+				name: "IK_knee.R_end"
+				
+
+[12:55:03.446596] [Import] [info] (th=1601195) File loaded successfully
+[12:55:03.446607] [Import] [info] (th=1601195) Meshes count: 0
+[12:55:03.446609] [Import] [info] (th=1601195) Materials count: 0
+[12:55:14.407884] [Import] [info] (th=1601195) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations 2 (Gr)/G_male_12_wall_jumpUP.fbx
+[12:55:14.414623] [Import] [info] (th=1601195) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+									name: "Head_end"
+									
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb3.L_end"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index3.L_end"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle3.L_end"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring3.L_end"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky3.L_end"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb3.R_end"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index3.R_end"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle3.R_end"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring3.R_end"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky3.R_end"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+								name: "toe.L_end"
+								
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+								name: "toe.R_end"
+								
+			name: "IK_hand.L"
+			
+				name: "IK_hand.L_end"
+				
+			name: "IK_hand.R"
+			
+				name: "IK_hand.R_end"
+				
+			name: "IK_elbow.L"
+			
+				name: "IK_elbow.L_end"
+				
+			name: "IK_elbow.R"
+			
+				name: "IK_elbow.R_end"
+				
+			name: "IK_foot.L"
+			
+				name: "IK_foot.L_end"
+				
+			name: "IK_foot.R"
+			
+				name: "IK_foot.R_end"
+				
+			name: "IK_knee.L"
+			
+				name: "IK_knee.L_end"
+				
+			name: "IK_knee.R"
+			
+				name: "IK_knee.R_end"
+				
+
+[12:55:14.414650] [Import] [info] (th=1601195) File loaded successfully
+[12:55:14.414655] [Import] [info] (th=1601195) Meshes count: 0
+[12:55:14.414656] [Import] [info] (th=1601195) Materials count: 0
+[12:55:27.474076] [Import] [info] (th=1601195) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations 2 (Gr)/Gr_Animations/G_male_01_Idle.fbx
+[12:55:27.491986] [Import] [info] (th=1601195) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+									name: "Head_end"
+									
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb3.L_end"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index3.L_end"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle3.L_end"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring3.L_end"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky3.L_end"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb3.R_end"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index3.R_end"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle3.R_end"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring3.R_end"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky3.R_end"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+								name: "toe.L_end"
+								
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+								name: "toe.R_end"
+								
+			name: "IK_hand.L"
+			
+				name: "IK_hand.L_end"
+				
+			name: "IK_hand.R"
+			
+				name: "IK_hand.R_end"
+				
+			name: "IK_elbow.L"
+			
+				name: "IK_elbow.L_end"
+				
+			name: "IK_elbow.R"
+			
+				name: "IK_elbow.R_end"
+				
+			name: "IK_foot.L"
+			
+				name: "IK_foot.L_end"
+				
+			name: "IK_foot.R"
+			
+				name: "IK_foot.R_end"
+				
+			name: "IK_knee.L"
+			
+				name: "IK_knee.L_end"
+				
+			name: "IK_knee.R"
+			
+				name: "IK_knee.R_end"
+				
+
+[12:55:27.492007] [Import] [info] (th=1601195) File loaded successfully
+[12:55:27.492012] [Import] [info] (th=1601195) Meshes count: 0
+[12:55:27.492014] [Import] [info] (th=1601195) Materials count: 0
+[12:55:50.071276] [Import] [info] (th=1601195) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Generic_male_base2.fbx
+[12:55:50.134800] [Import] [info] (th=1601195) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+									name: "Head_end"
+									
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+															name: "f_Thumb4.L_end"
+															
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+															name: "f_Index4.L_end"
+															
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+															name: "f_Middle4.L_end"
+															
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+															name: "f_Ring4.L_end"
+															
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+															name: "f_Pinky4.L_end"
+															
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+															name: "f_Thumb4.R_end"
+															
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+															name: "f_Index4.R_end"
+															
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+															name: "f_Middle4.R_end"
+															
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+															name: "f_Ring4.R_end"
+															
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+															name: "f_Pinky4.R_end"
+															
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+								name: "toe.L_end"
+								
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+								name: "toe.R_end"
+								
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7fa415833400"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[12:55:50.134812] [Import] [info] (th=1601195) File loaded successfully
+[12:55:50.134816] [Import] [info] (th=1601195) Meshes count: 1
+[12:55:50.134818] [Import] [info] (th=1601195) Materials count: 1
+[12:55:50.135010] [Import] [error] (th=1601195) Cannot find node: f_Index4.L
+[12:55:50.135021] [Import] [error] (th=1601195) Cannot find node: f_Index4.R
+[12:55:50.135029] [Import] [error] (th=1601195) Cannot find node: f_Middle4.L
+[12:55:50.135031] [Import] [error] (th=1601195) Cannot find node: f_Middle4.R
+[12:55:50.135038] [Import] [error] (th=1601195) Cannot find node: f_Pinky4.L
+[12:55:50.135040] [Import] [error] (th=1601195) Cannot find node: f_Pinky4.R
+[12:55:50.135056] [Import] [error] (th=1601195) Cannot find node: f_Ring4.L
+[12:55:50.135058] [Import] [error] (th=1601195) Cannot find node: f_Ring4.R
+[12:55:50.135066] [Import] [error] (th=1601195) Cannot find node: f_Thumb4.L
+[12:55:50.135067] [Import] [error] (th=1601195) Cannot find node: f_Thumb4.R
+[12:55:50.135084] [Import] [error] (th=1601195) File's animations are incompatible with the selected MANU's node
+[12:56:11.907181] [Import] [info] (th=1601195) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animations 2 (Gr)/G_male_11_wall_idle.fbx
+[12:56:11.911642] [Import] [info] (th=1601195) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+									name: "Head_end"
+									
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb3.L_end"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index3.L_end"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle3.L_end"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring3.L_end"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky3.L_end"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb3.R_end"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index3.R_end"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle3.R_end"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring3.R_end"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky3.R_end"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+								name: "toe.L_end"
+								
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+								name: "toe.R_end"
+								
+			name: "IK_hand.L"
+			
+				name: "IK_hand.L_end"
+				
+			name: "IK_hand.R"
+			
+				name: "IK_hand.R_end"
+				
+			name: "IK_elbow.L"
+			
+				name: "IK_elbow.L_end"
+				
+			name: "IK_elbow.R"
+			
+				name: "IK_elbow.R_end"
+				
+			name: "IK_foot.L"
+			
+				name: "IK_foot.L_end"
+				
+			name: "IK_foot.R"
+			
+				name: "IK_foot.R_end"
+				
+			name: "IK_knee.L"
+			
+				name: "IK_knee.L_end"
+				
+			name: "IK_knee.R"
+			
+				name: "IK_knee.R_end"
+				
+
+[12:56:11.911654] [Import] [info] (th=1601195) File loaded successfully
+[12:56:11.911658] [Import] [info] (th=1601195) Meshes count: 0
+[12:56:11.911659] [Import] [info] (th=1601195) Materials count: 0

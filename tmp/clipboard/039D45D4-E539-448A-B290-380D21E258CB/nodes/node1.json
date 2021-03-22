@@ -1,0 +1,84 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "65B8935D-60EE-4434-A13D-80F9C3ADB792"
+            },
+            "name": "Floor_2x2_H1_solod",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "4C28B4A3-8B00-4B34-A5CE-9CA5441ABDF4"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "C72A0C77-8507-481C-AB9A-8419D16FE4A3"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        0.0,
+                        1.5099580252808665e-7,
+                        1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        2.2799733224976826e-14,
+                        1.5099580252808665e-7,
+                        -1.0,
+                        0.0,
+                        4.091493606567383,
+                        3.0,
+                        7.019931793212891,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        0.0,
+                        1.5099580252808665e-7,
+                        1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        2.2799733224976826e-14,
+                        1.5099580252808665e-7,
+                        -1.0,
+                        0.0,
+                        14.091493606567383,
+                        -17.0,
+                        57.01993179321289,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Floor_2x2_H1_solod",
+                "importedName": "Floor_2x2_H1_solod",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "EA63B1E3-8E81-4BA2-8337-8B1B0FC0DB94"
+        },
+        "is_asset_root": true,
+        "asset_name": "Floor_2x2_H1_solod"
+    }
+]

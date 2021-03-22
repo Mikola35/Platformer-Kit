@@ -1,0 +1,20 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "DB6C2B7E-8D91-4E81-B03F-775E3FB92A7C"
+    },
+    "name": "MainCharacter Body",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "C95EA845-BC44-4DCC-857D-B0257C48D480"
+        }
+    },
+    "animation": {
+        "uuid": "7EAE0AA7-9FAC-4B98-835F-D063A2C366D9"
+    },
+    "AnimationType": "object3D",
+    "is_imported": false,
+    "isEnabled": true
+}

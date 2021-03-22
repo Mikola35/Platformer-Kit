@@ -1,0 +1,96 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "017CCE93-9B49-41D9-897E-4271912AEA5D"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "6228FD90-EED1-4C20-93BB-CFF9945E25A5"
+                },
+                "name": "Crystal_01",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "9E402EBE-41F5-496A-9D5B-F45E3C0017C4"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 28,
+                        "name": "Crystal_01 6"
+                    }
+                },
+                "animation": {
+                    "uuid": "4028ACCE-98ED-4D82-B210-2B9F709A01CA"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "1DE0228F-4330-4111-9B39-86502457ED40"
+                },
+                "name": "Master Sound",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink"
+                },
+                "animation": {
+                    "uuid": "2976036E-8D00-4EBE-845A-C873AD5A72C3"
+                },
+                "AnimationType": "masterSound",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "C97D3A5D-13DA-4738-A7D7-5DA3085DDD9F"
+            },
+            "ownerScriptId": {
+                "uuid": "017CCE93-9B49-41D9-897E-4271912AEA5D"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "in",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "C95EA845-BC44-4DCC-857D-B0257C48D480"
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "9E402EBE-41F5-496A-9D5B-F45E3C0017C4"
+                },
+                "targetRelativeAddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 28,
+                    "name": "Crystal_01 6"
+                }
+            },
+            "allowed": false
+        }
+    ]
+}

@@ -1,0 +1,2880 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "4E5CE2BE-E034-4720-A52C-F77A23A7E36E"
+            },
+            "name": "House 30",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        87.0,
+                        0.0,
+                        0.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        87.0,
+                        0.0,
+                        0.25,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "children": [
+            "F08DEC1C-32CD-4B4E-B583-B4FDA15602A2",
+            "7B43AE0D-5279-4078-81DB-AE88700AE63E",
+            "97344C0A-D8A9-44D9-A7F7-FF713CB66B0C",
+            "B8E91433-F325-45AF-8991-1EEB8F67E8DA",
+            "DF4CAC30-FAB8-4348-AF32-20906DA66954",
+            "F261EED9-A5D6-4D3B-8728-0ED3CCAA99B9",
+            "A6F8D79B-F981-432B-8025-3FD2E0ABC75B",
+            "98FB635C-932D-48E6-BA78-E3526CF0E1A7",
+            "BA3B40E6-8B38-41EE-A27B-D6B62305A3C6",
+            "B42347EE-DF77-4CF5-95B8-068E93D306F3",
+            "60249177-E76E-4495-BE94-5A66CEFF3430",
+            "B4D25907-55CF-4272-9DA0-A0D6C0AC0ACD",
+            "0C0C113C-D9EC-41AA-995B-0916DB2DC4C7",
+            "688CE5A7-8642-47ED-BEBD-1D642ADAE20A",
+            "C1DCE004-72C3-42A3-A01A-8CCEAE70A7C3",
+            "C9B79E54-9888-4B82-9EF4-2C32216B2629",
+            "572D6DFC-5A3A-46AA-ADB7-196D56427E75",
+            "A00F5524-8021-4D32-BC7E-7BA41E88B6B6",
+            "6500A829-1691-4C12-B046-231956496283",
+            "3D13B078-BA94-40F3-AA39-21C605908A2F",
+            "8AD6DD00-C604-4AD3-8B2B-72D4A9F313F8",
+            "35504346-7242-48B5-A8DB-04A06D652C31",
+            "385C09EB-B581-459A-A0E0-B9019765D7B7",
+            "3D9CF7A3-2443-4CB1-9E79-BAB77DDB0F31",
+            "6C6BAE1A-CD43-41C0-8EF6-2756A9ACF497",
+            "C245A56A-EB95-433C-B72A-AD80E3ED9F2B",
+            "32B8A593-2E63-4ACD-BC69-7C781C65C432",
+            "3D8E9898-0C31-412B-9825-2E46175CED12",
+            "DBDE4A2B-5A56-42F3-BFDE-1EF28C768F14",
+            "CC20EF6F-4725-4431-BF6D-7E5F259CA25E",
+            "8391DE89-FE9E-448D-AB98-44EB94B2B62A"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "F08DEC1C-32CD-4B4E-B583-B4FDA15602A2"
+            },
+            "name": "Lock Collider",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "562E3E0C-ACCE-4E67-859D-A9EAA2BDA009"
+                    }
+                }
+            ],
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "E07FB9D5-E865-4482-AC87-6B579802A9B3"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.0,
+                        0.0,
+                        -8.742277657347586e-8,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        8.742277657347586e-8,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        -5.2181549072265629,
+                        2.331052303314209,
+                        0.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.0,
+                        0.0,
+                        -8.742277657347586e-8,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        8.742277657347586e-8,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        81.78184509277344,
+                        2.331052303314209,
+                        0.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "7B43AE0D-5279-4078-81DB-AE88700AE63E"
+            },
+            "name": "Lock",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "21489AEF-25C8-4A86-824B-518BB1F35EE0"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "38FEB31A-4EAA-4E4A-835F-638C6EA33DDD"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -0.9512510895729065,
+                        0.25488704442977908,
+                        0.17364808917045594,
+                        0.0,
+                        0.25881922245025637,
+                        0.9659258723258972,
+                        1.434236907016384e-7,
+                        0.0,
+                        -0.16773122549057008,
+                        0.04494362324476242,
+                        -0.984808087348938,
+                        0.0,
+                        -4.5,
+                        1.0,
+                        0.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -0.9512510895729065,
+                        0.25488704442977908,
+                        0.17364808917045594,
+                        0.0,
+                        0.25881922245025637,
+                        0.9659258723258972,
+                        1.434236907016384e-7,
+                        0.0,
+                        -0.16773122549057008,
+                        0.04494362324476242,
+                        -0.984808087348938,
+                        0.0,
+                        82.5,
+                        1.0,
+                        0.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Lock",
+                "importedName": "Lock",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "AA0D224F-1A6C-4D4F-9D5A-F9203F6FDAD7"
+        },
+        "is_asset_root": true,
+        "asset_name": "Lock",
+        "children": [
+            "545C054A-4456-488E-87AE-21BD6E5DABAE"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "545C054A-4456-488E-87AE-21BD6E5DABAE"
+            },
+            "name": "Lock_Deadbolt",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "C64902C2-BF5F-497A-A1E2-0FE73849AA48"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "8879EDB4-654D-4C88-962D-A7F1DB5E6B08"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -0.09999990463256836,
+                        0.30000001192092898,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -0.9512510895729065,
+                        0.25488704442977908,
+                        0.17364808917045594,
+                        0.0,
+                        0.25881922245025637,
+                        0.9659258723258972,
+                        1.434236907016384e-7,
+                        0.0,
+                        -0.16773122549057008,
+                        0.04494362324476242,
+                        -0.984808087348938,
+                        0.0,
+                        82.42379760742188,
+                        0.9168906211853027,
+                        0.20455756783485413,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Lock_Deadbolt",
+                "importedName": "Lock_Deadbolt",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "AA0D224F-1A6C-4D4F-9D5A-F9203F6FDAD7"
+        },
+        "is_asset_root": false,
+        "children": [
+            "0547CB8D-939D-453D-894A-BFF02828CF92"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "0547CB8D-939D-453D-894A-BFF02828CF92"
+            },
+            "name": "Open",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "71BC490F-2283-426D-A29F-B820AD483EEE"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -0.9512510895729065,
+                        0.25488704442977908,
+                        0.17364808917045594,
+                        0.0,
+                        0.25881922245025637,
+                        0.9659258723258972,
+                        1.434236907016384e-7,
+                        0.0,
+                        -0.16773122549057008,
+                        0.04494362324476242,
+                        -0.984808087348938,
+                        0.0,
+                        82.42379760742188,
+                        0.9168906211853027,
+                        0.20455756783485413,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "AA0D224F-1A6C-4D4F-9D5A-F9203F6FDAD7"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "97344C0A-D8A9-44D9-A7F7-FF713CB66B0C"
+            },
+            "name": "Door Collider",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "F59E0559-11B0-4D5F-AE64-BED6C652C1DA"
+                    }
+                }
+            ],
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "18208A5E-A553-4683-B168-AA4AD2969983"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.4000000059604645,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        4.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -4.0,
+                        2.0,
+                        0.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.4000000059604645,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        4.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        83.0,
+                        2.0,
+                        0.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "B8E91433-F325-45AF-8991-1EEB8F67E8DA"
+            },
+            "name": "Column_2m 2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "CFDF761A-34C0-4B73-9655-1E0413513F0B"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "6F109631-D404-44B9-933F-49F11D6072C5"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        -4.1723248500602497e-7,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        4.1723248500602497e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        9.64617919921875,
+                        5.0474853515625,
+                        2.09564208984375,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        -4.1723248500602497e-7,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        4.1723248500602497e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        96.64617919921875,
+                        5.0474853515625,
+                        2.34564208984375,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Column_2m",
+                "importedName": "Column_2m",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "34A4DA23-4236-47FE-BE21-D203288B9381"
+        },
+        "is_asset_root": true,
+        "asset_name": "Column_2m"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "DF4CAC30-FAB8-4348-AF32-20906DA66954"
+            },
+            "name": "Collider",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "32FACF6D-E7AA-4B7E-9A46-EE8DBD12082D"
+                    }
+                }
+            ],
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "98C7E12E-7346-4970-898C-43742A857E30"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.4000000059604645,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        4.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        4.0,
+                        2.0,
+                        0.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.4000000059604645,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        4.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        91.0,
+                        2.0,
+                        0.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "F261EED9-A5D6-4D3B-8728-0ED3CCAA99B9"
+            },
+            "name": "Collider 2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "3E647013-0E84-47C7-BB12-373D0784E008"
+                    }
+                }
+            ],
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "E5DDEBDA-7F6E-49D0-B328-45572E0A7045"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.3464101254940033,
+                        0.20000004768371583,
+                        0.0,
+                        0.0,
+                        -2.000000476837158,
+                        3.4641013145446779,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.0,
+                        5.800000190734863,
+                        0.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.3464101254940033,
+                        0.20000004768371583,
+                        0.0,
+                        0.0,
+                        -2.000000476837158,
+                        3.4641013145446779,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        90.0,
+                        5.800000190734863,
+                        0.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "A6F8D79B-F981-432B-8025-3FD2E0ABC75B"
+            },
+            "name": "Collider 4",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "C986319D-0D53-457E-AD79-FE7378B3D924"
+                    }
+                }
+            ],
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "35CC20DC-E7CA-4EE4-AB79-CB44A2B62A78"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.3464101254940033,
+                        -0.20000004768371583,
+                        0.0,
+                        0.0,
+                        2.000000476837158,
+                        3.4641013145446779,
+                        0.0,
+                        0.0,
+                        -0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -3.0,
+                        5.800000190734863,
+                        0.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.3464101254940033,
+                        -0.20000004768371583,
+                        0.0,
+                        0.0,
+                        2.000000476837158,
+                        3.4641013145446779,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        84.0,
+                        5.800000190734863,
+                        0.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "98FB635C-932D-48E6-BA78-E3526CF0E1A7"
+            },
+            "name": "Collider 5",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "8DF96D4D-36C7-4B41-8520-018BC26018EB"
+                    }
+                }
+            ],
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "C6644B28-6D3F-47A2-818F-E321818FE1C4"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -4.768370942542788e-8,
+                        -0.4000000059604645,
+                        -0.0,
+                        0.0,
+                        4.0,
+                        -4.7683710135970616e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        7.699999809265137,
+                        0.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -4.768370942542788e-8,
+                        -0.4000000059604645,
+                        0.0,
+                        0.0,
+                        4.0,
+                        -4.7683710135970616e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        87.0,
+                        7.699999809265137,
+                        0.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "BA3B40E6-8B38-41EE-A27B-D6B62305A3C6"
+            },
+            "name": "Wall_Corner_Bevel_2x2x4 2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "9AF68833-892E-415B-8301-2457BF50F2C4"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "34F6AB50-7BBD-4F55-B339-EE157470B8C2"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        -1.5099580252808665e-7,
+                        -8.742277657347586e-8,
+                        0.0,
+                        1.5099580252808665e-7,
+                        1.0,
+                        -1.5099580252808665e-7,
+                        0.0,
+                        8.742280499518529e-8,
+                        1.5099580252808665e-7,
+                        1.0,
+                        0.0,
+                        -4.0,
+                        0.0,
+                        2.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        -1.5099580252808665e-7,
+                        -8.742277657347586e-8,
+                        0.0,
+                        1.5099580252808665e-7,
+                        1.0,
+                        -1.5099580252808665e-7,
+                        0.0,
+                        8.742280499518529e-8,
+                        1.5099580252808665e-7,
+                        1.0,
+                        0.0,
+                        83.0,
+                        0.0,
+                        2.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Wall_Corner_Bevel_2x2x4",
+                "importedName": "Wall_Corner_Bevel_2x2x4",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "6E701A43-973E-4703-A61F-21E05CCF1874"
+        },
+        "is_asset_root": true,
+        "asset_name": "Wall_Corner_Bevel_2x2x4"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "B42347EE-DF77-4CF5-95B8-068E93D306F3"
+            },
+            "name": "Roof_2_corner_2x2 2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "D63AB15D-5E23-43E3-A446-C797060BE329"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "B4B2A8A1-8276-4993-824F-30057F9A9597"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        -1.5099580252808665e-7,
+                        -8.742277657347586e-8,
+                        0.0,
+                        1.5099580252808665e-7,
+                        1.0,
+                        -1.5099580252808665e-7,
+                        0.0,
+                        8.742280499518529e-8,
+                        1.5099580252808665e-7,
+                        1.0,
+                        0.0,
+                        -4.0,
+                        4.0,
+                        2.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        -1.5099580252808665e-7,
+                        -8.742277657347586e-8,
+                        0.0,
+                        1.5099580252808665e-7,
+                        1.0,
+                        -1.5099580252808665e-7,
+                        0.0,
+                        8.742280499518529e-8,
+                        1.5099580252808665e-7,
+                        1.0,
+                        0.0,
+                        83.0,
+                        4.0,
+                        2.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Roof_2_corner_2x2",
+                "importedName": "Roof_2_corner_2x2",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "0D9FB69F-F819-4607-8118-B5C18EC9AE4F"
+        },
+        "is_asset_root": true,
+        "asset_name": "Roof_2_corner_2x2"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "60249177-E76E-4495-BE94-5A66CEFF3430"
+            },
+            "name": "Roof_2_base_4x4 3",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "42DC047B-A0C6-4AF1-90D7-A64BD2C64431"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "4416D981-B981-436A-BE5E-22DD6C613A98"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        0.0,
+                        4.0,
+                        4.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        87.0,
+                        4.0,
+                        4.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Roof_2_base_4x4",
+                "importedName": "Roof_2_base_4x4",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "32C30A5D-8E36-442B-AEB1-1FE2BFE64CDA"
+        },
+        "is_asset_root": true,
+        "asset_name": "Roof_2_base_4x4"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "B4D25907-55CF-4272-9DA0-A0D6C0AC0ACD"
+            },
+            "name": "Roof_2_corner_2x2 4",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "D63AB15D-5E23-43E3-A446-C797060BE329"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "6E52654F-2D72-4925-9BEC-E98B0512B17E"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        2.0,
+                        4.0,
+                        4.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        89.0,
+                        4.0,
+                        4.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Roof_2_corner_2x2",
+                "importedName": "Roof_2_corner_2x2",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "0D9FB69F-F819-4607-8118-B5C18EC9AE4F"
+        },
+        "is_asset_root": true,
+        "asset_name": "Roof_2_corner_2x2"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "0C0C113C-D9EC-41AA-995B-0916DB2DC4C7"
+            },
+            "name": "Roof_2_base_4x4 4",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "42DC047B-A0C6-4AF1-90D7-A64BD2C64431"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "EB9EDE7B-83EE-42B2-9499-2FDD9188CF0C"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.0,
+                        0.0,
+                        8.742277657347586e-8,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -8.742277657347586e-8,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        4.0,
+                        4.0,
+                        0.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.0,
+                        0.0,
+                        8.742277657347586e-8,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -8.742277657347586e-8,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        91.0,
+                        4.0,
+                        0.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Roof_2_base_4x4",
+                "importedName": "Roof_2_base_4x4",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "32C30A5D-8E36-442B-AEB1-1FE2BFE64CDA"
+        },
+        "is_asset_root": true,
+        "asset_name": "Roof_2_base_4x4"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "688CE5A7-8642-47ED-BEBD-1D642ADAE20A"
+            },
+            "name": "Roof_2_corner_2x2 3",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "D63AB15D-5E23-43E3-A446-C797060BE329"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "60F71F7E-FC5B-4F36-8421-C048F6487284"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        0.0,
+                        1.5099580252808665e-7,
+                        1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        2.2799733224976826e-14,
+                        1.5099580252808665e-7,
+                        -1.0,
+                        0.0,
+                        4.0,
+                        4.0,
+                        -1.75,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        0.0,
+                        1.5099580252808665e-7,
+                        1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        2.2799733224976826e-14,
+                        1.5099580252808665e-7,
+                        -1.0,
+                        0.0,
+                        91.0,
+                        4.0,
+                        -1.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Roof_2_corner_2x2",
+                "importedName": "Roof_2_corner_2x2",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "0D9FB69F-F819-4607-8118-B5C18EC9AE4F"
+        },
+        "is_asset_root": true,
+        "asset_name": "Roof_2_corner_2x2"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "C1DCE004-72C3-42A3-A01A-8CCEAE70A7C3"
+            },
+            "name": "Roof_2_base_4x4 2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "42DC047B-A0C6-4AF1-90D7-A64BD2C64431"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "C2CD7CEF-6D1A-432A-9ADB-F92441DEEE38"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        0.0,
+                        4.0,
+                        -3.75,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        87.0,
+                        4.0,
+                        -3.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Roof_2_base_4x4",
+                "importedName": "Roof_2_base_4x4",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "32C30A5D-8E36-442B-AEB1-1FE2BFE64CDA"
+        },
+        "is_asset_root": true,
+        "asset_name": "Roof_2_base_4x4"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "C9B79E54-9888-4B82-9EF4-2C32216B2629"
+            },
+            "name": "Wall_BorderThin_5m",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "B57E2C72-8238-4241-BBE5-1E27B6B8EE55"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "D01D49B5-0E98-4B29-90E0-9FD8C2406DC1"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.800000011920929,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        8.0,
+                        0.0,
+                        -2.0,
+                        7.800000190734863,
+                        0.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.800000011920929,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        8.0,
+                        0.0,
+                        85.0,
+                        7.800000190734863,
+                        0.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Wall_BorderThin_5m",
+                "importedName": "Wall_BorderThin_5m",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "0D3E7A52-240A-4752-A8C3-2BADA29F9939"
+        },
+        "is_asset_root": true,
+        "asset_name": "Wall_BorderThin_5m"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "572D6DFC-5A3A-46AA-ADB7-196D56427E75"
+            },
+            "name": "Roof_2_base_4x4",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "42DC047B-A0C6-4AF1-90D7-A64BD2C64431"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "EB043D8A-348F-4E56-8253-564462C015F7"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -4.0,
+                        4.0,
+                        0.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        83.0,
+                        4.0,
+                        0.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Roof_2_base_4x4",
+                "importedName": "Roof_2_base_4x4",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "32C30A5D-8E36-442B-AEB1-1FE2BFE64CDA"
+        },
+        "is_asset_root": true,
+        "asset_name": "Roof_2_base_4x4"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "A00F5524-8021-4D32-BC7E-7BA41E88B6B6"
+            },
+            "name": "Roof_2_corner_2x2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "D63AB15D-5E23-43E3-A446-C797060BE329"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "504F1276-F8AE-4555-B201-C577F303F8E7"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        -2.0,
+                        4.0,
+                        -3.75,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        85.0,
+                        4.0,
+                        -3.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Roof_2_corner_2x2",
+                "importedName": "Roof_2_corner_2x2",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "0D9FB69F-F819-4607-8118-B5C18EC9AE4F"
+        },
+        "is_asset_root": true,
+        "asset_name": "Roof_2_corner_2x2"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "6500A829-1691-4C12-B046-231956496283"
+            },
+            "name": "Wall_4x1",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "9DBB1D60-7235-472E-9351-F45218C67154"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "7346C5E0-66F1-40CC-A00F-66044736F2D7"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        -2.0,
+                        3.0,
+                        4.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        85.0,
+                        3.0,
+                        4.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Wall_4x1",
+                "importedName": "Wall_4x1",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "4056D91B-1521-42F6-AC53-E90CFA8DC747"
+        },
+        "is_asset_root": true,
+        "asset_name": "Wall_4x1"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "3D13B078-BA94-40F3-AA39-21C605908A2F"
+            },
+            "name": "Plane",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "C3235221-AAEE-4F77-8305-C01FD0FEFB94"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "3A5696C9-C597-41B3-89AE-ACDAA542E094"
+                },
+                "mapsStates": 1
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.600000023841858,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920927578401575e-9,
+                        0.009999999776482582,
+                        0.0,
+                        0.0,
+                        -1.2000000476837159,
+                        -1.4305113893442468e-7,
+                        0.0,
+                        0.0,
+                        1.5,
+                        4.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.600000023841858,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920927578401575e-9,
+                        0.009999999776482582,
+                        0.0,
+                        0.0,
+                        -1.2000000476837159,
+                        -1.4305113893442468e-7,
+                        0.0,
+                        87.0,
+                        1.5,
+                        4.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "8AD6DD00-C604-4AD3-8B2B-72D4A9F313F8"
+            },
+            "name": "Wall_Corner_Bevel_2x2x4 4",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "9AF68833-892E-415B-8301-2457BF50F2C4"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "8714A4B5-23FA-4941-B634-6017F5C96ACC"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        2.0,
+                        0.0,
+                        4.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        89.0,
+                        0.0,
+                        4.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Wall_Corner_Bevel_2x2x4",
+                "importedName": "Wall_Corner_Bevel_2x2x4",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "6E701A43-973E-4703-A61F-21E05CCF1874"
+        },
+        "is_asset_root": true,
+        "asset_name": "Wall_Corner_Bevel_2x2x4"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "35504346-7242-48B5-A8DB-04A06D652C31"
+            },
+            "name": "Wall_4x4",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "8CBCA518-749A-4261-86A6-135E678E85B7"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "F7453625-3A18-4A8D-B407-2821339C4DCD"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        0.0,
+                        1.5099580252808665e-7,
+                        1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        2.2799733224976826e-14,
+                        1.5099580252808665e-7,
+                        -1.0,
+                        0.0,
+                        4.0,
+                        0.0,
+                        -1.75,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        0.0,
+                        1.5099580252808665e-7,
+                        1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        2.2799733224976826e-14,
+                        1.5099580252808665e-7,
+                        -1.0,
+                        0.0,
+                        91.0,
+                        0.0,
+                        -1.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Wall_4x4",
+                "importedName": "Wall_4x4",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABA5EEE-2FB3-413E-8D5F-A02CB404569A"
+        },
+        "is_asset_root": true,
+        "asset_name": "Wall_4x4"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "385C09EB-B581-459A-A0E0-B9019765D7B7"
+            },
+            "name": "Wall_Corner_Bevel_2x2x4 3",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "9AF68833-892E-415B-8301-2457BF50F2C4"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "30AEEDA3-134C-4039-A1EF-1F15D7033BC6"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.0,
+                        0.0,
+                        -8.742277657347586e-8,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        8.742277657347586e-8,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        4.0,
+                        0.0,
+                        -1.75,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.0,
+                        0.0,
+                        -8.742277657347586e-8,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        8.742277657347586e-8,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        91.0,
+                        0.0,
+                        -1.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Wall_Corner_Bevel_2x2x4",
+                "importedName": "Wall_Corner_Bevel_2x2x4",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "6E701A43-973E-4703-A61F-21E05CCF1874"
+        },
+        "is_asset_root": true,
+        "asset_name": "Wall_Corner_Bevel_2x2x4"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "3D9CF7A3-2443-4CB1-9E79-BAB77DDB0F31"
+            },
+            "name": "Wall_4x4_Frame 2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "43DEF532-A3A5-4DE1-8A39-51DC0C613FDB"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "3CC1D01D-D579-4BB2-AE52-E47574CECBEA"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        2.0,
+                        0.0,
+                        -3.75,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        89.0,
+                        0.0,
+                        -3.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Wall_4x4_Frame",
+                "importedName": "Wall_4x4_Frame",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "23C7BB37-D7B2-47BB-84C3-80213A18E5A2"
+        },
+        "is_asset_root": true,
+        "asset_name": "Wall_4x4_Frame",
+        "children": [
+            "B3038082-DA40-4693-868A-D573641B3849"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "B3038082-DA40-4693-868A-D573641B3849"
+            },
+            "name": "Window_square",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "42F5B9E8-B89E-47D8-82DC-A0FE6DCA03B3"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "C9BDA5FC-9E5E-49AF-BA43-63DD3D231039"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -2.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        87.0,
+                        0.0,
+                        -3.499999761581421,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Window_square",
+                "importedName": "Window_square",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9396A156-1A80-46C5-B233-CA5020F6BC0C"
+        },
+        "is_asset_root": true,
+        "asset_name": "Window_square"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "6C6BAE1A-CD43-41C0-8EF6-2756A9ACF497"
+            },
+            "name": "Wall_Corner_Bevel_2x2x4",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "9AF68833-892E-415B-8301-2457BF50F2C4"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "7EA760CD-42B0-4613-8450-AFE1EEA5183B"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        -2.0,
+                        0.0,
+                        -3.75,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        85.0,
+                        0.0,
+                        -3.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Wall_Corner_Bevel_2x2x4",
+                "importedName": "Wall_Corner_Bevel_2x2x4",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "6E701A43-973E-4703-A61F-21E05CCF1874"
+        },
+        "is_asset_root": true,
+        "asset_name": "Wall_Corner_Bevel_2x2x4"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "C245A56A-EB95-433C-B72A-AD80E3ED9F2B"
+            },
+            "name": "Wall_4x4_DoorFrame",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "52E12B29-4A53-44DF-AE3D-59BCB3D20390"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "0E03C4F3-505B-4C9D-9A33-11E3823D0FD2"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -4.0,
+                        0.0,
+                        2.25,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        83.0,
+                        0.0,
+                        2.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Wall_4x4_DoorFrame",
+                "importedName": "Wall_4x4_DoorFrame",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "C0B0A5AF-4682-427F-BCA4-BDA4B206D151"
+        },
+        "is_asset_root": true,
+        "asset_name": "Wall_4x4_DoorFrame",
+        "children": [
+            "A7A47DB6-34D1-458D-A69F-543796D6F32E"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "A7A47DB6-34D1-458D-A69F-543796D6F32E"
+            },
+            "name": "Door_frame",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "600B5ECC-F4CF-4EE1-B6A8-C78EC615A8A4"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "F1D6087D-AEF3-4458-80AE-4AA092AD7105"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        -2.370159961628815e-7,
+                        0.0,
+                        0.0,
+                        2.370159961628815e-7,
+                        1.0,
+                        -2.370159961628815e-7,
+                        0.0,
+                        5.6176583702752597e-14,
+                        2.370159961628815e-7,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -2.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        -2.370159961628815e-7,
+                        0.0,
+                        0.0,
+                        2.370159961628815e-7,
+                        1.0,
+                        -2.370159961628815e-7,
+                        0.0,
+                        5.6176583702752597e-14,
+                        2.370159961628815e-7,
+                        1.0,
+                        0.0,
+                        83.0,
+                        0.0,
+                        0.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Door_frame",
+                "importedName": "Door_frame",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9B85C086-DD7D-4FA9-9373-91A1C59CF524"
+        },
+        "is_asset_root": true,
+        "asset_name": "Door_frame"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "32B8A593-2E63-4ACD-BC69-7C781C65C432"
+            },
+            "name": "Door_3m",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "9ADE14BD-5F12-442D-B7E9-062B8DAA2989"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "F88E9772-3DBF-45CC-878C-13A4D127D8D2"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -4.0,
+                        0.0,
+                        1.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        83.0,
+                        0.0,
+                        1.25,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Door_3m",
+                "importedName": "Door_3m",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "E09FE32E-BFFD-47C8-9B20-831E6928DEB9"
+        },
+        "is_asset_root": true,
+        "asset_name": "Door_3m"
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "3D8E9898-0C31-412B-9825-2E46175CED12"
+            },
+            "name": "Door Open",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "C77F80B0-699B-44E1-B724-28742881310D"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        87.0,
+                        0.0,
+                        0.25,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "DBDE4A2B-5A56-42F3-BFDE-1EF28C768F14"
+            },
+            "name": "Camera Animation",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "B2A90BB1-9CDA-46E9-A1C3-2E71D6B883A4"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        87.0,
+                        0.0,
+                        0.25,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "CC20EF6F-4725-4431-BF6D-7E5F259CA25E"
+            },
+            "name": "Camera Reset View",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "87837BAC-4B4B-45A8-B8A6-C383CE476504"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        87.0,
+                        0.0,
+                        0.25,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "8391DE89-FE9E-448D-AB98-44EB94B2B62A"
+            },
+            "name": "Floor_2x2_H2_corner_up_solid",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "38BA0274-0CFB-442F-8159-FB20F3ED0721"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "F655ACEC-4639-4338-A1A5-94A2A8534049"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        -80.0,
+                        -18.0,
+                        54.75,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        7.0,
+                        -18.0,
+                        55.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Floor_2x2_H2_corner_up_solid",
+                "importedName": "Floor_2x2_H2_corner_up_solid",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "76EE5725-6FE1-486A-BEC2-B9577DEA7EE9"
+        },
+        "is_asset_root": true,
+        "asset_name": "Floor_2x2_H2_corner_up_solid"
+    }
+]

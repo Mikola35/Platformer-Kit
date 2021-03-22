@@ -1,0 +1,84 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "2ABA6604-17D7-4A5A-AD52-CC4475FFABF2"
+            },
+            "name": "Wall_BorderThin_5m 8",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "B57E2C72-8238-4241-BBE5-1E27B6B8EE55"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "9F709BF5-922B-4216-B10A-49DD849AE472"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -0.00021761060634162277,
+                        -0.0003110736724920571,
+                        1.0999999046325684,
+                        0.0,
+                        -0.40957599878311159,
+                        0.2867882549762726,
+                        7.450580596923828e-8,
+                        0.0,
+                        -0.5735766291618347,
+                        -0.8191521763801575,
+                        -0.00034511100966483355,
+                        0.0,
+                        -6.0,
+                        1.75,
+                        -2.7500009536743166,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0999999046325684,
+                        -0.0003110736724920571,
+                        0.00021747947903349996,
+                        0.0,
+                        1.233310626957973e-7,
+                        0.2867882549762726,
+                        0.40957599878311159,
+                        0.0,
+                        -0.0003450426447670907,
+                        -0.8191521763801575,
+                        0.5735766291618347,
+                        0.0,
+                        -17.25,
+                        1.75,
+                        -19.5,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Wall_BorderThin_5m",
+                "importedName": "Wall_BorderThin_5m",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "0D3E7A52-240A-4752-A8C3-2BADA29F9939"
+        },
+        "is_asset_root": true,
+        "asset_name": "Wall_BorderThin_5m"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "@class": "StateMachineTrigger",
+    "id": {
+        "uuid": "94DA1D3D-1CCC-43B2-9749-974C6B0A67C2"
+    },
+    "ownerScriptId": {
+        "uuid": "A1F4F1C8-85C4-4210-844C-D6B431844DB1"
+    },
+    "logicOperation": 0,
+    "resultType": 0,
+    "isInverted": false,
+    "event": 1,
+    "state_id": {
+        "uuid": "C29D6C29-4F11-4AB8-823A-FF45CA659A6E"
+    },
+    "obj_id": {
+        "uuid": "C95EA845-BC44-4DCC-857D-B0257C48D480"
+    }
+}

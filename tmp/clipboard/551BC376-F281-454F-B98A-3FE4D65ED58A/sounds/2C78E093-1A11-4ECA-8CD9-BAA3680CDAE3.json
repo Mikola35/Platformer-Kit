@@ -1,0 +1,11 @@
+{
+    "@class": "SoundSample",
+    "id": {
+        "uuid": "2C78E093-1A11-4ECA-8CD9-BAA3680CDAE3"
+    },
+    "name": "548219__sed4906__dink.wav",
+    "filePath": "548219__sed4906__dink.wav",
+    "duration": 40.125,
+    "channels": 2,
+    "frequence": 48000
+}

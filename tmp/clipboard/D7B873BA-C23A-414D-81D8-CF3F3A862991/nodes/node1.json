@@ -1,0 +1,245 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "F8138638-AC26-40B2-A300-61096F61FFCC"
+            },
+            "name": "Crystal_01",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "1A8376C8-A5F1-4321-94FA-64E2209D9938"
+                    }
+                }
+            ],
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "7ED9F450-9B7A-40E9-B979-67F003772E39"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "37EE4415-36B4-41BF-8490-713FD89D2EB2"
+                },
+                "mapsStates": 127
+            },
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "A71DDA10-53EE-459B-B7DD-EAD9619093C7"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -5.497283935546875,
+                        -17.897668838500978,
+                        41.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Crystal_01",
+                "importedName": "Crystal_01",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "5CA44738-3891-4D1E-B02B-DFD1FAE553B7"
+        },
+        "is_asset_root": true,
+        "asset_name": "Crystal_01",
+        "children": [
+            "046A1AEF-525C-4381-B96C-62C5F38CDDBA",
+            "8243C28D-38DD-4CC2-A936-522A85F07270"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "046A1AEF-525C-4381-B96C-62C5F38CDDBA"
+            },
+            "name": "Animation",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "7F5A3F1A-42A0-462F-AC05-A22C9CF8CD19"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        -1.1368683772161604e-13,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.1368683772161604e-13,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.0,
+                        -5.5,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        -1.1368683772161604e-13,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.1368683772161604e-13,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -2.497283935546875,
+                        -23.397668838500978,
+                        41.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "5CA44738-3891-4D1E-B02B-DFD1FAE553B7"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "8243C28D-38DD-4CC2-A936-522A85F07270"
+            },
+            "name": "Picked",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "DB92C89A-7D6D-4BA1-97E2-AD331D6ABD47"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        -1.1368683772161604e-13,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.1368683772161604e-13,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.0,
+                        -5.5,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        -1.1368683772161604e-13,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.1368683772161604e-13,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -2.497283935546875,
+                        -23.397668838500978,
+                        41.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "5CA44738-3891-4D1E-B02B-DFD1FAE553B7"
+        },
+        "is_asset_root": false
+    }
+]

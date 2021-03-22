@@ -1,0 +1,60 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "7F5A3F1A-42A0-462F-AC05-A22C9CF8CD19"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": true,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "315F67F1-A0B9-4991-965A-E5BC6B511B59"
+                },
+                "name": "Crystal_01",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "F8138638-AC26-40B2-A300-61096F61FFCC"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 0,
+                        "name": "Crystal_01"
+                    }
+                },
+                "animation": {
+                    "uuid": "056C73DE-0504-4AA7-8717-E2247D269BF7"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "StartTrigger",
+            "id": {
+                "uuid": "50385654-A00B-4450-A95B-9C7859D305C3"
+            },
+            "ownerScriptId": {
+                "uuid": "7F5A3F1A-42A0-462F-AC05-A22C9CF8CD19"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false
+        }
+    ]
+}

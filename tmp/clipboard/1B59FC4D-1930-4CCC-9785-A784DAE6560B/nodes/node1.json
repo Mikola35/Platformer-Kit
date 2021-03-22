@@ -1,0 +1,99 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "302CCC9D-4B50-49C0-88F9-26DBB05DCA19"
+            },
+            "name": "Stairs_2x2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "76CA0CE1-68BB-4876-A337-CE1947896288"
+                    }
+                }
+            ],
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "F1061200-8DA2-48E1-923D-1F46C8340F6A"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "C72A0C77-8507-481C-AB9A-8419D16FE4A3"
+                },
+                "mapsStates": 127
+            },
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "288D7433-6A59-4C6D-AF6F-AA280D8FE15D"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        -14.0,
+                        -1.0,
+                        -4.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920930376163597e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        -1.1920930376163597e-7,
+                        0.0,
+                        25.0,
+                        -20.0,
+                        69.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Stairs_2x2",
+                "importedName": "Stairs_2x2",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "567D8EDE-86E0-48CD-A1BA-EA7F0408A396"
+        },
+        "is_asset_root": true,
+        "asset_name": "Stairs_2x2"
+    }
+]

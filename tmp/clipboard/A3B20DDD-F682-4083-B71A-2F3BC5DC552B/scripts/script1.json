@@ -1,0 +1,17 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "9575E7A1-258F-4DF8-9FA8-995DED90334A"
+    },
+    "name": "Master Sound",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink"
+    },
+    "animation": {
+        "uuid": "64435D7A-DD71-4273-BF21-D178DA84DABC"
+    },
+    "AnimationType": "masterSound",
+    "is_imported": false,
+    "isEnabled": true
+}
