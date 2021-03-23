@@ -1,0 +1,24 @@
+{
+    "@class": "TimeLineClip",
+    "beginTime": 2000,
+    "duration": 633,
+    "script": "TimeLineClipScript",
+    "behavior": {
+        "@class": "TimeLineBehavior",
+        "speed": 1.0,
+        "weights": {}
+    },
+    "bindinglink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "A7257985-8B68-4920-86B2-8AC192A744F8"
+        }
+    },
+    "color": {
+        "values": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    }
+}

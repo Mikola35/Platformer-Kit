@@ -85,3 +85,14 @@
 [11:31:25.415134] [SceneFactory] [info] (th=1825508) GhostObject is created: id: 2EE500F5-80AA-4377-B8B4-B818A32D6F75
 [13:10:42.028538] [SceneFactory] [info] (th=1881094) Log level for 'SceneFactory' set to 'info'
 [13:10:42.029293] [SceneFactory] [info] (th=1881094) GhostObject is created: id: 62BD67D7-B6FC-48DD-8D43-E2D9E3FC2642
+[14:35:00.071032] [SceneFactory] [info] (th=1896451) Log level for 'SceneFactory' set to 'info'
+[14:35:00.073425] [SceneFactory] [info] (th=1896451) Plane is created: id: 6A1F4089-5F13-4D0C-BEF6-F6EF2F056155
+[14:37:21.289510] [SceneFactory] [info] (th=1896451) Box is created: id: 75ACA5E1-871A-484C-B249-3784F0D4B5A6
+[14:39:43.436138] [SceneFactory] [info] (th=1896451) Capsule is created: id: 91C51903-6D82-44C0-ABCD-004087E139A7
+[14:48:21.983266] [SceneFactory] [info] (th=1896451) Cylinder is created: id: 6348491B-C652-4563-9D0F-8FF670880F1B
+[14:48:26.365841] [SceneFactory] [info] (th=1896451) Torus is created: id: 8B5255DA-33F0-4059-B05B-B36F83CEDC26
+[22:49:16.989919] [SceneFactory] [info] (th=2042822) Log level for 'SceneFactory' set to 'info'
+[22:49:16.990688] [SceneFactory] [info] (th=2042822) GhostObject is created: id: 0E6B52CB-8127-4ED5-A3C4-ED070D0431A9
+[22:49:45.476985] [SceneFactory] [info] (th=2042822) Box is created: id: C5DB3983-4277-4ED9-9EA4-EC104BB5095D
+[22:49:50.125063] [SceneFactory] [info] (th=2042822) Cone is created: id: 7F0FF675-1833-4FDD-821C-6C6A365B78A7
+[23:03:35.411187] [SceneFactory] [info] (th=2042822) Sphere is created: id: 4FB6BD93-4D62-4FF7-A458-A4EC533FC11A
