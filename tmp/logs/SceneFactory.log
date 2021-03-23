@@ -78,3 +78,8 @@
 [23:27:52.137047] [SceneFactory] [info] (th=1696440) Light is created: id: E4A78FD4-0463-4C3B-9D71-723B52356D01
 [00:15:54.494815] [SceneFactory] [info] (th=1696440) Light is created: id: 59AA01F6-19DD-42A7-9A7A-524820DA5A03
 [00:16:12.901949] [SceneFactory] [info] (th=1696440) Light is created: id: 4FCD4384-F40C-486E-9791-563CF1BA2EB4
+[10:53:43.760360] [SceneFactory] [info] (th=1825508) Log level for 'SceneFactory' set to 'info'
+[10:53:43.761284] [SceneFactory] [info] (th=1825508) Light is created: id: A6904298-4B8E-4112-B377-0F9D00A0F253
+[11:05:44.935871] [SceneFactory] [info] (th=1825508) Plane is created: id: E58E50C3-D94E-4ABF-A7AE-D8933DEDB13B
+[11:29:04.661538] [SceneFactory] [info] (th=1825508) GhostObject is created: id: A60BC1DB-E227-4432-9DBC-FC09CDBB8562
+[11:31:25.415134] [SceneFactory] [info] (th=1825508) GhostObject is created: id: 2EE500F5-80AA-4377-B8B4-B818A32D6F75
