@@ -1,0 +1,73 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "3DFAF2CC-DA3D-4B86-A1AB-B20BCEDE50EE"
+            },
+            "name": "Attack",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "C9C9B184-3FD4-41D3-830A-D49D06988FB2"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        -2.2737367544323208e-13,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        2.2737367544323208e-13,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        -2.2737367544323208e-13,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        2.2737367544323208e-13,
+                        0.0,
+                        1.0,
+                        0.0,
+                        8.999998092651368,
+                        1.25,
+                        0.000014066696166992188,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "0626074C-C2B7-438F-8025-20615F0657A2"
+        },
+        "is_asset_root": false
+    }
+]
