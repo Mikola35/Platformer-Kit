@@ -1,0 +1,73 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "47127D58-63F4-4282-B207-FF3807CFAD8C"
+            },
+            "name": "Attack",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "F8B1015A-3353-4838-8907-697FE880FB0B"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -0.9999999403953552,
+                        0.0,
+                        0.0003458261489868164,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -0.0003458261489868164,
+                        0.0,
+                        -0.9999999403953552,
+                        0.0,
+                        27.0030574798584,
+                        -1.8523311614990235,
+                        0.9906622171401978,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.9999999403953552,
+                        5.22182956597117e-11,
+                        0.00034624338150024414,
+                        0.0,
+                        -6.300035227660081e-14,
+                        -1.0,
+                        1.5099580252808665e-7,
+                        0.0,
+                        0.00034624338150024414,
+                        -1.5099578831723194e-7,
+                        -0.9999999403953552,
+                        0.0,
+                        1.2469425201416016,
+                        3.1023311614990236,
+                        0.9906665086746216,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "82A5B8D4-6683-41E6-B1D1-1A74C3BC278D"
+        },
+        "is_asset_root": false
+    }
+]
