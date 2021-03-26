@@ -1,0 +1,1999 @@
+[15:36:37.190985] [Import] [info] (th=2247169) Log level for 'Import' set to 'info'
+[15:36:37.191602] [Import] [info] (th=2247169) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animation_Mixamo/Backflip.fbx
+[15:36:37.255183] [Import] [info] (th=2247169) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7fea973caa00"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[15:36:37.255204] [Import] [info] (th=2247169) File loaded successfully
+[15:36:37.255211] [Import] [info] (th=2247169) Meshes count: 1
+[15:36:37.255865] [Import] [info] (th=2247169) Materials count: 1
+[15:42:07.467276] [Import] [info] (th=2247169) Importing from /Users/nikolay/Documents/Models/character cube/cube_character.fbx
+[15:42:07.482977] [Import] [info] (th=2247169) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "0x7feaa11bc800"
+	 name: "Cube.001"
+	 numVertices: "6980"
+	 numFaces: "4928"
+	
+	
+	name: "Armature"
+	
+		name: "Bone"
+		
+			name: "Bone.001"
+			
+				name: "Bone.002"
+				
+					name: "Bone.002_end"
+					
+
+[15:42:07.483009] [Import] [info] (th=2247169) File loaded successfully
+[15:42:07.483021] [Import] [info] (th=2247169) Meshes count: 1
+[15:42:07.483023] [Import] [info] (th=2247169) Materials count: 1
+[15:42:07.487575] [Import] [warning] (th=2247169) Texture not found: /Users/nikolay/Documents/Models/character cube//Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Textures/T_Red_D.jpg
+[15:42:07.487640] [Import] [info] (th=2247169) Textures count (imported): 0
+[15:43:30.268785] [Import] [info] (th=2247169) Importing from /Users/nikolay/Documents/Models/character cube/cube character/Walk.fbx
+[15:43:30.282204] [Import] [info] (th=2247169) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "0x7feaa406c000"
+	 name: "Cube.001"
+	 numVertices: "6980"
+	 numFaces: "4928"
+	
+	
+	name: "Armature"
+	
+		name: "Bone"
+		
+			name: "Bone.001"
+			
+				name: "Bone.002"
+				
+
+[15:43:30.282217] [Import] [info] (th=2247169) File loaded successfully
+[15:43:30.282235] [Import] [info] (th=2247169) Meshes count: 1
+[15:43:30.282241] [Import] [info] (th=2247169) Materials count: 1
+[15:46:17.599996] [Import] [info] (th=2247169) Importing from /Users/nikolay/Documents/Models/character cube/cube character/Idle.fbx
+[15:46:17.613980] [Import] [info] (th=2247169) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "0x7feaa4171a00"
+	 name: "Cube.001"
+	 numVertices: "6980"
+	 numFaces: "4928"
+	
+	
+	name: "Armature"
+	
+		name: "Bone"
+		
+			name: "Bone.001"
+			
+				name: "Bone.002"
+				
+
+[15:46:17.613992] [Import] [info] (th=2247169) File loaded successfully
+[15:46:17.613997] [Import] [info] (th=2247169) Meshes count: 1
+[15:46:17.613999] [Import] [info] (th=2247169) Materials count: 1
+[15:46:45.836985] [Import] [info] (th=2247169) Importing from /Users/nikolay/Documents/Models/character cube/cube character/jump idle start.fbx
+[15:46:45.850420] [Import] [info] (th=2247169) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "0x7feaa4046a00"
+	 name: "Cube.001"
+	 numVertices: "6980"
+	 numFaces: "4928"
+	
+	
+	name: "Armature"
+	
+		name: "Bone"
+		
+			name: "Bone.001"
+			
+				name: "Bone.002"
+				
+
+[15:46:45.850434] [Import] [info] (th=2247169) File loaded successfully
+[15:46:45.850992] [Import] [info] (th=2247169) Meshes count: 1
+[15:46:45.850995] [Import] [info] (th=2247169) Materials count: 1
+[15:47:46.334001] [Import] [info] (th=2247169) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Animation_Mixamo/Backflip.fbx
+[15:47:46.391376] [Import] [info] (th=2247169) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7feaa11e8a00"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[15:47:46.391389] [Import] [info] (th=2247169) File loaded successfully
+[15:47:46.391394] [Import] [info] (th=2247169) Meshes count: 1
+[15:47:46.391396] [Import] [info] (th=2247169) Materials count: 1
+[15:47:46.392641] [Import] [error] (th=2247169) Cannot find node: G_male_base_armature
+[15:47:46.392652] [Import] [error] (th=2247169) Cannot find node: arm.L
+[15:47:46.392655] [Import] [error] (th=2247169) Cannot find node: arm.R
+[15:47:46.393799] [Import] [error] (th=2247169) Cannot find node: chest
+[15:47:46.393805] [Import] [error] (th=2247169) Cannot find node: chest_bottom
+[15:47:46.393808] [Import] [error] (th=2247169) Cannot find node: f_Index1.L
+[15:47:46.393810] [Import] [error] (th=2247169) Cannot find node: f_Index1.R
+[15:47:46.393812] [Import] [error] (th=2247169) Cannot find node: f_Index2.L
+[15:47:46.393815] [Import] [error] (th=2247169) Cannot find node: f_Index2.R
+[15:47:46.393817] [Import] [error] (th=2247169) Cannot find node: f_Index3.L
+[15:47:46.393819] [Import] [error] (th=2247169) Cannot find node: f_Index3.R
+[15:47:46.393822] [Import] [error] (th=2247169) Cannot find node: f_Middle1.L
+[15:47:46.393826] [Import] [error] (th=2247169) Cannot find node: f_Middle1.R
+[15:47:46.393835] [Import] [error] (th=2247169) Cannot find node: f_Middle2.L
+[15:47:46.393838] [Import] [error] (th=2247169) Cannot find node: f_Middle2.R
+[15:47:46.393840] [Import] [error] (th=2247169) Cannot find node: f_Middle3.L
+[15:47:46.393842] [Import] [error] (th=2247169) Cannot find node: f_Middle3.R
+[15:47:46.393845] [Import] [error] (th=2247169) Cannot find node: f_Pinky1.L
+[15:47:46.393847] [Import] [error] (th=2247169) Cannot find node: f_Pinky1.R
+[15:47:46.393849] [Import] [error] (th=2247169) Cannot find node: f_Pinky2.L
+[15:47:46.393851] [Import] [error] (th=2247169) Cannot find node: f_Pinky2.R
+[15:47:46.393853] [Import] [error] (th=2247169) Cannot find node: f_Pinky3.L
+[15:47:46.393856] [Import] [error] (th=2247169) Cannot find node: f_Pinky3.R
+[15:47:46.393864] [Import] [error] (th=2247169) Cannot find node: f_Ring1.L
+[15:47:46.393867] [Import] [error] (th=2247169) Cannot find node: f_Ring1.R
+[15:47:46.393869] [Import] [error] (th=2247169) Cannot find node: f_Ring2.L
+[15:47:46.393871] [Import] [error] (th=2247169) Cannot find node: f_Ring2.R
+[15:47:46.393874] [Import] [error] (th=2247169) Cannot find node: f_Ring3.L
+[15:47:46.393877] [Import] [error] (th=2247169) Cannot find node: f_Ring3.R
+[15:47:46.393880] [Import] [error] (th=2247169) Cannot find node: f_Thumb1.L
+[15:47:46.393882] [Import] [error] (th=2247169) Cannot find node: f_Thumb1.R
+[15:47:46.393884] [Import] [error] (th=2247169) Cannot find node: f_Thumb2.L
+[15:47:46.393887] [Import] [error] (th=2247169) Cannot find node: f_Thumb2.R
+[15:47:46.393897] [Import] [error] (th=2247169) Cannot find node: f_Thumb3.L
+[15:47:46.393899] [Import] [error] (th=2247169) Cannot find node: f_Thumb3.R
+[15:47:46.393906] [Import] [error] (th=2247169) Cannot find node: foot.L
+[15:47:46.393909] [Import] [error] (th=2247169) Cannot find node: foot.R
+[15:47:46.393911] [Import] [error] (th=2247169) Cannot find node: forearm.L
+[15:47:46.393914] [Import] [error] (th=2247169) Cannot find node: forearm.R
+[15:47:46.393916] [Import] [error] (th=2247169) Cannot find node: hand.L
+[15:47:46.393918] [Import] [error] (th=2247169) Cannot find node: hand.R
+[15:47:46.393929] [Import] [error] (th=2247169) Cannot find node: leg.L
+[15:47:46.393932] [Import] [error] (th=2247169) Cannot find node: leg.R
+[15:47:46.393937] [Import] [error] (th=2247169) Cannot find node: leg_up.L
+[15:47:46.393940] [Import] [error] (th=2247169) Cannot find node: leg_up.R
+[15:47:46.393943] [Import] [error] (th=2247169) Cannot find node: neck
+[15:47:46.393945] [Import] [error] (th=2247169) Cannot find node: shoulder.L
+[15:47:46.393948] [Import] [error] (th=2247169) Cannot find node: shoulder.R
+[15:47:46.393951] [Import] [error] (th=2247169) Cannot find node: spine
+[15:47:46.393953] [Import] [error] (th=2247169) File's animations are incompatible with the selected MANU's node
+[15:51:42.273596] [Import] [info] (th=2247169) Importing from /Users/nikolay/Documents/Models/walking robot/walking-robot/source/Animation.fbx
+[15:51:42.304080] [Import] [info] (th=2247169) Imported scene tree:
+name: "RootNode"
+
+	name: "Foot_Right"
+	
+		name: "RFoot_Bedro_$AssimpFbx$_RotationPivot"
+		
+			name: "RFoot_Bedro_$AssimpFbx$_RotationPivotInverse"
+			
+				name: "RFoot_Bedro_$AssimpFbx$_ScalingPivot"
+				
+					name: "RFoot_Bedro_$AssimpFbx$_ScalingPivotInverse"
+					
+						name: "RFoot_Bedro"
+						numMeshes: 1
+						 addr: "0x7feaa456ea00"
+						 name: "RFoot_Bedro"
+						 numVertices: "837"
+						 numFaces: "794"
+						
+						
+		name: "RFoot_Golen_$AssimpFbx$_RotationPivot"
+		
+			name: "RFoot_Golen_$AssimpFbx$_RotationPivotInverse"
+			
+				name: "RFoot_Golen_$AssimpFbx$_ScalingPivot"
+				
+					name: "RFoot_Golen_$AssimpFbx$_ScalingPivotInverse"
+					
+						name: "RFoot_Golen"
+						numMeshes: 1
+						 addr: "0x7feaa45abc00"
+						 name: "RFoot_Golen"
+						 numVertices: "518"
+						 numFaces: "608"
+						
+						
+		name: "RFoot_Stopa_$AssimpFbx$_RotationPivot"
+		
+			name: "RFoot_Stopa_$AssimpFbx$_RotationPivotInverse"
+			
+				name: "RFoot_Stopa_$AssimpFbx$_ScalingPivot"
+				
+					name: "RFoot_Stopa_$AssimpFbx$_ScalingPivotInverse"
+					
+						name: "RFoot_Stopa"
+						numMeshes: 1
+						 addr: "0x7feaa467ee00"
+						 name: "RFoot_Stopa"
+						 numVertices: "176"
+						 numFaces: "176"
+						
+						
+		name: "Stopa_R_$AssimpFbx$_RotationPivot"
+		
+			name: "Stopa_R_$AssimpFbx$_RotationPivotInverse"
+			
+				name: "Stopa_R_$AssimpFbx$_ScalingPivot"
+				
+					name: "Stopa_R_$AssimpFbx$_ScalingPivotInverse"
+					
+						name: "Stopa_R"
+						numMeshes: 1
+						 addr: "0x7feaa468fe00"
+						 name: "Stopa_R"
+						 numVertices: "286"
+						 numFaces: "272"
+						
+						
+	name: "Foot_Left"
+	
+		name: "LFoot_Bedro_$AssimpFbx$_RotationPivot"
+		
+			name: "LFoot_Bedro_$AssimpFbx$_RotationPivotInverse"
+			
+				name: "LFoot_Bedro_$AssimpFbx$_ScalingPivot"
+				
+					name: "LFoot_Bedro_$AssimpFbx$_ScalingPivotInverse"
+					
+						name: "LFoot_Bedro"
+						numMeshes: 1
+						 addr: "0x7feaa46baa00"
+						 name: "LFoot_Bedro"
+						 numVertices: "840"
+						 numFaces: "794"
+						
+						
+		name: "LFoot_Golen_$AssimpFbx$_RotationPivot"
+		
+			name: "LFoot_Golen_$AssimpFbx$_RotationPivotInverse"
+			
+				name: "LFoot_Golen_$AssimpFbx$_ScalingPivot"
+				
+					name: "LFoot_Golen_$AssimpFbx$_ScalingPivotInverse"
+					
+						name: "LFoot_Golen"
+						numMeshes: 1
+						 addr: "0x7feaa46e1e00"
+						 name: "LFoot_Golen"
+						 numVertices: "512"
+						 numFaces: "608"
+						
+						
+		name: "LFoot_Stopa_$AssimpFbx$_RotationPivot"
+		
+			name: "LFoot_Stopa_$AssimpFbx$_RotationPivotInverse"
+			
+				name: "LFoot_Stopa_$AssimpFbx$_ScalingPivot"
+				
+					name: "LFoot_Stopa_$AssimpFbx$_ScalingPivotInverse"
+					
+						name: "LFoot_Stopa"
+						numMeshes: 1
+						 addr: "0x7feaa46f6800"
+						 name: "LFoot_Stopa"
+						 numVertices: "176"
+						 numFaces: "176"
+						
+						
+		name: "Stopa_L_$AssimpFbx$_RotationPivot"
+		
+			name: "Stopa_L_$AssimpFbx$_RotationPivotInverse"
+			
+				name: "Stopa_L_$AssimpFbx$_ScalingPivot"
+				
+					name: "Stopa_L_$AssimpFbx$_ScalingPivotInverse"
+					
+						name: "Stopa_L"
+						numMeshes: 1
+						 addr: "0x7feaa4705000"
+						 name: "Stopa_L"
+						 numVertices: "286"
+						 numFaces: "272"
+						
+						
+	name: "Osnova_Centr_$AssimpFbx$_RotationPivot"
+	
+		name: "Osnova_Centr_$AssimpFbx$_RotationPivotInverse"
+		
+			name: "Osnova_Centr_$AssimpFbx$_ScalingPivot"
+			
+				name: "Osnova_Centr_$AssimpFbx$_ScalingPivotInverse"
+				
+					name: "Osnova_Centr"
+					numMeshes: 1
+					 addr: "0x7feaa4718800"
+					 name: "Osnova_Centr"
+					 numVertices: "796"
+					 numFaces: "784"
+					
+					
+	name: "Osnova_Top_1_$AssimpFbx$_RotationPivot"
+	
+		name: "Osnova_Top_1_$AssimpFbx$_RotationPivotInverse"
+		
+			name: "Osnova_Top_1_$AssimpFbx$_ScalingPivot"
+			
+				name: "Osnova_Top_1_$AssimpFbx$_ScalingPivotInverse"
+				
+					name: "Osnova_Top_1"
+					numMeshes: 1
+					 addr: "0x7feaa4740800"
+					 name: "Osnova_Top_1"
+					 numVertices: "5757"
+					 numFaces: "6680"
+					
+					
+	name: "Objetive_3_$AssimpFbx$_RotationPivot"
+	
+		name: "Objetive_3_$AssimpFbx$_RotationPivotInverse"
+		
+			name: "Objetive_3_$AssimpFbx$_ScalingPivot"
+			
+				name: "Objetive_3_$AssimpFbx$_ScalingPivotInverse"
+				
+					name: "Objetive_3"
+					numMeshes: 1
+					 addr: "0x7feaa475be00"
+					 name: "Objetive_3"
+					 numVertices: "228"
+					 numFaces: "256"
+					
+					
+	name: "Objetive_2_$AssimpFbx$_RotationPivot"
+	
+		name: "Objetive_2_$AssimpFbx$_RotationPivotInverse"
+		
+			name: "Objetive_2_$AssimpFbx$_ScalingPivot"
+			
+				name: "Objetive_2_$AssimpFbx$_ScalingPivotInverse"
+				
+					name: "Objetive_2"
+					numMeshes: 1
+					 addr: "0x7feaa477a400"
+					 name: "Objetive_2"
+					 numVertices: "357"
+					 numFaces: "432"
+					
+					
+	name: "Osnova_Centr1_$AssimpFbx$_Translation"
+	
+		name: "Osnova_Centr1_$AssimpFbx$_PreRotation"
+		
+			name: "Osnova_Centr1_$AssimpFbx$_Rotation"
+			
+				name: "Osnova_Centr1"
+				
+					name: "Osnova_Top_$AssimpFbx$_Translation"
+					
+						name: "Osnova_Top_$AssimpFbx$_PreRotation"
+						
+							name: "Osnova_Top_$AssimpFbx$_Rotation"
+							
+								name: "Osnova_Top"
+								
+									name: "Objective_Vnesh_$AssimpFbx$_Translation"
+									
+										name: "Objective_Vnesh_$AssimpFbx$_PreRotation"
+										
+											name: "Objective_Vnesh_$AssimpFbx$_Rotation"
+											
+												name: "Objective_Vnesh"
+												
+													name: "joint1"
+													
+									name: "Objective_Vnutr_$AssimpFbx$_Translation"
+									
+										name: "Objective_Vnutr_$AssimpFbx$_PreRotation"
+										
+											name: "Objective_Vnutr"
+											
+												name: "Pipka"
+												
+					name: "Bedro_L_$AssimpFbx$_Translation"
+					
+						name: "Bedro_L_$AssimpFbx$_PreRotation"
+						
+							name: "Bedro_L_$AssimpFbx$_Rotation"
+							
+								name: "Bedro_L"
+								
+									name: "Golen_L_$AssimpFbx$_Translation"
+									
+										name: "Golen_L_$AssimpFbx$_PreRotation"
+										
+											name: "Golen_L_$AssimpFbx$_Rotation"
+											
+												name: "Golen_L"
+												
+													name: "PredStopa_L_$AssimpFbx$_Translation"
+													
+														name: "PredStopa_L_$AssimpFbx$_PreRotation"
+														
+															name: "PredStopa_L_$AssimpFbx$_Rotation"
+															
+																name: "PredStopa_L"
+																
+																	name: "Stopa_L_B_$AssimpFbx$_Translation"
+																	
+																		name: "Stopa_L_B_$AssimpFbx$_PreRotation"
+																		
+																			name: "Stopa_L_B_$AssimpFbx$_Rotation"
+																			
+																				name: "Stopa_L_B"
+																				
+																					name: "Stopa_OS_L_$AssimpFbx$_Translation"
+																					
+																						name: "Stopa_OS_L_$AssimpFbx$_PreRotation"
+																						
+																							name: "Stopa_OS_L_$AssimpFbx$_Rotation"
+																							
+																								name: "Stopa_OS_L"
+																								
+																									name: "joint2"
+																									
+					name: "Bedro_R_$AssimpFbx$_Translation"
+					
+						name: "Bedro_R_$AssimpFbx$_PreRotation"
+						
+							name: "Bedro_R_$AssimpFbx$_Rotation"
+							
+								name: "Bedro_R"
+								
+									name: "Golen_R_$AssimpFbx$_Translation"
+									
+										name: "Golen_R_$AssimpFbx$_PreRotation"
+										
+											name: "Golen_R_$AssimpFbx$_Rotation"
+											
+												name: "Golen_R"
+												
+													name: "PredStopa_R_$AssimpFbx$_Translation"
+													
+														name: "PredStopa_R_$AssimpFbx$_PreRotation"
+														
+															name: "PredStopa_R_$AssimpFbx$_Rotation"
+															
+																name: "PredStopa_R"
+																
+																	name: "Stopa_R_B_$AssimpFbx$_Translation"
+																	
+																		name: "Stopa_R_B_$AssimpFbx$_PreRotation"
+																		
+																			name: "Stopa_R_B_$AssimpFbx$_Rotation"
+																			
+																				name: "Stopa_R_B"
+																				
+																					name: "Stopa_OS_R_$AssimpFbx$_Translation"
+																					
+																						name: "Stopa_OS_R_$AssimpFbx$_PreRotation"
+																						
+																							name: "Stopa_OS_R_$AssimpFbx$_Rotation"
+																							
+																								name: "Stopa_OS_R"
+																								
+																									name: "joint3"
+																									
+	name: "Osnova_CTRL_$AssimpFbx$_Translation"
+	
+		name: "Osnova_CTRL_$AssimpFbx$_RotationPivot"
+		
+			name: "Osnova_CTRL_$AssimpFbx$_Rotation"
+			
+				name: "Osnova_CTRL_$AssimpFbx$_RotationPivotInverse"
+				
+					name: "Osnova_CTRL_$AssimpFbx$_ScalingPivot"
+					
+						name: "Osnova_CTRL_$AssimpFbx$_ScalingPivotInverse"
+						
+							name: "Osnova_CTRL"
+							
+								name: "Top_CTRL_$AssimpFbx$_RotationPivot"
+								
+									name: "Top_CTRL_$AssimpFbx$_Rotation"
+									
+										name: "Top_CTRL_$AssimpFbx$_RotationPivotInverse"
+										
+											name: "Top_CTRL_$AssimpFbx$_ScalingPivot"
+											
+												name: "Top_CTRL_$AssimpFbx$_ScalingPivotInverse"
+												
+													name: "Top_CTRL"
+													
+														name: "Objective_Vnesh_CTRL_$AssimpFbx$_RotationPivot"
+														
+															name: "Objective_Vnesh_CTRL_$AssimpFbx$_Rotation"
+															
+																name: "Objective_Vnesh_CTRL_$AssimpFbx$_RotationPivotInverse"
+																
+																	name: "Objective_Vnesh_CTRL_$AssimpFbx$_ScalingPivot"
+																	
+																		name: "Objective_Vnesh_CTRL_$AssimpFbx$_ScalingPivotInverse"
+																		
+																			name: "Objective_Vnesh_CTRL"
+																			
+														name: "Objective_Vnutr_CTRL_$AssimpFbx$_Translation"
+														
+															name: "Objective_Vnutr_CTRL_$AssimpFbx$_RotationPivot"
+															
+																name: "Objective_Vnutr_CTRL_$AssimpFbx$_RotationPivotInverse"
+																
+																	name: "Objective_Vnutr_CTRL_$AssimpFbx$_ScalingPivot"
+																	
+																		name: "Objective_Vnutr_CTRL_$AssimpFbx$_ScalingPivotInverse"
+																		
+																			name: "Objective_Vnutr_CTRL"
+																			
+	name: "L_Foot_CTRL_$AssimpFbx$_Translation"
+	
+		name: "L_Foot_CTRL_$AssimpFbx$_RotationPivot"
+		
+			name: "L_Foot_CTRL_$AssimpFbx$_RotationPivotInverse"
+			
+				name: "L_Foot_CTRL_$AssimpFbx$_ScalingPivot"
+				
+					name: "L_Foot_CTRL_$AssimpFbx$_ScalingPivotInverse"
+					
+						name: "L_Foot_CTRL"
+						
+	name: "R_Foot_CTRL_$AssimpFbx$_Translation"
+	
+		name: "R_Foot_CTRL_$AssimpFbx$_RotationPivot"
+		
+			name: "R_Foot_CTRL_$AssimpFbx$_RotationPivotInverse"
+			
+				name: "R_Foot_CTRL_$AssimpFbx$_ScalingPivot"
+				
+					name: "R_Foot_CTRL_$AssimpFbx$_ScalingPivotInverse"
+					
+						name: "R_Foot_CTRL"
+						
+	name: "IK_Stopa_L"
+	
+		name: "IK_Foot_L"
+		
+	name: "IK_Stopa_R"
+	
+		name: "IK_Foot_R"
+		
+
+[15:51:42.304111] [Import] [info] (th=2247169) File loaded successfully
+[15:51:42.304115] [Import] [info] (th=2247169) Meshes count: 12
+[15:51:42.304117] [Import] [info] (th=2247169) Materials count: 1
+[15:51:42.304222] [Import] [warning] (th=2247169) Texture not found: /Users/nikolay/Documents/Models/walking robot/walking-robot/source/Texture/All/model/textures/lambert3_albedo.jpg
+[15:51:42.304238] [Import] [info] (th=2247169) Textures count (imported): 0
+[15:53:14.064972] [Import] [info] (th=2247169) Importing from /Users/nikolay/Documents/Models/RobotEV3_01/RobotEV3_01.dae
+[15:53:14.304209] [Import] [info] (th=2247169) Imported scene tree:
+name: "Robot_01_fixed_03"
+
+	name: "world_root"
+	
+		name: "RobotEV_01"
+		
+			name: "Body"
+			numMeshes: 1
+			 addr: "0x7feaa140f800"
+			 name: "BodyMesh"
+			 numVertices: "1173"
+			 numFaces: "1512"
+			
+			
+			name: "Engine_L"
+			numMeshes: 1
+			 addr: "0x7feaa14d6800"
+			 name: "Engine_LMesh"
+			 numVertices: "3412"
+			 numFaces: "3686"
+			
+			
+			name: "Engine_R"
+			numMeshes: 1
+			 addr: "0x7feaa1015400"
+			 name: "Engine_RMesh"
+			 numVertices: "3412"
+			 numFaces: "3686"
+			
+			
+			name: "TopArmMain"
+			numMeshes: 1
+			 addr: "0x7feaa1017600"
+			 name: "TopArmMainMesh"
+			 numVertices: "2877"
+			 numFaces: "3380"
+			
+			
+			name: "Cable_01"
+			numMeshes: 1
+			 addr: "0x7feaa1019800"
+			 name: "Cable_01Mesh"
+			 numVertices: "4381"
+			 numFaces: "5820"
+			
+			
+			name: "BodyDetails"
+			numMeshes: 1
+			 addr: "0x7feaa101ba00"
+			 name: "BodyDetailsMesh"
+			 numVertices: "3298"
+			 numFaces: "3052"
+			
+			
+			name: "b_TopRotate"
+			
+				name: "TopRotate"
+				numMeshes: 1
+				 addr: "0x7feaa101f800"
+				 name: "TopRotateMesh"
+				 numVertices: "7169"
+				 numFaces: "7872"
+				
+				
+			name: "b_wheel_l_01"
+			
+				name: "Wheel_L_Main"
+				numMeshes: 1
+				 addr: "0x7feaa1023600"
+				 name: "Wheel_L_MainMesh"
+				 numVertices: "2575"
+				 numFaces: "2918"
+				
+				
+			name: "b_wheel_l_02"
+			
+				name: "Wheel_L_Front"
+				numMeshes: 1
+				 addr: "0x7feaa1027400"
+				 name: "Wheel_L_FrontMesh"
+				 numVertices: "2575"
+				 numFaces: "2918"
+				
+				
+			name: "b_wheel_l_03"
+			
+				name: "Wheel_L_Back"
+				numMeshes: 1
+				 addr: "0x7feaa102b200"
+				 name: "Wheel_L_BackMesh"
+				 numVertices: "2575"
+				 numFaces: "2918"
+				
+				
+			name: "b_wheel_r_01"
+			
+				name: "Wheel_R_Front"
+				numMeshes: 1
+				 addr: "0x7feaa102f000"
+				 name: "Wheel_R_FrontMesh"
+				 numVertices: "2576"
+				 numFaces: "2918"
+				
+				
+			name: "b_wheel_r_02"
+			
+				name: "Wheel_R_Main"
+				numMeshes: 1
+				 addr: "0x7feaa1032e00"
+				 name: "Wheel_R_MainMesh"
+				 numVertices: "2576"
+				 numFaces: "2918"
+				
+				
+			name: "b_wheel_r_03"
+			
+				name: "Wheel_R_Back"
+				numMeshes: 1
+				 addr: "0x7feaa1036c00"
+				 name: "Wheel_R_BackMesh"
+				 numVertices: "2576"
+				 numFaces: "2918"
+				
+				
+		name: "TrackRig_L"
+		
+			name: "TrackMesh"
+			numMeshes: 1
+			 addr: "0x7feaa103aa00"
+			 name: "TrackMeshMesh"
+			 numVertices: "4760"
+			 numFaces: "5871"
+			
+			
+			name: "up"
+			
+			name: "Look"
+			
+			name: "track_root1"
+			
+				name: "track_bone1"
+				
+					name: "track_bone2"
+					
+						name: "track_bone3"
+						
+							name: "track_bone4"
+							
+								name: "track_bone5"
+								
+									name: "track_bone6"
+									
+										name: "track_bone7"
+										
+											name: "track_bone8"
+											
+												name: "track_bone9"
+												
+													name: "track_bone10"
+													
+														name: "track_bone11"
+														
+															name: "track_bone12"
+															
+																name: "track_bone13"
+																
+																	name: "track_bone14"
+																	
+																		name: "track_bone15"
+																		
+																			name: "track_bone16"
+																			
+																				name: "track_bone17"
+																				
+																					name: "track_bone18"
+																					
+																						name: "track_bone19"
+																						
+																							name: "track_bone20"
+																							
+																								name: "track_bone21"
+																								
+																									name: "track_bone22"
+																									
+																										name: "track_bone23"
+																										
+																											name: "track_bone24"
+																											
+																												name: "track_bone25"
+																												
+																													name: "track_bone26"
+																													
+																														name: "track_bone27"
+																														
+																															name: "track_bone28"
+																															
+																																name: "track_bone29"
+																																
+																																	name: "track_bone30"
+																																	
+																																		name: "track_bone30_end_effector"
+																																		
+		name: "TrackRig_R"
+		
+			name: "TrackMesh_ncl1_1"
+			numMeshes: 1
+			 addr: "0x7feaa07c7000"
+			 name: "TrackMesh_ncl1_1Mesh"
+			 numVertices: "4772"
+			 numFaces: "5870"
+			
+			
+			name: "up_ncl1_1"
+			
+			name: "Look_ncl1_1"
+			
+			name: "track_root1_ncl1_1"
+			
+				name: "track_bone_R1"
+				
+					name: "track_bone_R2"
+					
+						name: "track_bone_R3"
+						
+							name: "track_bone_R4"
+							
+								name: "track_bone_R5"
+								
+									name: "track_bone_R6"
+									
+										name: "track_bone_R7"
+										
+											name: "track_bone_R8"
+											
+												name: "track_bone_R9"
+												
+													name: "track_bone_R10"
+													
+														name: "track_bone_R11"
+														
+															name: "track_bone_R12"
+															
+																name: "track_bone_R13"
+																
+																	name: "track_bone_R14"
+																	
+																		name: "track_bone_R15"
+																		
+																			name: "track_bone_R16"
+																			
+																				name: "track_bone_R17"
+																				
+																					name: "track_bone_R18"
+																					
+																						name: "track_bone_R19"
+																						
+																							name: "track_bone_R20"
+																							
+																								name: "track_bone_R21"
+																								
+																									name: "track_bone_R22"
+																									
+																										name: "track_bone_R23"
+																										
+																											name: "track_bone_R24"
+																											
+																												name: "track_bone_R25"
+																												
+																													name: "track_bone_R26"
+																													
+																														name: "track_bone_R27"
+																														
+																															name: "track_bone_R28"
+																															
+																																name: "track_bone_R29"
+																																
+																																	name: "track_bone_R30"
+																																	
+																																		name: "track_bone_R30_end_effector"
+																																		
+
+[15:53:14.304293] [Import] [info] (th=2247169) File loaded successfully
+[15:53:14.304300] [Import] [info] (th=2247169) Meshes count: 15
+[15:53:14.304301] [Import] [info] (th=2247169) Materials count: 8
+[15:53:14.304736] [Import] [warning] (th=2247169) Texture not found: /Users/nikolay/Documents/Models/RobotEV3_01/D:/Manu3d/EV3_Robot/Textures/Export/M_Cables_D.png
+[15:53:14.304794] [Import] [warning] (th=2247169) Texture not found: /Users/nikolay/Documents/Models/RobotEV3_01/D:/Manu3d/EV3_Robot/Textures/Export/M_Engine_D.png
+[15:53:14.304843] [Import] [warning] (th=2247169) Texture not found: /Users/nikolay/Documents/Models/RobotEV3_01/D:/Manu3d/EV3_Robot/Textures/Export/M_TopArm_D.png
+[15:53:14.304899] [Import] [warning] (th=2247169) Texture not found: /Users/nikolay/Documents/Models/RobotEV3_01/D:/Manu3d/EV3_Robot/Textures/Export/M_TopArmEngine_D.png
+[15:53:14.304949] [Import] [warning] (th=2247169) Texture not found: /Users/nikolay/Documents/Models/RobotEV3_01/D:/Manu3d/EV3_Robot/Textures/Export/M_Track_D.png
+[15:53:14.304998] [Import] [warning] (th=2247169) Texture not found: /Users/nikolay/Documents/Models/RobotEV3_01/D:/Manu3d/EV3_Robot/Textures/Export/M_Wheel_D.png
+[15:53:14.305048] [Import] [warning] (th=2247169) Texture not found: /Users/nikolay/Documents/Models/RobotEV3_01/D:/Manu3d/EV3_Robot/Textures/Export/M_body_D.png
+[15:53:14.305100] [Import] [warning] (th=2247169) Texture not found: /Users/nikolay/Documents/Models/RobotEV3_01/D:/Manu3d/EV3_Robot/Textures/Export/M_bodyDetail_D.png
+[15:53:14.305113] [Import] [info] (th=2247169) Textures count (imported): 0
+[15:56:09.582710] [Import] [info] (th=2247169) Importing from /Users/nikolay/Documents/Models/robot-transform-animations-with-simple-textures/source/RobotTransformAnimations3.fbx
+[15:56:09.608093] [Import] [info] (th=2247169) Imported scene tree:
+name: "RootNode"
+
+	name: "RobotMode"
+	
+		name: "group2"
+		
+			name: "pCube11_$AssimpFbx$_Translation"
+			
+				name: "pCube11_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube11_$AssimpFbx$_Rotation"
+					
+						name: "pCube11_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube11_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube11_$AssimpFbx$_Scaling"
+								
+									name: "pCube11_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCube11"
+										numMeshes: 1
+										 addr: "0x7fea8698d000"
+										 name: "pCube11"
+										 numVertices: "86"
+										 numFaces: "44"
+										
+										
+			name: "pCube12_$AssimpFbx$_Translation"
+			
+				name: "pCube12_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube12_$AssimpFbx$_Rotation"
+					
+						name: "pCube12_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube12_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube12_$AssimpFbx$_Scaling"
+								
+									name: "pCube12_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCube12"
+										numMeshes: 1
+										 addr: "0x7feaa1009000"
+										 name: "pCube12"
+										 numVertices: "79"
+										 numFaces: "48"
+										
+										
+			name: "pCylinder4_$AssimpFbx$_Translation"
+			
+				name: "pCylinder4_$AssimpFbx$_RotationPivot"
+				
+					name: "pCylinder4_$AssimpFbx$_Rotation"
+					
+						name: "pCylinder4_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCylinder4_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCylinder4_$AssimpFbx$_Scaling"
+								
+									name: "pCylinder4_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCylinder4"
+										numMeshes: 1
+										 addr: "0x7feaa12d5600"
+										 name: "pCylinder4"
+										 numVertices: "160"
+										 numFaces: "80"
+										
+										
+			name: "pCylinder3_$AssimpFbx$_Translation"
+			
+				name: "pCylinder3_$AssimpFbx$_RotationPivot"
+				
+					name: "pCylinder3_$AssimpFbx$_Rotation"
+					
+						name: "pCylinder3_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCylinder3_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCylinder3_$AssimpFbx$_Scaling"
+								
+									name: "pCylinder3_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCylinder3"
+										numMeshes: 1
+										 addr: "0x7feaa1100000"
+										 name: "pCylinder3"
+										 numVertices: "299"
+										 numFaces: "160"
+										
+										
+			name: "pCube5_$AssimpFbx$_Translation"
+			
+				name: "pCube5_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube5_$AssimpFbx$_Rotation"
+					
+						name: "pCube5_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube5_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube5_$AssimpFbx$_Scaling"
+								
+									name: "pCube5_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCube5"
+										numMeshes: 1
+										 addr: "0x7feaa146a000"
+										 name: "pCube5"
+										 numVertices: "40"
+										 numFaces: "20"
+										
+										
+			name: "pCylinder1_$AssimpFbx$_Translation"
+			
+				name: "pCylinder1_$AssimpFbx$_RotationPivot"
+				
+					name: "pCylinder1_$AssimpFbx$_Rotation"
+					
+						name: "pCylinder1_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCylinder1_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCylinder1_$AssimpFbx$_Scaling"
+								
+									name: "pCylinder1_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCylinder1"
+										numMeshes: 1
+										 addr: "0x7fea981a0200"
+										 name: "pCylinder1"
+										 numVertices: "212"
+										 numFaces: "128"
+										
+										
+			name: "pCube4_$AssimpFbx$_Translation"
+			
+				name: "pCube4_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube4_$AssimpFbx$_Rotation"
+					
+						name: "pCube4_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube4_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube4_$AssimpFbx$_Scaling"
+								
+									name: "pCube4_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCube4"
+										numMeshes: 1
+										 addr: "0x7feaa1581000"
+										 name: "pCube4"
+										 numVertices: "56"
+										 numFaces: "28"
+										
+										
+			name: "pCylinder2_$AssimpFbx$_Translation"
+			
+				name: "pCylinder2_$AssimpFbx$_RotationPivot"
+				
+					name: "pCylinder2_$AssimpFbx$_Rotation"
+					
+						name: "pCylinder2_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCylinder2_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCylinder2_$AssimpFbx$_Scaling"
+								
+									name: "pCylinder2_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCylinder2"
+										numMeshes: 1
+										 addr: "0x7feaa125b000"
+										 name: "pCylinder2"
+										 numVertices: "72"
+										 numFaces: "40"
+										
+										
+			name: "pCube3_$AssimpFbx$_Translation"
+			
+				name: "pCube3_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube3_$AssimpFbx$_Rotation"
+					
+						name: "pCube3_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube3_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube3_$AssimpFbx$_Scaling"
+								
+									name: "pCube3_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCube3"
+										numMeshes: 1
+										 addr: "0x7feaa12f9400"
+										 name: "pCube3"
+										 numVertices: "84"
+										 numFaces: "44"
+										
+										
+			name: "pCube24_$AssimpFbx$_Translation"
+			
+				name: "pCube24_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube24_$AssimpFbx$_Rotation"
+					
+						name: "pCube24_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube24_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube24_$AssimpFbx$_Scaling"
+								
+									name: "pCube24_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCube24"
+										numMeshes: 1
+										 addr: "0x7feaa1300600"
+										 name: "pCube24"
+										 numVertices: "184"
+										 numFaces: "92"
+										
+										
+			name: "pCube21_$AssimpFbx$_Translation"
+			
+				name: "pCube21_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube21_$AssimpFbx$_Rotation"
+					
+						name: "pCube21_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube21_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube21_$AssimpFbx$_Scaling"
+								
+									name: "pCube21_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCube21"
+										numMeshes: 1
+										 addr: "0x7feaa149dc00"
+										 name: "pCube21"
+										 numVertices: "88"
+										 numFaces: "44"
+										
+										
+			name: "pCylinder5_$AssimpFbx$_Translation"
+			
+				name: "pCylinder5_$AssimpFbx$_RotationPivot"
+				
+					name: "pCylinder5_$AssimpFbx$_Rotation"
+					
+						name: "pCylinder5_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCylinder5_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCylinder5_$AssimpFbx$_Scaling"
+								
+									name: "pCylinder5_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCylinder5"
+										numMeshes: 1
+										 addr: "0x7feaa14a3000"
+										 name: "pCylinder5"
+										 numVertices: "56"
+										 numFaces: "24"
+										
+										
+			name: "pCube14_$AssimpFbx$_Translation"
+			
+				name: "pCube14_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube14_$AssimpFbx$_Rotation"
+					
+						name: "pCube14_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube14_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube14_$AssimpFbx$_Scaling"
+								
+									name: "pCube14_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCube14"
+										numMeshes: 1
+										 addr: "0x7feaa1337800"
+										 name: "pCube14"
+										 numVertices: "24"
+										 numFaces: "12"
+										
+										
+			name: "pCube13_$AssimpFbx$_Translation"
+			
+				name: "pCube13_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube13_$AssimpFbx$_Rotation"
+					
+						name: "pCube13_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube13_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube13_$AssimpFbx$_Scaling"
+								
+									name: "pCube13_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCube13"
+										numMeshes: 1
+										 addr: "0x7feaa1564200"
+										 name: "pCube13"
+										 numVertices: "24"
+										 numFaces: "12"
+										
+										
+		name: "group1"
+		
+			name: "pCube11001_$AssimpFbx$_Translation"
+			
+				name: "pCube11001_$AssimpFbx$_RotationOffset"
+				
+					name: "pCube11001_$AssimpFbx$_RotationPivot"
+					
+						name: "pCube11001_$AssimpFbx$_Rotation"
+						
+							name: "pCube11001_$AssimpFbx$_RotationPivotInverse"
+							
+								name: "pCube11001_$AssimpFbx$_ScalingPivot"
+								
+									name: "pCube11001_$AssimpFbx$_ScalingPivotInverse"
+									
+										name: "pCube11001"
+										numMeshes: 1
+										 addr: "0x7feaa156c800"
+										 name: "pCube11001"
+										 numVertices: "86"
+										 numFaces: "44"
+										
+										
+			name: "pCube12001_$AssimpFbx$_Translation"
+			
+				name: "pCube12001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube12001_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube12001_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube12001_$AssimpFbx$_ScalingPivotInverse"
+							
+								name: "pCube12001"
+								numMeshes: 1
+								 addr: "0x7feaa1572e00"
+								 name: "pCube12001"
+								 numVertices: "75"
+								 numFaces: "48"
+								
+								
+			name: "pCylinder4001_$AssimpFbx$_Translation"
+			
+				name: "pCylinder4001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCylinder4001_$AssimpFbx$_Rotation"
+					
+						name: "pCylinder4001_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCylinder4001_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCylinder4001_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCylinder4001"
+									numMeshes: 1
+									 addr: "0x7feaa1579a00"
+									 name: "pCylinder4001"
+									 numVertices: "160"
+									 numFaces: "80"
+									
+									
+			name: "pCylinder3001_$AssimpFbx$_Translation"
+			
+				name: "pCylinder3001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCylinder3001_$AssimpFbx$_Rotation"
+					
+						name: "pCylinder3001_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCylinder3001_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCylinder3001_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCylinder3001"
+									numMeshes: 1
+									 addr: "0x7feaa14e4e00"
+									 name: "pCylinder3001"
+									 numVertices: "299"
+									 numFaces: "160"
+									
+									
+			name: "pCube5001_$AssimpFbx$_Translation"
+			
+				name: "pCube5001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube5001_$AssimpFbx$_Rotation"
+					
+						name: "pCube5001_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube5001_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube5001_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube5001"
+									numMeshes: 1
+									 addr: "0x7feaa14ede00"
+									 name: "pCube5001"
+									 numVertices: "40"
+									 numFaces: "20"
+									
+									
+			name: "pCylinder1001_$AssimpFbx$_Translation"
+			
+				name: "pCylinder1001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCylinder1001_$AssimpFbx$_Rotation"
+					
+						name: "pCylinder1001_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCylinder1001_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCylinder1001_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCylinder1001"
+									numMeshes: 1
+									 addr: "0x7feaa14f3800"
+									 name: "pCylinder1001"
+									 numVertices: "212"
+									 numFaces: "128"
+									
+									
+			name: "pCube4001_$AssimpFbx$_Translation"
+			
+				name: "pCube4001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube4001_$AssimpFbx$_Rotation"
+					
+						name: "pCube4001_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube4001_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube4001_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube4001"
+									numMeshes: 1
+									 addr: "0x7fea987f0000"
+									 name: "pCube4001"
+									 numVertices: "56"
+									 numFaces: "28"
+									
+									
+			name: "pCylinder2001_$AssimpFbx$_Translation"
+			
+				name: "pCylinder2001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCylinder2001_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCylinder2001_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCylinder2001_$AssimpFbx$_ScalingPivotInverse"
+							
+								name: "pCylinder2001"
+								numMeshes: 1
+								 addr: "0x7fea987f5400"
+								 name: "pCylinder2001"
+								 numVertices: "72"
+								 numFaces: "40"
+								
+								
+			name: "pCube3001_$AssimpFbx$_Translation"
+			
+				name: "pCube3001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube3001_$AssimpFbx$_Rotation"
+					
+						name: "pCube3001_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube3001_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube3001_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube3001"
+									numMeshes: 1
+									 addr: "0x7feaa1051000"
+									 name: "pCube3001"
+									 numVertices: "84"
+									 numFaces: "44"
+									
+									
+			name: "pCube24001_$AssimpFbx$_Translation"
+			
+				name: "pCube24001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube24001_$AssimpFbx$_Rotation"
+					
+						name: "pCube24001_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube24001_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube24001_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube24001"
+									numMeshes: 1
+									 addr: "0x7feaa1057c00"
+									 name: "pCube24001"
+									 numVertices: "184"
+									 numFaces: "92"
+									
+									
+			name: "pCube21001_$AssimpFbx$_Translation"
+			
+				name: "pCube21001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube21001_$AssimpFbx$_Rotation"
+					
+						name: "pCube21001_$AssimpFbx$_RotationPivotInverse"
+						
+							name: "pCube21001_$AssimpFbx$_ScalingPivot"
+							
+								name: "pCube21001_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube21001"
+									numMeshes: 1
+									 addr: "0x7feaa105f400"
+									 name: "pCube21001"
+									 numVertices: "88"
+									 numFaces: "44"
+									
+									
+			name: "pCylinder5001_$AssimpFbx$_Translation"
+			
+				name: "pCylinder5001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCylinder5001_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCylinder5001_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCylinder5001_$AssimpFbx$_ScalingPivotInverse"
+							
+								name: "pCylinder5001"
+								numMeshes: 1
+								 addr: "0x7feaa1065a00"
+								 name: "pCylinder5001"
+								 numVertices: "49"
+								 numFaces: "24"
+								
+								
+			name: "pCube14001_$AssimpFbx$_Translation"
+			
+				name: "pCube14001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube14001_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube14001_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube14001_$AssimpFbx$_ScalingPivotInverse"
+							
+								name: "pCube14001"
+								numMeshes: 1
+								 addr: "0x7feaa106ae00"
+								 name: "pCube14001"
+								 numVertices: "24"
+								 numFaces: "12"
+								
+								
+			name: "pCube13001_$AssimpFbx$_Translation"
+			
+				name: "pCube13001_$AssimpFbx$_RotationPivot"
+				
+					name: "pCube13001_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube13001_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube13001_$AssimpFbx$_ScalingPivotInverse"
+							
+								name: "pCube13001"
+								numMeshes: 1
+								 addr: "0x7feaa1070200"
+								 name: "pCube13001"
+								 numVertices: "24"
+								 numFaces: "12"
+								
+								
+		name: "pCylinder6_$AssimpFbx$_Translation"
+		
+			name: "pCylinder6_$AssimpFbx$_RotationPivot"
+			
+				name: "pCylinder6_$AssimpFbx$_Rotation"
+				
+					name: "pCylinder6_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCylinder6_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCylinder6_$AssimpFbx$_Scaling"
+							
+								name: "pCylinder6_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCylinder6"
+									numMeshes: 1
+									 addr: "0x7feaa1076200"
+									 name: "pCylinder6"
+									 numVertices: "194"
+									 numFaces: "128"
+									
+									
+		name: "pCube22_$AssimpFbx$_Translation"
+		
+			name: "pCube22_$AssimpFbx$_RotationPivot"
+			
+				name: "pCube22_$AssimpFbx$_Rotation"
+				
+					name: "pCube22_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube22_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube22_$AssimpFbx$_Scaling"
+							
+								name: "pCube22_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube22"
+									numMeshes: 1
+									 addr: "0x7feaa1094600"
+									 name: "pCube22"
+									 numVertices: "230"
+									 numFaces: "128"
+									
+									
+		name: "pCube19_$AssimpFbx$_Translation"
+		
+			name: "pCube19_$AssimpFbx$_RotationPivot"
+			
+				name: "pCube19_$AssimpFbx$_Rotation"
+				
+					name: "pCube19_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube19_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube19_$AssimpFbx$_Scaling"
+							
+								name: "pCube19_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube19"
+									numMeshes: 1
+									 addr: "0x7feaa109d000"
+									 name: "pCube19"
+									 numVertices: "40"
+									 numFaces: "20"
+									
+									
+		name: "pCube20_$AssimpFbx$_Translation"
+		
+			name: "pCube20_$AssimpFbx$_RotationPivot"
+			
+				name: "pCube20_$AssimpFbx$_Rotation"
+				
+					name: "pCube20_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube20_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube20_$AssimpFbx$_Scaling"
+							
+								name: "pCube20_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube20"
+									numMeshes: 1
+									 addr: "0x7feaa12e7200"
+									 name: "pCube20"
+									 numVertices: "40"
+									 numFaces: "20"
+									
+									
+		name: "pCube23_$AssimpFbx$_Translation"
+		
+			name: "pCube23_$AssimpFbx$_RotationPivot"
+			
+				name: "pCube23_$AssimpFbx$_Rotation"
+				
+					name: "pCube23_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube23_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube23_$AssimpFbx$_Scaling"
+							
+								name: "pCube23_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube23"
+									numMeshes: 1
+									 addr: "0x7feaa12eb400"
+									 name: "pCube23"
+									 numVertices: "40"
+									 numFaces: "20"
+									
+									
+		name: "pCube17_$AssimpFbx$_Translation"
+		
+			name: "pCube17_$AssimpFbx$_RotationPivot"
+			
+				name: "pCube17_$AssimpFbx$_Rotation"
+				
+					name: "pCube17_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube17_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube17_$AssimpFbx$_Scaling"
+							
+								name: "pCube17_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube17"
+									numMeshes: 1
+									 addr: "0x7feaa138ae00"
+									 name: "pCube17"
+									 numVertices: "38"
+									 numFaces: "20"
+									
+									
+		name: "pCube16_$AssimpFbx$_Translation"
+		
+			name: "pCube16_$AssimpFbx$_RotationPivot"
+			
+				name: "pCube16_$AssimpFbx$_Rotation"
+				
+					name: "pCube16_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube16_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube16_$AssimpFbx$_Scaling"
+							
+								name: "pCube16_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube16"
+									numMeshes: 1
+									 addr: "0x7feaa1697200"
+									 name: "pCube16"
+									 numVertices: "56"
+									 numFaces: "28"
+									
+									
+		name: "pCube15_$AssimpFbx$_Translation"
+		
+			name: "pCube15_$AssimpFbx$_RotationPivot"
+			
+				name: "pCube15_$AssimpFbx$_Rotation"
+				
+					name: "pCube15_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube15_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube15_$AssimpFbx$_Scaling"
+							
+								name: "pCube15_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube15"
+									numMeshes: 1
+									 addr: "0x7feaa169d200"
+									 name: "pCube15"
+									 numVertices: "56"
+									 numFaces: "28"
+									
+									
+		name: "pCube10_$AssimpFbx$_Translation"
+		
+			name: "pCube10_$AssimpFbx$_RotationPivot"
+			
+				name: "pCube10_$AssimpFbx$_Rotation"
+				
+					name: "pCube10_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube10_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube10_$AssimpFbx$_Scaling"
+							
+								name: "pCube10_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube10"
+									numMeshes: 1
+									 addr: "0x7feaa16a3200"
+									 name: "pCube10"
+									 numVertices: "64"
+									 numFaces: "32"
+									
+									
+		name: "polySurface4_$AssimpFbx$_Translation"
+		
+			name: "polySurface4_$AssimpFbx$_RotationPivot"
+			
+				name: "polySurface4_$AssimpFbx$_Rotation"
+				
+					name: "polySurface4_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "polySurface4_$AssimpFbx$_ScalingPivot"
+						
+							name: "polySurface4_$AssimpFbx$_Scaling"
+							
+								name: "polySurface4_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "polySurface4"
+									numMeshes: 1
+									 addr: "0x7feaa16a9200"
+									 name: "polySurface4"
+									 numVertices: "181"
+									 numFaces: "92"
+									
+									
+		name: "pCube2_$AssimpFbx$_Translation"
+		
+			name: "pCube2_$AssimpFbx$_RotationPivot"
+			
+				name: "pCube2_$AssimpFbx$_Rotation"
+				
+					name: "pCube2_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube2_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube2_$AssimpFbx$_Scaling"
+							
+								name: "pCube2_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube2"
+									numMeshes: 1
+									 addr: "0x7feaa16b1000"
+									 name: "pCube2"
+									 numVertices: "40"
+									 numFaces: "20"
+									
+									
+		name: "pCube1_$AssimpFbx$_Translation"
+		
+			name: "pCube1_$AssimpFbx$_RotationPivot"
+			
+				name: "pCube1_$AssimpFbx$_Rotation"
+				
+					name: "pCube1_$AssimpFbx$_RotationPivotInverse"
+					
+						name: "pCube1_$AssimpFbx$_ScalingPivot"
+						
+							name: "pCube1_$AssimpFbx$_Scaling"
+							
+								name: "pCube1_$AssimpFbx$_ScalingPivotInverse"
+								
+									name: "pCube1"
+									numMeshes: 1
+									 addr: "0x7feaa16b7000"
+									 name: "pCube1"
+									 numVertices: "64"
+									 numFaces: "32"
+									
+									
+
+[15:56:09.608193] [Import] [info] (th=2247169) File loaded successfully
+[15:56:09.608200] [Import] [info] (th=2247169) Meshes count: 40
+[15:56:09.608202] [Import] [info] (th=2247169) Materials count: 1
+[15:56:09.608307] [Import] [info] (th=2247169) Textures count (imported): 0

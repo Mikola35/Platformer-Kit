@@ -96,3 +96,12 @@
 [22:49:45.476985] [SceneFactory] [info] (th=2042822) Box is created: id: C5DB3983-4277-4ED9-9EA4-EC104BB5095D
 [22:49:50.125063] [SceneFactory] [info] (th=2042822) Cone is created: id: 7F0FF675-1833-4FDD-821C-6C6A365B78A7
 [23:03:35.411187] [SceneFactory] [info] (th=2042822) Sphere is created: id: 4FB6BD93-4D62-4FF7-A458-A4EC533FC11A
+[09:07:56.407837] [SceneFactory] [info] (th=2081526) Log level for 'SceneFactory' set to 'info'
+[15:36:37.190362] [SceneFactory] [info] (th=2247169) Log level for 'SceneFactory' set to 'info'
+[22:54:43.258204] [SceneFactory] [info] (th=205224) Log level for 'SceneFactory' set to 'info'
+[23:03:41.764884] [SceneFactory] [info] (th=205224) Sphere is created: id: 1A8733D8-7E81-44FA-9A92-D12B5B516EF0
+[16:29:57.426775] [SceneFactory] [info] (th=44555) Log level for 'SceneFactory' set to 'info'
+[16:40:14.925889] [SceneFactory] [info] (th=44555) Sphere is created: id: A0F56630-8EE3-4B7B-B060-78980B4235AB
+[16:50:14.977389] [SceneFactory] [info] (th=44555) Light is created: id: 11DD5014-3022-4126-ABB8-DF1FBB96D1E9
+[20:49:33.673994] [SceneFactory] [info] (th=697350) Log level for 'SceneFactory' set to 'info'
+[20:49:33.674614] [SceneFactory] [info] (th=697350) Cylinder is created: id: 8E937403-4A66-4A7B-83D0-DA9C5B82133C
