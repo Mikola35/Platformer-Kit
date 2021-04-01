@@ -1,0 +1,73 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "1F7F2B30-31DB-4B5E-9097-9386279FFD0A"
+            },
+            "name": "Attack",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "D8FAE0F1-FBBB-4E80-AC31-15B49255962E"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -0.99619460105896,
+                        -0.08715610951185227,
+                        -4.0248451682600719e-7,
+                        0.0,
+                        0.08715610951185227,
+                        -0.99619460105896,
+                        1.8678555591122859e-7,
+                        0.0,
+                        -4.172324565843155e-7,
+                        1.5099581673894137e-7,
+                        1.0,
+                        0.0,
+                        -3.16290283203125,
+                        1.730921745300293,
+                        -0.0000171661376953125,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.99619460105896,
+                        0.08715596050024033,
+                        8.526512829121202e-14,
+                        0.0,
+                        -0.08715596050024033,
+                        0.99619460105896,
+                        -1.4210854715202005e-14,
+                        0.0,
+                        -1.4210854715202004e-13,
+                        -1.4210854715202005e-14,
+                        1.0,
+                        0.0,
+                        -195.83709716796876,
+                        0.26907777786254885,
+                        18.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "82A5B8D4-6683-41E6-B1D1-1A74C3BC278D"
+        },
+        "is_asset_root": false
+    }
+]

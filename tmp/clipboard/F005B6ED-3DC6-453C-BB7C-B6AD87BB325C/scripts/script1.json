@@ -1,0 +1,71 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "839DADD6-8A16-4E85-9879-C634CD2DCC21"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "6DBD4214-9E9B-43A1-80EA-AE240CCA08DC"
+                },
+                "name": "Inserted animations",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink"
+                },
+                "animation": {
+                    "uuid": "F7F97AE6-7386-4C55-80C8-0BBB2720BAC1"
+                },
+                "AnimationType": "timeline",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "5B9379CE-C739-447D-8A8F-55831BADC30C"
+            },
+            "ownerScriptId": {
+                "uuid": "839DADD6-8A16-4E85-9879-C634CD2DCC21"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "in",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "C95EA845-BC44-4DCC-857D-B0257C48D480"
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "D3FB9D8D-0119-49ED-8363-BEF2C6D3E175"
+                },
+                "targetRelativeAddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 5,
+                    "name": "Trap_Gear_2_5m"
+                }
+            },
+            "allowed": false
+        }
+    ]
+}

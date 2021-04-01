@@ -1,0 +1,184 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "9AB3B445-E9AF-4D8A-B39C-5A148A2BE309"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "50991FFC-197E-4CB7-9322-1A7E40D26039"
+                },
+                "name": "Inserted animations",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink"
+                },
+                "animation": {
+                    "uuid": "E31AD7AA-F2D9-43B4-A0DB-43892AA70E02"
+                },
+                "AnimationType": "timeline",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "22CBB52E-0733-4A1E-AA0E-6610C2B38CB1"
+            },
+            "ownerScriptId": {
+                "uuid": "9AB3B445-E9AF-4D8A-B39C-5A148A2BE309"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "in",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "C95EA845-BC44-4DCC-857D-B0257C48D480"
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "8F56A003-4F1C-422F-8202-BC72C73CCF51"
+                },
+                "targetRelativeAddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 7,
+                    "name": "Trap_Base 8",
+                    "subaddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 0,
+                        "name": "Trap_Pike_1m"
+                    }
+                }
+            },
+            "allowed": false
+        },
+        {
+            "@class": "GroupTrigger",
+            "id": {
+                "uuid": "F7E95C55-0986-4425-9B31-B975BC2F22E3"
+            },
+            "ownerScriptId": {
+                "uuid": "9AB3B445-E9AF-4D8A-B39C-5A148A2BE309"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "triggers": [
+                {
+                    "@class": "CollisionTrigger",
+                    "id": {
+                        "uuid": "BD6C377C-4D76-4820-AC7D-C666003BF858"
+                    },
+                    "ownerScriptId": {
+                        "uuid": "9AB3B445-E9AF-4D8A-B39C-5A148A2BE309"
+                    },
+                    "logicOperation": 0,
+                    "resultType": 0,
+                    "isInverted": false,
+                    "eventType": "inside",
+                    "targetBindingLink": {
+                        "@class": "BindingLink",
+                        "targetId": {
+                            "uuid": "C95EA845-BC44-4DCC-857D-B0257C48D480"
+                        }
+                    },
+                    "zoneBindingLink": {
+                        "@class": "BindingLink",
+                        "targetId": {
+                            "uuid": "8F56A003-4F1C-422F-8202-BC72C73CCF51"
+                        },
+                        "targetRelativeAddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 7,
+                            "name": "Trap_Base 8",
+                            "subaddress": {
+                                "@class": "NodeRelativeAddressBase",
+                                "index": 0,
+                                "name": "Trap_Pike_1m"
+                            }
+                        }
+                    },
+                    "allowed": false
+                },
+                {
+                    "@class": "AnimationTrigger",
+                    "id": {
+                        "uuid": "58B48853-E872-4F4C-8B91-67C6178E8B4F"
+                    },
+                    "ownerScriptId": {
+                        "uuid": "9AB3B445-E9AF-4D8A-B39C-5A148A2BE309"
+                    },
+                    "logicOperation": 1,
+                    "resultType": 0,
+                    "isInverted": false,
+                    "event": 2,
+                    "bindingLink": {
+                        "@class": "BindingLink",
+                        "targetId": {
+                            "uuid": "CFAE98DF-42B9-471E-934C-2BB5BB80463F"
+                        },
+                        "targetRelativeAddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 7,
+                            "name": "Trap_Base 8",
+                            "subaddress": {
+                                "@class": "NodeRelativeAddressBase",
+                                "index": 1,
+                                "name": "Attack"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "@class": "AnimationTrigger",
+            "id": {
+                "uuid": "6613C24E-265D-4765-ABA9-1EBD05542C2C"
+            },
+            "ownerScriptId": {
+                "uuid": "9AB3B445-E9AF-4D8A-B39C-5A148A2BE309"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "event": 3,
+            "bindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "CFAE98DF-42B9-471E-934C-2BB5BB80463F"
+                },
+                "targetRelativeAddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 7,
+                    "name": "Trap_Base 8",
+                    "subaddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 1,
+                        "name": "Attack"
+                    }
+                }
+            }
+        }
+    ]
+}
