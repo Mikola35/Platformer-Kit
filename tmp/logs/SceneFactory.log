@@ -126,3 +126,5 @@
 [12:38:58.044634] [SceneFactory] [info] (th=8397) Log level for 'SceneFactory' set to 'info'
 [12:38:59.310956] [SceneFactory] [info] (th=8397) GhostObject is created: id: 07605954-8EA9-45DA-B3F2-C565707299AD
 [15:49:11.830854] [SceneFactory] [info] (th=89865) Log level for 'SceneFactory' set to 'info'
+[19:23:07.433794] [SceneFactory] [info] (th=89865) Log level for 'SceneFactory' set to 'info'
+[19:23:07.434898] [SceneFactory] [info] (th=89865) GhostObject is created: id: F12ADA14-8F94-4CD7-8EB2-422E7465984A
