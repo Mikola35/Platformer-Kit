@@ -123,3 +123,5 @@
 [07:59:13.369452] [SceneFactory] [info] (th=18055) Sphere is created: id: 149626A3-8790-4CD0-87E7-CAD26117BA93
 [12:08:24.466677] [SceneFactory] [info] (th=74273) Log level for 'SceneFactory' set to 'info'
 [12:08:24.468094] [SceneFactory] [info] (th=74273) GhostObject is created: id: 1DCDC8E0-CAA5-4ADC-913D-D7FA93546AF5
+[12:38:58.044634] [SceneFactory] [info] (th=8397) Log level for 'SceneFactory' set to 'info'
+[12:38:59.310956] [SceneFactory] [info] (th=8397) GhostObject is created: id: 07605954-8EA9-45DA-B3F2-C565707299AD
