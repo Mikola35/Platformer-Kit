@@ -134,3 +134,7 @@
 [13:56:02.351902] [SceneFactory] [info] (th=188597) Cylinder is created: id: 9D9A501A-816A-4609-97B3-27F110020575
 [16:30:33.779173] [SceneFactory] [info] (th=254074) Log level for 'SceneFactory' set to 'info'
 [16:47:47.655974] [SceneFactory] [info] (th=254074) Sphere is created: id: 7ABFBA66-A1C1-444F-93DF-28583DD53F59
+[19:43:37.639750] [SceneFactory] [info] (th=2176668) Log level for 'SceneFactory' set to 'info'
+[19:43:37.639818] [SceneFactory] [info] (th=2176668) AudioSource is created: id: D718B4A7-7476-4347-8DA4-2D457B9B0BF2
+[20:50:29.359478] [SceneFactory] [info] (th=2256252) Log level for 'SceneFactory' set to 'info'
+[20:50:29.359560] [SceneFactory] [info] (th=2256252) AudioSource is created: id: CDADC1A4-BBC2-4ABF-9C95-6524A9963CED
