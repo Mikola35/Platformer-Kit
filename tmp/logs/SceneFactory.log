@@ -129,3 +129,8 @@
 [19:23:07.433794] [SceneFactory] [info] (th=89865) Log level for 'SceneFactory' set to 'info'
 [19:23:07.434898] [SceneFactory] [info] (th=89865) GhostObject is created: id: F12ADA14-8F94-4CD7-8EB2-422E7465984A
 [22:29:12.308030] [SceneFactory] [info] (th=22992) Log level for 'SceneFactory' set to 'info'
+[10:18:31.270212] [SceneFactory] [info] (th=63688) Log level for 'SceneFactory' set to 'info'
+[13:56:02.351141] [SceneFactory] [info] (th=188597) Log level for 'SceneFactory' set to 'info'
+[13:56:02.351902] [SceneFactory] [info] (th=188597) Cylinder is created: id: 9D9A501A-816A-4609-97B3-27F110020575
+[16:30:33.779173] [SceneFactory] [info] (th=254074) Log level for 'SceneFactory' set to 'info'
+[16:47:47.655974] [SceneFactory] [info] (th=254074) Sphere is created: id: 7ABFBA66-A1C1-444F-93DF-28583DD53F59
