@@ -138,3 +138,5 @@
 [19:43:37.639818] [SceneFactory] [info] (th=2176668) AudioSource is created: id: D718B4A7-7476-4347-8DA4-2D457B9B0BF2
 [20:50:29.359478] [SceneFactory] [info] (th=2256252) Log level for 'SceneFactory' set to 'info'
 [20:50:29.359560] [SceneFactory] [info] (th=2256252) AudioSource is created: id: CDADC1A4-BBC2-4ABF-9C95-6524A9963CED
+[22:43:59.091509] [SceneFactory] [info] (th=114832) Log level for 'SceneFactory' set to 'info'
+[22:53:57.269410] [SceneFactory] [info] (th=114832) Box is created: id: 6C014376-2892-4ADE-B50F-F7E27821E9A4
