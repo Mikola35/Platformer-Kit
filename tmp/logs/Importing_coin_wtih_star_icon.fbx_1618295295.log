@@ -1,0 +1,52 @@
+[08:28:15.650532] [Import] [info] (th=536730) Log level for 'Import' set to 'info'
+[08:28:15.651448] [Import] [info] (th=536730) Importing from /Users/nikolay/Documents/Models/coin_wtih_star_icon.fbx
+[08:28:15.667421] [Import] [info] (th=536730) Imported scene tree:
+name: "RootNode"
+
+	name: "Circle"
+	numMeshes: 1
+	 addr: "0x7f8cb701b600"
+	 name: "Circle"
+	 numVertices: "932"
+	 numFaces: "548"
+	
+	
+
+[08:28:15.667434] [Import] [info] (th=536730) File loaded successfully
+[08:28:15.667442] [Import] [info] (th=536730) Meshes count: 1
+[08:28:15.667444] [Import] [info] (th=536730) Materials count: 1
+[08:28:15.669644] [Import] [info] (th=536730) Textures count (imported): 0
+[08:50:41.307474] [Import] [info] (th=536730) Importing from /Users/nikolay/Documents/Models/coin_wtih_star_icon.fbx
+[08:50:41.309655] [Import] [info] (th=536730) Imported scene tree:
+name: "RootNode"
+
+	name: "coin"
+	numMeshes: 1
+	 addr: "0x7f8cb73d0c00"
+	 name: "coin"
+	 numVertices: "606"
+	 numFaces: "612"
+	
+	
+
+[08:50:41.309659] [Import] [info] (th=536730) File loaded successfully
+[08:50:41.309663] [Import] [info] (th=536730) Meshes count: 1
+[08:50:41.309664] [Import] [info] (th=536730) Materials count: 1
+[08:50:41.309722] [Import] [info] (th=536730) Textures count (imported): 0
+[08:51:30.322650] [Import] [info] (th=536730) Importing from /Users/nikolay/Documents/Models/coin_wtih_star_icon.fbx
+[08:51:30.324184] [Import] [info] (th=536730) Imported scene tree:
+name: "RootNode"
+
+	name: "coin"
+	numMeshes: 1
+	 addr: "0x7f8cb630b000"
+	 name: "coin"
+	 numVertices: "606"
+	 numFaces: "612"
+	
+	
+
+[08:51:30.324190] [Import] [info] (th=536730) File loaded successfully
+[08:51:30.324193] [Import] [info] (th=536730) Meshes count: 1
+[08:51:30.324194] [Import] [info] (th=536730) Materials count: 1
+[08:51:30.324224] [Import] [info] (th=536730) Textures count (imported): 0
