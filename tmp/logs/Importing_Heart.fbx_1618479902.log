@@ -1,0 +1,52 @@
+[11:45:02.006745] [Import] [info] (th=3049) Log level for 'Import' set to 'info'
+[11:45:02.007460] [Import] [info] (th=3049) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Simple Props/Heart.fbx
+[11:45:02.024571] [Import] [info] (th=3049) Imported scene tree:
+name: "RootNode"
+
+	name: "Diamond"
+	numMeshes: 1
+	 addr: "0x7fa64f0ee800"
+	 name: "Heart.001"
+	 numVertices: "584"
+	 numFaces: "392"
+	
+	
+
+[11:45:02.024583] [Import] [info] (th=3049) File loaded successfully
+[11:45:02.024599] [Import] [info] (th=3049) Meshes count: 1
+[11:45:02.024601] [Import] [info] (th=3049) Materials count: 1
+[11:45:02.024697] [Import] [info] (th=3049) Textures count (imported): 0
+[11:45:06.262800] [Import] [info] (th=3049) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Simple Props/Diamond.fbx
+[11:45:06.264650] [Import] [info] (th=3049) Imported scene tree:
+name: "RootNode"
+
+	name: "Diamond.001"
+	numMeshes: 1
+	 addr: "0x7fa64b45e400"
+	 name: "Circle.002"
+	 numVertices: "106"
+	 numFaces: "64"
+	
+	
+
+[11:45:06.264661] [Import] [info] (th=3049) File loaded successfully
+[11:45:06.264683] [Import] [info] (th=3049) Meshes count: 1
+[11:45:06.264685] [Import] [info] (th=3049) Materials count: 1
+[11:45:06.264733] [Import] [info] (th=3049) Textures count (imported): 0
+[11:45:09.112526] [Import] [info] (th=3049) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Simple Props/Ruby.fbx
+[11:45:09.114049] [Import] [info] (th=3049) Imported scene tree:
+name: "RootNode"
+
+	name: "Ruby"
+	numMeshes: 1
+	 addr: "0x7fa64e96ca00"
+	 name: "Ruby"
+	 numVertices: "124"
+	 numFaces: "64"
+	
+	
+
+[11:45:09.114059] [Import] [info] (th=3049) File loaded successfully
+[11:45:09.114063] [Import] [info] (th=3049) Meshes count: 1
+[11:45:09.114074] [Import] [info] (th=3049) Materials count: 1
+[11:45:09.114113] [Import] [info] (th=3049) Textures count (imported): 0
