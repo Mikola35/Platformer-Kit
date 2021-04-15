@@ -1,0 +1,131 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "986D2F7A-F33C-4FAE-8461-9A20FE1CC22D"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "D0EC0555-B856-4D11-AA39-A21BC5E9EB53"
+                },
+                "name": "Crystal_01",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "E2FE1777-243E-4557-816E-A682A1ED65A3"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 32,
+                        "name": "Crystal 25"
+                    }
+                },
+                "animation": {
+                    "uuid": "BB5D711F-0E95-4AEE-B055-2F467969AD3A"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "6E450A51-1D96-4D71-8530-C637F667F78B"
+                },
+                "name": "Crystal",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "27D0C0D7-2180-44EF-AC48-24893580338D"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 32,
+                        "name": "Crystal 25",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 0,
+                            "name": "Crystal"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "9A648A65-5A39-4362-8705-3D46D079BB30"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "3072A139-5902-412D-9278-42E026AE467B"
+                },
+                "name": "Master Sound",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink"
+                },
+                "animation": {
+                    "uuid": "7EAFCFE2-577D-4077-B144-4764E68EFB35"
+                },
+                "AnimationType": "masterSound",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "4C2E3B46-504F-4BBB-ADF2-B9740D21B49B"
+            },
+            "ownerScriptId": {
+                "uuid": "986D2F7A-F33C-4FAE-8461-9A20FE1CC22D"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "in",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "C95EA845-BC44-4DCC-857D-B0257C48D480"
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "27D0C0D7-2180-44EF-AC48-24893580338D"
+                },
+                "targetRelativeAddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 32,
+                    "name": "Crystal 25",
+                    "subaddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 0,
+                        "name": "Crystal"
+                    }
+                }
+            },
+            "allowed": false
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "9C4B328D-C8C4-41CA-8219-39433B32D05C"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": true,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "E36ADB34-1A99-4CD4-9DF4-F66DB10EFA90"
+                },
+                "name": "Crystal_02",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "0587B8D1-B71D-495F-AAFB-FB7E7CC2FDCF"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 33,
+                        "name": "Crystal 26",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 0,
+                            "name": "Crystal"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "A0A51338-89C5-49FB-BB9A-9444BDD98BFF"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "StartTrigger",
+            "id": {
+                "uuid": "4DDC669B-0FB8-483B-A899-7DDA4D9A9C08"
+            },
+            "ownerScriptId": {
+                "uuid": "9C4B328D-C8C4-41CA-8219-39433B32D05C"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false
+        }
+    ]
+}

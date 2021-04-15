@@ -1,0 +1,11 @@
+{
+    "@class": "SoundSample",
+    "id": {
+        "uuid": "1DF5D06D-0AC7-4CEE-8E44-3A8F651B299D"
+    },
+    "name": "003.wav",
+    "filePath": "003.wav",
+    "duration": 915.7369384765625,
+    "channels": 2,
+    "frequence": 44100
+}

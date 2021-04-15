@@ -1,0 +1,18 @@
+[11:09:16.557682] [Import] [info] (th=380013) Log level for 'Import' set to 'info'
+[11:09:16.558163] [Import] [info] (th=380013) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Simple Props/Diamond.fbx
+[11:09:16.594564] [Import] [info] (th=380013) Imported scene tree:
+name: "RootNode"
+
+	name: "Diamond.001"
+	numMeshes: 1
+	 addr: "0x7ff3a7913600"
+	 name: "Circle.002"
+	 numVertices: "106"
+	 numFaces: "64"
+	
+	
+
+[11:09:16.594587] [Import] [info] (th=380013) File loaded successfully
+[11:09:16.594625] [Import] [info] (th=380013) Meshes count: 1
+[11:09:16.594630] [Import] [info] (th=380013) Materials count: 1
+[11:09:16.595615] [Import] [warning] (th=380013) It seems that scene structure is different
