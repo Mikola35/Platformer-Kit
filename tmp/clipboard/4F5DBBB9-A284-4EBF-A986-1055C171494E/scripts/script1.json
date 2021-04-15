@@ -1,0 +1,90 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "49BDC444-DFBC-4B71-9DF3-29E23619EFAB"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": true,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "88A3FAD1-55A3-4CAD-9C10-1CBD8F5672D5"
+                },
+                "name": "Trap_Gear_2_5m",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "269D91E5-7EA5-49B1-A658-EF7D846DDBDE"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 0,
+                        "name": "Trap_Saw"
+                    }
+                },
+                "animation": {
+                    "uuid": "4F5C3C65-E373-4C0D-A892-49ADDD279708"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "F40DDA0D-341C-4EFD-925B-070EC0CA0180"
+                },
+                "name": "Speaker",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "D718B4A7-7476-4347-8DA4-2D457B9B0BF2"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 0,
+                        "name": "Trap_Saw",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 3,
+                            "name": "Speaker"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "6A4ECC43-4B28-445D-BEBD-3102CE6A65AE"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "StartTrigger",
+            "id": {
+                "uuid": "127EDEE3-A100-4733-9AE4-4FBF05661B5C"
+            },
+            "ownerScriptId": {
+                "uuid": "49BDC444-DFBC-4B71-9DF3-29E23619EFAB"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false
+        }
+    ]
+}

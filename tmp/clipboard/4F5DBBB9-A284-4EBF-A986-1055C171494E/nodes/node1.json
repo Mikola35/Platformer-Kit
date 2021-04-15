@@ -1,0 +1,73 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "BF9650C9-BBEC-405F-8189-77D5F9902A0B"
+            },
+            "name": "Move",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "49BDC444-DFBC-4B71-9DF3-29E23619EFAB"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.0,
+                        0.0,
+                        -4.1723257027115326e-7,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        4.1723257027115326e-7,
+                        0.0,
+                        -1.0,
+                        0.0,
+                        20.25,
+                        3.8981268405914308,
+                        0.000015869736671447755,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "0FB30D3E-BCAF-4DF8-8941-B54E07201F36"
+        },
+        "is_asset_root": false
+    }
+]

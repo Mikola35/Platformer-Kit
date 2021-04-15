@@ -1,0 +1,171 @@
+[17:30:52.204049] [Import] [info] (th=260833) Log level for 'Import' set to 'info'
+[17:30:52.204793] [Import] [info] (th=260833) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Diamond.fbx
+[17:30:52.217668] [Import] [info] (th=260833) Imported scene tree:
+name: "RootNode"
+
+	name: "Diamond.001"
+	numMeshes: 1
+	 addr: "0x7fda2d091c00"
+	 name: "Circle.002"
+	 numVertices: "106"
+	 numFaces: "64"
+	
+	
+
+[17:30:52.217678] [Import] [info] (th=260833) File loaded successfully
+[17:30:52.217686] [Import] [info] (th=260833) Meshes count: 1
+[17:30:52.217687] [Import] [info] (th=260833) Materials count: 1
+[17:30:52.218319] [Import] [warning] (th=260833) It seems that scene structure is different
+[17:31:02.543224] [Import] [info] (th=260833) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Diamond.fbx
+[17:31:02.544360] [Import] [info] (th=260833) Imported scene tree:
+name: "RootNode"
+
+	name: "Diamond.001"
+	numMeshes: 1
+	 addr: "0x7fda2b097800"
+	 name: "Circle.002"
+	 numVertices: "106"
+	 numFaces: "64"
+	
+	
+
+[17:31:02.544368] [Import] [info] (th=260833) File loaded successfully
+[17:31:02.544381] [Import] [info] (th=260833) Meshes count: 1
+[17:31:02.544382] [Import] [info] (th=260833) Materials count: 1
+[17:31:02.544393] [Import] [warning] (th=260833) It seems that scene structure is different
+[17:31:06.978224] [Import] [info] (th=260833) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Heart.fbx
+[17:31:06.980362] [Import] [info] (th=260833) Imported scene tree:
+name: "RootNode"
+
+	name: "Diamond"
+	numMeshes: 1
+	 addr: "0x7fda250fc000"
+	 name: "Heart.001"
+	 numVertices: "584"
+	 numFaces: "392"
+	
+	
+
+[17:31:06.980374] [Import] [info] (th=260833) File loaded successfully
+[17:31:06.980380] [Import] [info] (th=260833) Meshes count: 1
+[17:31:06.980385] [Import] [info] (th=260833) Materials count: 1
+[17:31:06.980414] [Import] [warning] (th=260833) It seems that scene structure is different
+[17:31:12.367815] [Import] [info] (th=260833) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Ruby.fbx
+[17:31:12.368827] [Import] [info] (th=260833) Imported scene tree:
+name: "RootNode"
+
+	name: "Ruby"
+	numMeshes: 1
+	 addr: "0x7fda1688f400"
+	 name: "Ruby"
+	 numVertices: "124"
+	 numFaces: "64"
+	
+	
+
+[17:31:12.368835] [Import] [info] (th=260833) File loaded successfully
+[17:31:12.368840] [Import] [info] (th=260833) Meshes count: 1
+[17:31:12.368846] [Import] [info] (th=260833) Materials count: 1
+[17:31:12.368860] [Import] [warning] (th=260833) It seems that scene structure is different
+[17:36:25.912226] [Import] [info] (th=260833) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Diamond.fbx
+[17:36:25.927211] [Import] [info] (th=260833) Imported scene tree:
+name: "RootNode"
+
+	name: "Diamond.001"
+	numMeshes: 1
+	 addr: "0x7fda251eb600"
+	 name: "Circle.002"
+	 numVertices: "106"
+	 numFaces: "64"
+	
+	
+
+[17:36:25.927222] [Import] [info] (th=260833) File loaded successfully
+[17:36:25.927237] [Import] [info] (th=260833) Meshes count: 1
+[17:36:25.927239] [Import] [info] (th=260833) Materials count: 1
+[17:36:25.928333] [Import] [warning] (th=260833) It seems that scene structure is different
+[17:36:30.466194] [Import] [info] (th=260833) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Heart.fbx
+[17:36:30.468341] [Import] [info] (th=260833) Imported scene tree:
+name: "RootNode"
+
+	name: "Diamond"
+	numMeshes: 1
+	 addr: "0x7fda1517cc00"
+	 name: "Heart.001"
+	 numVertices: "584"
+	 numFaces: "392"
+	
+	
+
+[17:36:30.468353] [Import] [info] (th=260833) File loaded successfully
+[17:36:30.468358] [Import] [info] (th=260833) Meshes count: 1
+[17:36:30.468361] [Import] [info] (th=260833) Materials count: 1
+[17:36:30.468374] [Import] [warning] (th=260833) It seems that scene structure is different
+[17:36:39.365618] [Import] [info] (th=260833) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Ruby.fbx
+[17:36:39.366645] [Import] [info] (th=260833) Imported scene tree:
+name: "RootNode"
+
+	name: "Ruby"
+	numMeshes: 1
+	 addr: "0x7fda250bc200"
+	 name: "Ruby"
+	 numVertices: "124"
+	 numFaces: "64"
+	
+	
+
+[17:36:39.366651] [Import] [info] (th=260833) File loaded successfully
+[17:36:39.366663] [Import] [info] (th=260833) Meshes count: 1
+[17:36:39.366665] [Import] [info] (th=260833) Materials count: 1
+[17:36:39.366674] [Import] [warning] (th=260833) It seems that scene structure is different
+[17:40:03.390684] [Import] [info] (th=260833) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Heart.fbx
+[17:40:03.391960] [Import] [info] (th=260833) Imported scene tree:
+name: "RootNode"
+
+	name: "Diamond"
+	numMeshes: 1
+	 addr: "0x7fda33397c00"
+	 name: "Heart.001"
+	 numVertices: "584"
+	 numFaces: "392"
+	
+	
+
+[17:40:03.391968] [Import] [info] (th=260833) File loaded successfully
+[17:40:03.391971] [Import] [info] (th=260833) Meshes count: 1
+[17:40:03.391972] [Import] [info] (th=260833) Materials count: 1
+[17:40:03.391983] [Import] [warning] (th=260833) It seems that scene structure is different
+[17:40:08.342289] [Import] [info] (th=260833) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Ruby.fbx
+[17:40:08.343232] [Import] [info] (th=260833) Imported scene tree:
+name: "RootNode"
+
+	name: "Ruby"
+	numMeshes: 1
+	 addr: "0x7fda3348f000"
+	 name: "Ruby"
+	 numVertices: "124"
+	 numFaces: "64"
+	
+	
+
+[17:40:08.343240] [Import] [info] (th=260833) File loaded successfully
+[17:40:08.343254] [Import] [info] (th=260833) Meshes count: 1
+[17:40:08.343255] [Import] [info] (th=260833) Materials count: 1
+[17:40:08.343266] [Import] [warning] (th=260833) It seems that scene structure is different
+[17:40:15.749133] [Import] [info] (th=260833) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Diamond.fbx
+[17:40:15.749984] [Import] [info] (th=260833) Imported scene tree:
+name: "RootNode"
+
+	name: "Diamond.001"
+	numMeshes: 1
+	 addr: "0x7fda14695600"
+	 name: "Circle.002"
+	 numVertices: "106"
+	 numFaces: "64"
+	
+	
+
+[17:40:15.749992] [Import] [info] (th=260833) File loaded successfully
+[17:40:15.750006] [Import] [info] (th=260833) Meshes count: 1
+[17:40:15.750007] [Import] [info] (th=260833) Materials count: 1
+[17:40:15.750048] [Import] [warning] (th=260833) It seems that scene structure is different

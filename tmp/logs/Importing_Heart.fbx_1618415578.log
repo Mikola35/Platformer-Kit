@@ -1,0 +1,197 @@
+[17:52:58.811573] [Import] [info] (th=270309) Log level for 'Import' set to 'info'
+[17:52:58.811939] [Import] [info] (th=270309) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Simple Props/Heart.fbx
+[17:52:58.814103] [Import] [info] (th=270309) Imported scene tree:
+name: "RootNode"
+
+	name: "Diamond"
+	numMeshes: 1
+	 addr: "0x7faf49ace800"
+	 name: "Heart.001"
+	 numVertices: "584"
+	 numFaces: "392"
+	
+	
+
+[17:52:58.814111] [Import] [info] (th=270309) File loaded successfully
+[17:52:58.814117] [Import] [info] (th=270309) Meshes count: 1
+[17:52:58.814118] [Import] [info] (th=270309) Materials count: 1
+[17:52:58.814144] [Import] [warning] (th=270309) It seems that scene structure is different
+[17:53:17.029977] [Import] [info] (th=270309) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Simple Props/Diamond.fbx
+[17:53:17.032295] [Import] [info] (th=270309) Imported scene tree:
+name: "RootNode"
+
+	name: "Diamond.001"
+	numMeshes: 1
+	 addr: "0x7faf5a2cd400"
+	 name: "Circle.002"
+	 numVertices: "106"
+	 numFaces: "64"
+	
+	
+
+[17:53:17.032317] [Import] [info] (th=270309) File loaded successfully
+[17:53:17.032354] [Import] [info] (th=270309) Meshes count: 1
+[17:53:17.032416] [Import] [info] (th=270309) Materials count: 1
+[17:53:17.032440] [Import] [warning] (th=270309) It seems that scene structure is different
+[17:53:31.170890] [Import] [info] (th=270309) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Models/Simple Props/Ruby.fbx
+[17:53:31.173344] [Import] [info] (th=270309) Imported scene tree:
+name: "RootNode"
+
+	name: "Ruby"
+	numMeshes: 1
+	 addr: "0x7faf592de800"
+	 name: "Ruby"
+	 numVertices: "124"
+	 numFaces: "64"
+	
+	
+
+[17:53:31.173363] [Import] [info] (th=270309) File loaded successfully
+[17:53:31.173372] [Import] [info] (th=270309) Meshes count: 1
+[17:53:31.173375] [Import] [info] (th=270309) Materials count: 1
+[17:53:31.173392] [Import] [warning] (th=270309) It seems that scene structure is different
+[17:55:37.467791] [Import] [info] (th=270309) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Character/Generic_male_base.fbx
+[17:55:37.517135] [Import] [info] (th=270309) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb4.L"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index4.L"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle4.L"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring4.L"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky4.L"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb4.R"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index4.R"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle4.R"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring4.R"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky4.R"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+	name: "G_male_base"
+	numMeshes: 1
+	 addr: "0x7faf4aa62c00"
+	 name: "Mesh.001"
+	 numVertices: "12719"
+	 numFaces: "19252"
+	
+	
+
+[17:55:37.517160] [Import] [info] (th=270309) File loaded successfully
+[17:55:37.517165] [Import] [info] (th=270309) Meshes count: 1
+[17:55:37.517166] [Import] [info] (th=270309) Materials count: 1
+[17:55:37.522328] [Import] [info] (th=270309) Textures count (imported): 2

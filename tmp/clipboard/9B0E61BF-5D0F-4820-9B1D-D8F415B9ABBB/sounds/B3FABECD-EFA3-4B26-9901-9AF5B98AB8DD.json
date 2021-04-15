@@ -1,0 +1,11 @@
+{
+    "@class": "SoundSample",
+    "id": {
+        "uuid": "B3FABECD-EFA3-4B26-9901-9AF5B98AB8DD"
+    },
+    "name": "Door-Handle-Open-01.wav.mp3",
+    "filePath": "Door-Handle-Open-01.wav.mp3",
+    "duration": 457.8125,
+    "channels": 1,
+    "frequence": 48000
+}
